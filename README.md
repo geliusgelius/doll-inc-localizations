@@ -1,7 +1,7 @@
 # doll-impostor-localizations
 
 Use this tool for translate
-https://localization.headarrow.com/
+https://localization-po.headarrow.com/
 
 Use this file for upload in to tool as base file
 https://github.com/davicyyo/doll-inc-localizations/blob/main/en.json
