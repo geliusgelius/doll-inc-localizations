@@ -4,7 +4,7 @@ Use this tool for translate
 https://localization-po.headarrow.com/
 
 Use this file for upload in to tool as base file
-https://github.com/davicyyo/doll-inc-localizations/blob/main/en.json
+https://github.com/davicyyo/doll-inc-localizations/blob/main/en/Game.po
 
 # HOW TO UP CHANGES
 
