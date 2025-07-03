@@ -4522,7 +4522,7 @@ msgstr "Vị trí của bạn trên bảng xếp hạng toàn cầu đã chuyể
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
 msgctxt ",55629B96416054C818FE55A294A5FB39"
 msgid "Day {day}"
-msgstr "Ngày {ngày}"
+msgstr "Ngày {day}"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
 #. Key:	893AB056448350D850544BB2AAB12261
@@ -4815,7 +4815,7 @@ msgstr "bạc"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",714F65F54D7380CA5901E88E2486E744"
 msgid "Bonus x{days} days"
-msgstr "Phần thưởng x {ngày} ngày"
+msgstr "Phần thưởng x {days} ngày"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 #. Key:	91C64E1843DAEB390615F2BB0B324A08
@@ -4836,7 +4836,7 @@ msgstr "Đồng"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",DA7BD99B417258A6EA02EE94328FD895"
 msgid "Bonus x{multiplier} by {medal}"
-msgstr "Phần thưởng x {Multiplier} bởi {Medal}"
+msgstr "Phần thưởng x {multiplier} bởi {medal}"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:WidgetTree.TextBlock_268.Text
 #. Key:	7ABC79D347782118DE1FB48DD89D4093
@@ -4960,7 +4960,7 @@ msgstr "Huy chương bạc"
 #. SourceLocation:	/Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_1 [Script Bytecode]
 msgctxt ",C81503CF43A9272426CF27826CEBBA95"
 msgid "Next product: {time}s"
-msgstr "Sản phẩm tiếp theo: {thời gian} s"
+msgstr "Sản phẩm tiếp theo: {time} s"
 
 #: /Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_1 [Script Bytecode]
 #. Key:	C9D5D5854D8FB00A0918C2B45E6DDE45
@@ -6422,7 +6422,7 @@ msgstr "Tên trường hợp: {name}"
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/order.order_C:GetText_0 [Script Bytecode]
 msgctxt ",5D31987A457E85825928D4A8D13324FF"
 msgid "Order #{order}"
-msgstr "Đặt hàng #{đơn hàng}"
+msgstr "Đặt hàng #{order}"
 
 #: /Game/QualityCheck/UI/tablet/order.order_C:WidgetTree.TextBlock_4.Text
 #. Key:	59A8D4564806C5D0F3C6BE9D91066181

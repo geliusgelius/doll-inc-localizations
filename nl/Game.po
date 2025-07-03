@@ -4528,7 +4528,7 @@ msgstr "Uw positie op het wereldwijde leaderboard is verschoven van {x} naar {y}
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
 msgctxt ",55629B96416054C818FE55A294A5FB39"
 msgid "Day {day}"
-msgstr "Dag {dag}"
+msgstr "Dag {day}"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
 #. Key:	893AB056448350D850544BB2AAB12261
@@ -4821,7 +4821,7 @@ msgstr "zilver"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",714F65F54D7380CA5901E88E2486E744"
 msgid "Bonus x{days} days"
-msgstr "Bonus x {dagen} dagen"
+msgstr "Bonus x {days} dagen"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 #. Key:	91C64E1843DAEB390615F2BB0B324A08
@@ -4842,7 +4842,7 @@ msgstr "bronzen"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",DA7BD99B417258A6EA02EE94328FD895"
 msgid "Bonus x{multiplier} by {medal}"
-msgstr "Bonus x {multiplier} door {medaille}"
+msgstr "Bonus x {multiplier} door {medal}"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:WidgetTree.TextBlock_268.Text
 #. Key:	7ABC79D347782118DE1FB48DD89D4093
@@ -4966,7 +4966,7 @@ msgstr "Zilveren medaille"
 #. SourceLocation:	/Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_1 [Script Bytecode]
 msgctxt ",C81503CF43A9272426CF27826CEBBA95"
 msgid "Next product: {time}s"
-msgstr "Volgende product: {Time} s"
+msgstr "Volgende product: {time} s"
 
 #: /Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_1 [Script Bytecode]
 #. Key:	C9D5D5854D8FB00A0918C2B45E6DDE45

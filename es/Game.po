@@ -4530,7 +4530,7 @@ msgstr "Tu posición en la tabla de clasificación global ha cambiado de {x} a {
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
 msgctxt ",55629B96416054C818FE55A294A5FB39"
 msgid "Day {day}"
-msgstr "Día {día}"
+msgstr "Día {day}"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
 #. Key:	893AB056448350D850544BB2AAB12261
@@ -4846,7 +4846,7 @@ msgstr "bronce"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",DA7BD99B417258A6EA02EE94328FD895"
 msgid "Bonus x{multiplier} by {medal}"
-msgstr "Bonus x {multiplicador} por {medalla}"
+msgstr "Bonus x {multiplier} por {medal}"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:WidgetTree.TextBlock_268.Text
 #. Key:	7ABC79D347782118DE1FB48DD89D4093

@@ -283,7 +283,7 @@ msgstr "切换机器人"
 #. SourceLocation:	/Game/QualityCheck/functions/orderFunctions.orderFunctions_C:generateOrder [Script Bytecode]
 msgctxt ",110C6C1B4CF0A0E6C0F317B2CDC7939E"
 msgid "{name}'s robot"
-msgstr "{名称}的机器人"
+msgstr "{name}的机器人"
 
 #: /Game/QualityCheck/functions/orderFunctions.orderFunctions_C:generateOrder [Script Bytecode]
 #. Key:	50B538004C020CD6B4559F8CE5F0A2BA
@@ -4717,7 +4717,7 @@ msgstr "银"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",714F65F54D7380CA5901E88E2486E744"
 msgid "Bonus x{days} days"
-msgstr "奖励x {天}天"
+msgstr "{days}天的奖励"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 #. Key:	91C64E1843DAEB390615F2BB0B324A08
@@ -4738,7 +4738,7 @@ msgstr "青铜"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",DA7BD99B417258A6EA02EE94328FD895"
 msgid "Bonus x{multiplier} by {medal}"
-msgstr "{Medal}的奖励X {乘数}"
+msgstr "{medal}的奖励x{multiplier}"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:WidgetTree.TextBlock_268.Text
 #. Key:	7ABC79D347782118DE1FB48DD89D4093

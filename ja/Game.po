@@ -4717,7 +4717,7 @@ msgstr "銀"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",714F65F54D7380CA5901E88E2486E744"
 msgid "Bonus x{days} days"
-msgstr "ボーナスX {日}日"
+msgstr "ボーナスX {days}日"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 #. Key:	91C64E1843DAEB390615F2BB0B324A08
@@ -4738,7 +4738,7 @@ msgstr "ブロンズ"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",DA7BD99B417258A6EA02EE94328FD895"
 msgid "Bonus x{multiplier} by {medal}"
-msgstr "{メダル} by bonus x {Multiplier}"
+msgstr "ボーナスX {multiplier} {medal}による"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:WidgetTree.TextBlock_268.Text
 #. Key:	7ABC79D347782118DE1FB48DD89D4093
@@ -4862,7 +4862,7 @@ msgstr "銀メダル"
 #. SourceLocation:	/Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_1 [Script Bytecode]
 msgctxt ",C81503CF43A9272426CF27826CEBBA95"
 msgid "Next product: {time}s"
-msgstr "次の製品：{Time} s"
+msgstr "次の製品：{time}s"
 
 #: /Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_1 [Script Bytecode]
 #. Key:	C9D5D5854D8FB00A0918C2B45E6DDE45
@@ -6294,7 +6294,7 @@ msgstr "ケースの名前：{name}"
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/order.order_C:GetText_0 [Script Bytecode]
 msgctxt ",5D31987A457E85825928D4A8D13324FF"
 msgid "Order #{order}"
-msgstr "注文＃{注文}"
+msgstr "注文＃{order}"
 
 #: /Game/QualityCheck/UI/tablet/order.order_C:WidgetTree.TextBlock_4.Text
 #. Key:	59A8D4564806C5D0F3C6BE9D91066181

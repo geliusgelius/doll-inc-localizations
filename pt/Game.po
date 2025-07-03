@@ -283,14 +283,14 @@ msgstr "Alternar o robô"
 #. SourceLocation:	/Game/QualityCheck/functions/orderFunctions.orderFunctions_C:generateOrder [Script Bytecode]
 msgctxt ",110C6C1B4CF0A0E6C0F317B2CDC7939E"
 msgid "{name}'s robot"
-msgstr "{Name} de robô"
+msgstr "{name} de robô"
 
 #: /Game/QualityCheck/functions/orderFunctions.orderFunctions_C:generateOrder [Script Bytecode]
 #. Key:	50B538004C020CD6B4559F8CE5F0A2BA
 #. SourceLocation:	/Game/QualityCheck/functions/orderFunctions.orderFunctions_C:generateOrder [Script Bytecode]
 msgctxt ",50B538004C020CD6B4559F8CE5F0A2BA"
 msgid "{name}'s case"
-msgstr "{Nome} de caso"
+msgstr "{name} de caso"
 
 #: /Game/QualityCheck/functions/textFunctions.textFunctions_C:getText [Script Bytecode]
 #. Key:	77A0EAF3485985870BFAACAB468F43BA
@@ -4520,7 +4520,7 @@ msgstr "Sua posição na tabela de líderes global mudou de {x} para {y}."
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
 msgctxt ",55629B96416054C818FE55A294A5FB39"
 msgid "Day {day}"
-msgstr "Dia {dia}"
+msgstr "Dia {day}"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
 #. Key:	893AB056448350D850544BB2AAB12261
@@ -4815,7 +4815,7 @@ msgstr "prata"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",714F65F54D7380CA5901E88E2486E744"
 msgid "Bonus x{days} days"
-msgstr "Bônus x {dias} dias"
+msgstr "Bônus x {days} dias"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 #. Key:	91C64E1843DAEB390615F2BB0B324A08
@@ -4836,7 +4836,7 @@ msgstr "bronze"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",DA7BD99B417258A6EA02EE94328FD895"
 msgid "Bonus x{multiplier} by {medal}"
-msgstr "Bônus x {multiplicador} por {medalha}"
+msgstr "Bônus x {multiplier} por {medal}"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:WidgetTree.TextBlock_268.Text
 #. Key:	7ABC79D347782118DE1FB48DD89D4093
@@ -6415,14 +6415,14 @@ msgstr "ESCREVER"
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/order.order_C:GetText [Script Bytecode]
 msgctxt ",F54CE9DA42C11B543660619823F77D1D"
 msgid "Case's name: {name}"
-msgstr "Nome do caso: {nome}"
+msgstr "Nome do caso: {name}"
 
 #: /Game/QualityCheck/UI/tablet/order.order_C:GetText_0 [Script Bytecode]
 #. Key:	5D31987A457E85825928D4A8D13324FF
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/order.order_C:GetText_0 [Script Bytecode]
 msgctxt ",5D31987A457E85825928D4A8D13324FF"
 msgid "Order #{order}"
-msgstr "Ordem #{ordem}"
+msgstr "Ordem #{order}"
 
 #: /Game/QualityCheck/UI/tablet/order.order_C:WidgetTree.TextBlock_4.Text
 #. Key:	59A8D4564806C5D0F3C6BE9D91066181

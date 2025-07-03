@@ -4512,7 +4512,7 @@ msgstr "Ваша позиция в глобальном таблице лиде�
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
 msgctxt ",55629B96416054C818FE55A294A5FB39"
 msgid "Day {day}"
-msgstr "День {день}"
+msgstr "День {day}"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
 #. Key:	893AB056448350D850544BB2AAB12261
@@ -4809,7 +4809,7 @@ msgstr "серебро"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",714F65F54D7380CA5901E88E2486E744"
 msgid "Bonus x{days} days"
-msgstr "Бонус x {Дни} Дни"
+msgstr "Бонус x {days} Дни"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 #. Key:	91C64E1843DAEB390615F2BB0B324A08
@@ -4830,7 +4830,7 @@ msgstr "бронза"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",DA7BD99B417258A6EA02EE94328FD895"
 msgid "Bonus x{multiplier} by {medal}"
-msgstr "Бонус x {Multiplier} by {Medal}"
+msgstr "Бонус x {multiplier} by {medal}"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:WidgetTree.TextBlock_268.Text
 #. Key:	7ABC79D347782118DE1FB48DD89D4093
@@ -4954,7 +4954,7 @@ msgstr "Серебряная медаль"
 #. SourceLocation:	/Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_1 [Script Bytecode]
 msgctxt ",C81503CF43A9272426CF27826CEBBA95"
 msgid "Next product: {time}s"
-msgstr "Следующий продукт: {время} s"
+msgstr "Следующий продукт: {time} s"
 
 #: /Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_1 [Script Bytecode]
 #. Key:	C9D5D5854D8FB00A0918C2B45E6DDE45
@@ -6409,14 +6409,14 @@ msgstr "ПИСАТЬ"
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/order.order_C:GetText [Script Bytecode]
 msgctxt ",F54CE9DA42C11B543660619823F77D1D"
 msgid "Case's name: {name}"
-msgstr "Имя дела: {имя}"
+msgstr "Имя дела: {name}"
 
 #: /Game/QualityCheck/UI/tablet/order.order_C:GetText_0 [Script Bytecode]
 #. Key:	5D31987A457E85825928D4A8D13324FF
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/order.order_C:GetText_0 [Script Bytecode]
 msgctxt ",5D31987A457E85825928D4A8D13324FF"
 msgid "Order #{order}"
-msgstr "Заказ #{Порядок}"
+msgstr "Заказ #{order}"
 
 #: /Game/QualityCheck/UI/tablet/order.order_C:WidgetTree.TextBlock_4.Text
 #. Key:	59A8D4564806C5D0F3C6BE9D91066181

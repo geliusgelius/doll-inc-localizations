@@ -283,7 +283,7 @@ msgstr "สลับหุ่นยนต์"
 #. SourceLocation:	/Game/QualityCheck/functions/orderFunctions.orderFunctions_C:generateOrder [Script Bytecode]
 msgctxt ",110C6C1B4CF0A0E6C0F317B2CDC7939E"
 msgid "{name}'s robot"
-msgstr "หุ่นยนต์ {Name}"
+msgstr "หุ่นยนต์ {name}"
 
 #: /Game/QualityCheck/functions/orderFunctions.orderFunctions_C:generateOrder [Script Bytecode]
 #. Key:	50B538004C020CD6B4559F8CE5F0A2BA
@@ -4456,7 +4456,7 @@ msgstr "ตำแหน่งของคุณในลีดเดอร์บ
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
 msgctxt ",55629B96416054C818FE55A294A5FB39"
 msgid "Day {day}"
-msgstr "วัน {วัน}"
+msgstr "วัน {day}"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
 #. Key:	893AB056448350D850544BB2AAB12261
@@ -4747,7 +4747,7 @@ msgstr "เงิน"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",714F65F54D7380CA5901E88E2486E744"
 msgid "Bonus x{days} days"
-msgstr "โบนัส x {วัน} วัน"
+msgstr "โบนัส x {days} วัน"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 #. Key:	91C64E1843DAEB390615F2BB0B324A08
@@ -4768,7 +4768,7 @@ msgstr "บรอนซ์"
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_12 [Script Bytecode]
 msgctxt ",DA7BD99B417258A6EA02EE94328FD895"
 msgid "Bonus x{multiplier} by {medal}"
-msgstr "โบนัส x {ตัวคูณ} โดย {Medal}"
+msgstr "โบนัส x {multiplier} โดย {medal}"
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:WidgetTree.TextBlock_268.Text
 #. Key:	7ABC79D347782118DE1FB48DD89D4093
@@ -4892,7 +4892,7 @@ msgstr "เหรียญเงิน"
 #. SourceLocation:	/Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_1 [Script Bytecode]
 msgctxt ",C81503CF43A9272426CF27826CEBBA95"
 msgid "Next product: {time}s"
-msgstr "ผลิตภัณฑ์ถัดไป: {เวลา} s"
+msgstr "ผลิตภัณฑ์ถัดไป: {time} s"
 
 #: /Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_1 [Script Bytecode]
 #. Key:	C9D5D5854D8FB00A0918C2B45E6DDE45
@@ -6335,7 +6335,7 @@ msgstr "เขียน"
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/order.order_C:GetText [Script Bytecode]
 msgctxt ",F54CE9DA42C11B543660619823F77D1D"
 msgid "Case's name: {name}"
-msgstr "ชื่อกรณี: {ชื่อ}"
+msgstr "ชื่อกรณี: {name}"
 
 #: /Game/QualityCheck/UI/tablet/order.order_C:GetText_0 [Script Bytecode]
 #. Key:	5D31987A457E85825928D4A8D13324FF
