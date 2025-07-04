@@ -2530,7 +2530,7 @@ msgstr "Buena suerte, Operador"
 #: /Game/QualityCheck/sounds/scenes/heysound.heysound.Subtitles(1).Subtitles.Text
 msgctxt ",7014B86943D8BD1AE3B7C08494C072F8"
 msgid "Watch where you're going!"
-msgstr "¡Cuidado por dónde vas!"
+msgstr "Mira por dónde vas!"
 
 #. Key:	1E01CF8342CCD71EBD287BBD7AC42098
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/jumpscares.jumpscares.Subtitles(0).Subtitles.Text
