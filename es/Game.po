@@ -185,7 +185,7 @@ msgstr "Código de barras incorrecto"
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_doll.qcm_physcs_doll_C:ExecuteUbergraph_qcm_physcs_doll [Script Bytecode]
 msgctxt ",23CA48224A9BF5CFA2EA3A98E036BADA"
 msgid "Inconsistent doll"
-msgstr "Muñeca inconsistente"
+msgstr "Muñeco inconsistente"
 
 #: /Game/QualityCheck/Blueprints/qcm_physcs_doll.qcm_physcs_doll_C:ExecuteUbergraph_qcm_physcs_doll [Script Bytecode]
 #. Key:	34555C7F4218570D3D004A9EA3FC3410
@@ -528,14 +528,14 @@ msgstr "Pon la caja en la plataforma del suelo."
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",C94280B14B7B4C66F1B93F915138EC5A"
 msgid "Pick up the Doll"
-msgstr "Recoge la muñeca"
+msgstr "Recoge el muñeco"
 
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 #. Key:	D06F76594B031E9B278C26860B6700BF
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",D06F76594B031E9B278C26860B6700BF"
 msgid "Review the case"
-msgstr "Revisar la caja"
+msgstr "Revisa la caja"
 
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 #. Key:	D299CF65439CF03C62CBD1A3840D84A9
@@ -543,7 +543,7 @@ msgstr "Revisar la caja"
 msgctxt ",D299CF65439CF03C62CBD1A3840D84A9"
 msgid "Put the case on repair selecting wrong name as repair reason"
 msgstr ""
-"Coloque el caso en la reparación seleccionando el nombre incorrecto como "
+"Coloca la caja en reparación seleccionando el nombre incorrecto como "
 "motivo de reparación"
 
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -705,7 +705,7 @@ msgstr "Ve a la sala de entrevistas"
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_house.qcm_house:PersistentLevel.streamingLevelLoadInteract_C_1.newMission(0 - Value).newMission_Value
 msgctxt ",38B47F6443107F1A870F258CE1E53FEE"
 msgid "Join to Doll Inc"
-msgstr "Únete a Doll Inc"
+msgstr "Entra a Doll Inc"
 
 #: /Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
 #. Key:	26F695304732DB9EAED5508A16DB6F1F
@@ -740,7 +740,7 @@ msgstr "Revisa la televisión"
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
 msgctxt ",F726153349E7F7EBEEDAEB8A041DDAA0"
 msgid "Go to Doll Inc"
-msgstr "Ir a Doll Inc"
+msgstr "Ve a Doll Inc"
 
 #: /Game/QualityCheck/levels/qcm_interviews.qcm_interviews_C:ExecuteUbergraph_qcm_interviews [Script Bytecode]
 #. Key:	134119FA415555EF5E94ABB5F5F751E7
@@ -1015,7 +1015,7 @@ msgstr "Vaya a la instalación de inmediato para su primera evaluación."
 #. SourceLocation:	/Game/QualityCheck/sounds/end.end.Subtitles(2).Subtitles.Text
 msgctxt ",D670B99E4C4997AE7138549BB082F5FA"
 msgid "I’m not promising you’ll get the job."
-msgstr "No te prometo que obtendrás el trabajo."
+msgstr "No le prometo que obtendrá el trabajo."
 
 #: /Game/QualityCheck/sounds/end.end.Subtitles(4).Subtitles.Text
 #. Key:	4C937A344F7C97BE94DE3E949D3433CE
@@ -1036,7 +1036,7 @@ msgstr "Doll Inc opera las 24 horas del día."
 #. SourceLocation:	/Game/QualityCheck/sounds/end.end.Subtitles(7).Subtitles.Text
 msgctxt ",3310E30F4B335D549B8EE9BE775548DF"
 msgid "MOVE YOUR ASS!"
-msgstr "¡Mueve el culo!"
+msgstr "¡MUEVA EL CULO!"
 
 #: /Game/QualityCheck/sounds/ENDGAMEOVRE.ENDGAMEOVRE.Subtitles(0).Subtitles.Text
 #. Key:	FB58EE68471300799123978E17900858
@@ -1255,16 +1255,14 @@ msgstr ""
 #. SourceLocation:	/Game/QualityCheck/sounds/first.first.Subtitles(11).Subtitles.Text
 msgctxt ",C7AA57CA42D0F2EFE6AB08BD9BE69E8A"
 msgid "We’re currently recruiting for our revolutionary product Doll Impostor."
-msgstr ""
-"Actualmente estamos reclutando para nuestro impostor de muñecas de "
-"productos revolucionarios."
+msgstr "Actualmente estamos reclutando para nuestro producto revolucionario Doll Impostor."
 
 #: /Game/QualityCheck/sounds/first.first.Subtitles(2).Subtitles.Text
 #. Key:	B14FF1EF4C9081C3882CA69CB187BB28
 #. SourceLocation:	/Game/QualityCheck/sounds/first.first.Subtitles(2).Subtitles.Text
 msgctxt ",B14FF1EF4C9081C3882CA69CB187BB28"
 msgid "Before we begin, let me ask you a few questions…"
-msgstr "Antes de comenzar, voy hacerte algunas preguntas..."
+msgstr "Antes de comenzar, déjeme hacerle algunas preguntas..."
 
 #: /Game/QualityCheck/sounds/first.first.Subtitles(4).Subtitles.Text
 #. Key:	FBF8CA6B4D0B3EC5591E809E584663D7
@@ -1285,14 +1283,14 @@ msgstr "...¿No?"
 #. SourceLocation:	/Game/QualityCheck/sounds/first.first.Subtitles(7).Subtitles.Text
 msgctxt ",6A9348AA4E9235D7EB6838858ADB5E7E"
 msgid "Are you looking for one?  "
-msgstr "¿Estás buscando uno?"
+msgstr "¿Está buscando uno?"
 
 #: /Game/QualityCheck/sounds/first.first.Subtitles(9).Subtitles.Text
 #. Key:	6D559E944FF79D2D62D163AD47E3FC73
 #. SourceLocation:	/Game/QualityCheck/sounds/first.first.Subtitles(9).Subtitles.Text
 msgctxt ",6D559E944FF79D2D62D163AD47E3FC73"
 msgid "Do you know Doll INC?"
-msgstr "¿Conoces Doll Inc?"
+msgstr "¿Conoce Doll Inc?"
 
 #: /Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(0).Subtitles.Text
 #. Key:	27415F084B1E7E3DBA9A8C8F156AEDC1
@@ -1355,14 +1353,14 @@ msgstr "¡¿QUÉ?!"
 #. SourceLocation:	/Game/QualityCheck/sounds/nogame.nogame.Subtitles(2).Subtitles.Text
 msgctxt ",3910694F44D17E730991FFA0AB99A0FD"
 msgid "You don’t know Doll Impostor?"
-msgstr "¿No conoces Doll Impostor?"
+msgstr "¿No conoce Doll Impostor?"
 
 #: /Game/QualityCheck/sounds/nogame.nogame.Subtitles(4).Subtitles.Text
 #. Key:	A83F9BCD404D29341DCD4F8F68E25666
 #. SourceLocation:	/Game/QualityCheck/sounds/nogame.nogame.Subtitles(4).Subtitles.Text
 msgctxt ",A83F9BCD404D29341DCD4F8F68E25666"
 msgid "Then why did you even apply?!"
-msgstr "Entonces, ¿por qué aplicas?"
+msgstr "Entonces, ¿por qué aplica?"
 
 #: /Game/QualityCheck/sounds/nogame.nogame.Subtitles(6).Subtitles.Text
 #. Key:	1FAA79E548CC28378A0562B0AD970F45
@@ -1442,10 +1440,8 @@ msgstr ""
 #. Key:	B7D7185D4F0DFF816301C9B8EB075A9D
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/13.13.Subtitles(0).Subtitles.Text
 msgctxt ",B7D7185D4F0DFF816301C9B8EB075A9D"
-msgid ""
-"This factory produces its own electricity. It doesn’t need the outside "
-"world."
-msgstr "Esta fábrica produce su propia electricidad."
+msgid "This factory produces its own electricity. It doesn’t need the outside world"
+msgstr "Esta fábrica produce su propia electricidad. No necesita el mundo exterior"
 
 #: /Game/QualityCheck/sounds/phrases/2.2.Subtitles(0).Subtitles.Text
 #. Key:	3B6C3FD344B4E7EB2D9FC2B8D1D19891
@@ -1454,25 +1450,21 @@ msgctxt ",3B6C3FD344B4E7EB2D9FC2B8D1D19891"
 msgid ""
 "If you're new, please proceed to the Dispatchs Room. Just go straight and "
 "turn right."
-msgstr "Si eres nuevo, proceda a la sala de despachos."
+msgstr "Si eres nuevo, proceda a la sala de dispatches."
 
 #: /Game/QualityCheck/sounds/phrases/3.3.Subtitles(0).Subtitles.Text
 #. Key:	0DFB312842637757F54048AB5941FB43
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/3.3.Subtitles(0).Subtitles.Text
 msgctxt ",0DFB312842637757F54048AB5941FB43"
-msgid ""
-"Having trouble with one of our products? Please visit Customer Support at "
-"reception."
-msgstr "¿Tiene problemas con uno de nuestros productos?"
+msgid "Having trouble with one of our products? Please visit Customer Support at reception."
+msgstr "¿Tiene problemas con uno de nuestros productos? Por favor, visite el servicio de atención al cliente en recepción."
 
 #: /Game/QualityCheck/sounds/phrases/4.4.Subtitles(0).Subtitles.Text
 #. Key:	5EEBC87E423C794916E6D9B877C3C505
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/4.4.Subtitles(0).Subtitles.Text
 msgctxt ",5EEBC87E423C794916E6D9B877C3C505"
-msgid ""
-"Need to speak with a supervisor? I'm afraid this facility is fully "
-"automated. No one will assist you."
-msgstr "¿Necesitas hablar con un supervisor?"
+msgid "Need to speak with a supervisor? I'm afraid this facility is fully automated. No one will assist you."
+msgstr "¿Necesitas hablar con un supervisor? Me temo que esta instalación está completamente automatizada. Nadie te asistirá."
 
 #: /Game/QualityCheck/sounds/phrases/5.5.Subtitles(0).Subtitles.Text
 #. Key:	5F1F13E243AE2A28C75B9CA746A1EE4E
@@ -1492,17 +1484,15 @@ msgstr "Doll inc. originalmente comenzó siendo una compañía farmacéutica."
 #. Key:	424D99844AB97FF3DF4F8D9DBC9666C2
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/7.7.Subtitles(0).Subtitles.Text
 msgctxt ",424D99844AB97FF3DF4F8D9DBC9666C2"
-msgid ""
-"DOLL INC. maintains a comprehensive surveillance system. Everything is "
-"recorded and controlled."
-msgstr "Doll inc. Mantiene un sistema integral de vigilancia."
+msgid "DOLL INC. maintains a comprehensive surveillance system. Everything is recorded and controlled."
+msgstr "Doll inc. Mantiene un sistema integral de vigilancia. Todo está grabado y controlado."
 
 #: /Game/QualityCheck/sounds/phrases/8.8.Subtitles(0).Subtitles.Text
 #. Key:	3255FD1D45BAE0F40A68B5A746D758AC
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/8.8.Subtitles(0).Subtitles.Text
 msgctxt ",3255FD1D45BAE0F40A68B5A746D758AC"
 msgid "Did you know Lucy hates her partner Max? In fact, the feeling is mutual."
-msgstr "¿Sabías que Lucy odia a su pareja Max? En realidad, el sentimiento es mútuo."
+msgstr "¿Sabías que Lucy odia a su pareja Max? En realidad, el sentimiento es mutuo."
 
 #: /Game/QualityCheck/sounds/phrases/9.9.Subtitles(0).Subtitles.Text
 #. Key:	04A2772A41BB362B62114B823486A761
@@ -1579,7 +1569,7 @@ msgstr "Bien hecho. Incluso un reloj roto da bien la hora un par de veces al dí
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/9.9.Subtitles(0).Subtitles.Text
 msgctxt ",2B3358B44EBA0A0EF08C2B8847D7541B"
 msgid "That’s the kind of obedience we need here."
-msgstr "Ese es el tipo de obediencia es la que necesitamos aquí."
+msgstr "Ese es el tipo de obediencia que necesitamos aquí."
 
 #: /Game/QualityCheck/sounds/phrases/voiceinterview.voiceinterview.Subtitles(0).Subtitles.Text
 #. Key:	98E5DAF74727728FC67BD6AAA3B40072
@@ -2992,14 +2982,14 @@ msgstr "Tu trabajo es simple: revisa cada producto."
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/1.1.Subtitles(3).Subtitles.Text
 msgctxt ",FC773E9641F63AC88DBEF0AE08D3D66E"
 msgid "If it’s defective — send it to repair."
-msgstr "Si está defectuoso, envíelo a la reparación."
+msgstr "Si está defectuoso, envíelo a reparación."
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/1.1.Subtitles(4).Subtitles.Text
 #. Key:	E0E38FBE4AF1EED8EF7D248F54977EC5
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/1.1.Subtitles(4).Subtitles.Text
 msgctxt ",E0E38FBE4AF1EED8EF7D248F54977EC5"
 msgid "If it’s correct — send it to production."
-msgstr "Si está correcto, envíelo a la producción."
+msgstr "Si está correcto, envíelo a producción."
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/1.1.Subtitles(5).Subtitles.Text
 #. Key:	E424776E437EC68706B027860F13E84A
@@ -3044,7 +3034,7 @@ msgid ""
 "They’re usually used to carry dolls, but they must be in perfect condition "
 "too."
 msgstr ""
-"Por lo general, se usan para llevar muñecas, pero también deben estar en "
+"Por lo general, se usan para llevar muñecos, pero también deben estar en "
 "perfectas condiciones."
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/11.11.Subtitles(2).Subtitles.Text
@@ -3053,8 +3043,8 @@ msgstr ""
 msgctxt ",3FC309CA4813E93133D6FCBFE8F4E082"
 msgid "Inspect each case for any inconsistencies, just like you did with the dolls."
 msgstr ""
-"Inspeccione cada caso por cualquier inconsistencia, al igual que usted con "
-"las muñecas."
+"Inspecciona cada caja por cualquier inconsistencia, al igual que hiciste con "
+"los muñecos."
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/12.12.Subtitles(0).Subtitles.Text
 #. Key:	A2DD45624367EEA334A978A423FD88E8
@@ -3105,9 +3095,7 @@ msgctxt ",92D0998644BFD2011BD34398767604CD"
 msgid ""
 "Today, you must verify that the name on the doll matches the name on the "
 "case"
-msgstr ""
-"Hoy, debe verificar que el nombre en la muñeca coincida con el nombre en el "
-"caso"
+msgstr "Hoy, debe verificar que el nombre del muñeco coincida con el nombre de la caja"
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/13.13.Subtitles(2).Subtitles.Text
 #. Key:	81DBC6294DBED6BC897984BCDE519B55
@@ -3234,7 +3222,7 @@ msgstr "Esta caja tiene un nombre incorrecto"
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/17.17.Subtitles(2).Subtitles.Text
 msgctxt ",9163BA9B4F90FD7CBAC7609F0FAE4E3E"
 msgid "It doesn’t match the doll it’s paired with"
-msgstr "No coincide con la muñeca que trae"
+msgstr "No coincide con el muñeco que trae"
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/17.17.Subtitles(3).Subtitles.Text
 #. Key:	DFB35F5447E2EE1A94C526A328CE9B1E
@@ -3455,8 +3443,7 @@ msgid ""
 "These units are in high demand and come in various appearances depending on "
 "the map, just like the cases."
 msgstr ""
-"Estas unidades tienen una gran demanda y vienen en varias apariciones "
-"dependiendo del mapa, al igual que los casos."
+"Estas unidades tienen una gran demanda y vienen de diversas maneras dependiendo del mapa, al igual que las cajas."
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/23.23.Subtitles(2).Subtitles.Text
 #. Key:	C59DDCCA48F86CF4D585DAA2A977CE7C
@@ -3543,7 +3530,7 @@ msgid ""
 "cases"
 msgstr ""
 "Ahora eres responsable de inspeccionar todos los tipos de productos: "
-"muñecas, robots y casos"
+"muñecos, robots y cajas"
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/27.27.Subtitles(3).Subtitles.Text
 #. Key:	9477AF254FD241DE292D9A8ED12DA39B
@@ -3807,9 +3794,7 @@ msgctxt ",6C50ACD14BF451C81404DBA21BD427A3"
 msgid ""
 "Once you press the Dispatch button, incoming requests will show up on the "
 "panel."
-msgstr ""
-"Una vez que presione el botón de despacho, las solicitudes entrantes "
-"aparecerán en el panel."
+msgstr "Una vez que presione el botón del dispatch, las solicitudes entrantes aparecerán en el panel."
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(3).Subtitles.Text
 #. Key:	7CF4F49548489A5719460FB090557F65
@@ -3844,7 +3829,7 @@ msgid ""
 "We’ve received multiple requests for separate items, dolls and boxes "
 "individually."
 msgstr ""
-"Hemos recibido múltiples solicitudes de artículos, muñecas y cajas "
+"Hemos recibido múltiples solicitudes de artículos, muñecos y cajas "
 "separados individualmente."
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/34.34.Subtitles(2).Subtitles.Text
@@ -3880,7 +3865,7 @@ msgstr "La tarea de hoy requiere precisión"
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(1).Subtitles.Text
 msgctxt ",FBBA9F30443343E05EB411BF873F8C73"
 msgid "Some orders will now request both a box and a doll together"
-msgstr "Algunos pedidos ahora solicitarán una caja y una muñeca juntos"
+msgstr "Algunos pedidos ahora solicitarán una caja y un muñeco juntos"
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(2).Subtitles.Text
 #. Key:	598ED16A414CD3F07FBC49AF875B0E4F
@@ -3894,7 +3879,7 @@ msgstr "Tienes dos opciones"
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(3).Subtitles.Text
 msgctxt ",790370A74511CB8AC419779F677F3BD6"
 msgid "Place the doll inside the box, it will count as one complete unit"
-msgstr "Coloca la muñeca dentro de la caja, contará como una unidad completa"
+msgstr "Coloca el muñeco dentro de la caja, contará como una unidad completa"
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(4).Subtitles.Text
 #. Key:	C164326848D943D16F8B53B1C8B421A5
@@ -3974,7 +3959,7 @@ msgstr ""
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/37.37.Subtitles(2).Subtitles.Text
 msgctxt ",E503D3DC4775A1DC0BA9E2AE7BE16DD0"
 msgid "Make sure to add protective padding, then send it to production."
-msgstr "Asegúrate de agregar relleno de protección, luego envíalo a la producción."
+msgstr "Asegúrate de agregar relleno de protección, luego envíalo a producción."
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(0).Subtitles.Text
 #. Key:	12315BF8407364A8D72A8CBA04EC29F4
@@ -4203,7 +4188,7 @@ msgid ""
 "the label"
 msgstr ""
 "Si miras de cerca, hay una inconsistencia en la parte superior, justo "
-"encima de la etiqueta"
+"encima del nombre"
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/44.44.Subtitles(0).Subtitles.Text
 #. Key:	BE98D70649DE23EB39DF459B333241CF
@@ -4245,7 +4230,7 @@ msgstr "Envíalo a producción"
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/7.7.Subtitles(0).Subtitles.Text
 msgctxt ",D4C10A9040D406BA1EEE03A381141937"
 msgid "Great! Excellent work."
-msgstr "¡Excelente!"
+msgstr "¡Genial! Excelente trabajo."
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/7.7.Subtitles(1).Subtitles.Text
 #. Key:	70F58B2F44A0182A5F14E198BEFAF208
@@ -4274,7 +4259,7 @@ msgstr "Eso no suele suceder."
 msgctxt ",D763BFD14F81A594C968D58E62997899"
 msgid "In any case, head to the maintenance room and restore the power."
 msgstr ""
-"En cualquier caso, diríjase a la sala de mantenimiento y restaure la "
+"En cualquier caso, dirígete a la sala de mantenimiento y restaure la "
 "energía."
 
 #: /Game/QualityCheck/sounds/tutorialPhrases/9.9.Subtitles(0).Subtitles.Text
@@ -4677,10 +4662,8 @@ msgstr "Vi a otros operadores por primera vez."
 #. Key:	9BAFE58C4AA258AD473B76B6BE28FF78
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 msgctxt ",9BAFE58C4AA258AD473B76B6BE28FF78"
-msgid ""
-"Everything at once now: orders, dispatch, returns... No rest. The system is "
-"pushing me to my limit."
-msgstr "Todo a la vez ahora: órdenes, despacho, regresa ... sin descanso."
+msgid "Everything at once now: orders, dispatch, returns... No rest. The system is pushing me to my limit."
+msgstr "Todo a la vez ahora: pedidos, dispatch, devoluciones ... sin descanso. El sistema me está empujando a mis límites."
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 #. Key:	9E87178546EE28314166F7B251C83648
@@ -4759,7 +4742,7 @@ msgctxt ",E2244AF34183366DA46227984E30BD08"
 msgid ""
 "Combined orders now include both dolls and their boxes. More room for "
 "mistakes."
-msgstr "Los pedidos combinados ahora incluyen tanto muñecas como sus cajas."
+msgstr "Los pedidos combinados ahora incluyen tanto muñecos como sus cajas."
 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 #. Key:	E95499424DD390276D0B5E909E9F3743
@@ -5755,7 +5738,7 @@ msgstr "Cajas incorrectas"
 #. SourceLocation:	/Game/QualityCheck/UI/stats.stats_C:WidgetTree.dollTop1Name_6.Text
 msgctxt ",A081117442D49E705B12F0A39C05191F"
 msgid "Correct Dolls"
-msgstr "Muñecas correctas"
+msgstr "Muñecos correctos"
 
 #: /Game/QualityCheck/UI/stats.stats_C:WidgetTree.dollTop1Name_7.Text
 #. Key:	1D083BCC404DDF812722458284CE31F5
@@ -5858,7 +5841,7 @@ msgid ""
 "or visual defects, usually in the form of stains. Missing parts like legs "
 "or similar are not considered."
 msgstr ""
-"La inconsistencia de la muñeca se basa en ciertos defectos, como grietas, "
+"La inconsistencia del muñeco se basa en ciertos defectos, como grietas, "
 "suciedad o defectos visuales, generalmente en forma de manchas."
 
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_111.Text
@@ -5879,7 +5862,7 @@ msgid ""
 "imperfections, reflections caused by the case itself, or textures that "
 "might look unusual (such as the circus case)."
 msgstr ""
-"La inconsistencia del caso se basa en ciertos defectos, como rasguños, "
+"La inconsistencia de la caja se basa en ciertos defectos, como rasguños, "
 "suciedad o defectos visuales, generalmente en forma de manchas."
 
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_15.Text
@@ -5907,7 +5890,7 @@ msgid ""
 "Incorrect names do not match any existing doll. For example, you might get "
 "the name 'Rebecca', but no such doll exists, therefore, the name would be "
 "considered incorrect."
-msgstr "Los nombres incorrectos no coinciden con ninguna muñeca existente."
+msgstr "Los nombres incorrectos no coinciden con ningún muñeco existente."
 
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_18.Text
 #. Key:	34DE1BE04320BA260C3166BB34D20447
@@ -5947,7 +5930,7 @@ msgid ""
 "Occasionally, dolls emit vibrations or display unusual effects and must be "
 "returned. These are generally things we cannot explain."
 msgstr ""
-"Ocasionalmente, las muñecas emiten vibraciones o muestran efectos inusuales "
+"Ocasionalmente, los muñecos emiten vibraciones o muestran efectos inusuales "
 "y deben devolverse."
 
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_35.Text
@@ -6085,7 +6068,7 @@ msgid ""
 "Sometimes operators leave personal items inside the cases, such as scissors "
 "or similar objects. When this happens, the product becomes contaminated."
 msgstr ""
-"A veces, los operadores dejan artículos personales dentro de los casos, "
+"A veces, los operadores dejan artículos personales dentro de las cajas, "
 "como tijeras o objetos similares."
 
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_63.Text
@@ -6182,7 +6165,33 @@ msgid ""
 "Welcome aboard, Operator.\r\n"
 "\r\n"
 "Doll Inc Administration"
-msgstr "Bienvenido a Doll Inc"
+msgstr "Bienvenido a Doll Inc \r\n"
+"\r\n"
+"Este manual está diseñado para ayudarte a comprender las mecánicas "
+"principales de tu rol.\r\n"
+"\r\n"
+"Todos los productos de Doll Inc se basan en el aclamado universo de Doll "
+"Impostor. Cada elemento: muñecos, cajas y más, está profundamente "
+"conectado. Cada muñeco tiene un nombre único y, en el juego original, "
+"tiene gustos y disgustos individuales. Sin embargo, para tu rol, esa "
+"información no es relevante.\r\n"
+"\r\n"
+"Recomendamos tomarte un momento para familiarizarte con Doll Impostor para "
+"comprender mejor la naturaleza de nuestros productos.\r\n"
+"\r\n"
+"Ahora estás entrando en un período de prueba de 30 días.\r\n"
+"Tu tarea es simple:\r\n"
+"Inspeccionar cada producto, aplicar las herramientas apropiadas cuando sea "
+"necesario y determinar si debe enviarse para reparación o producción.\r\n"
+"\r\n"
+"A medida que avances a través de la evaluación de 30 días, encontrarás una "
+"amplia variedad de nuevas mecánicas.\r\n"
+"Por favor, consulta esta guía tan a menudo como sea necesario para ayudar "
+"a identificar y procesar estos elementos.\r\n"
+"\r\n"
+"Bienvenido a bordo, Operador.\r\n"
+"\r\n"
+"Administración de Doll Inc"
 
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_70.Text
 #. Key:	6641628F44DD18AE0845CF93F6EAA1F5
