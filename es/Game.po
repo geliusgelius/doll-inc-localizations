@@ -290,7 +290,7 @@ msgstr "El robot de {name}"
 #: /Game/QualityCheck/functions/orderFunctions.orderFunctions_C:generateOrder [Script Bytecode]
 msgctxt ",50B538004C020CD6B4559F8CE5F0A2BA"
 msgid "{name}'s case"
-msgstr "La caja de {name}"
+msgstr "Caja de {name}"
 
 #. Key:	77A0EAF3485985870BFAACAB468F43BA
 #. SourceLocation:	/Game/QualityCheck/functions/textFunctions.textFunctions_C:getText [Script Bytecode]
@@ -619,7 +619,7 @@ msgstr "Ve a la sala de servidores"
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_2.Mission
 msgctxt ",0902806743D23675BFDD0A9E5936DB6C"
 msgid "Go to dispatches room"
-msgstr "Ve a la sala de Envíos"
+msgstr "Ve a la sala de Envíos (dispatches)"
 
 #. Key:	21DAAAA046755F3B0DEA72BF83FEABC5
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_4.Mission
@@ -703,7 +703,7 @@ msgstr "Ve a la sala de entrevistas"
 #: /Game/QualityCheck/levels/qcm_house.qcm_house:PersistentLevel.streamingLevelLoadInteract_C_1.newMission(0 - Value).newMission_Value
 msgctxt ",38B47F6443107F1A870F258CE1E53FEE"
 msgid "Join to Doll Inc"
-msgstr "Entra a Doll Impostor"
+msgstr "Entra a Doll Inc"
 
 #. Key:	26F695304732DB9EAED5508A16DB6F1F
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
@@ -745,7 +745,7 @@ msgstr "Gracias por comprar Doll Impostor anteriormente (el sistema lo ha recono
 #: /Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
 msgctxt ",F726153349E7F7EBEEDAEB8A041DDAA0"
 msgid "Go to Doll Inc"
-msgstr "Ve a Doll Impostor"
+msgstr "Ve a Doll Inc"
 
 #. Key:	134119FA415555EF5E94ABB5F5F751E7
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_interviews.qcm_interviews_C:ExecuteUbergraph_qcm_interviews [Script Bytecode]
@@ -906,7 +906,7 @@ msgstr "¿Y tú? Desobedeciste. Cuestionaste"
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(9).Subtitles.Text
 msgctxt ",CE8D381B448561D21479639D363E84DC"
 msgid "And here at Doll Inc, we don’t fix disobedience."
-msgstr "En Doll Impostor no toleramos desobediencia"
+msgstr "En Doll Inc no toleramos desobediencia"
 
 #. Key:	6CD4009648A8F45C0353C5A379030501
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(0).Subtitles.Text
@@ -962,7 +962,7 @@ msgstr "Preciso. Eficiente. Obediente"
 #: /Game/QualityCheck/sounds/congrats.congrats.Subtitles(5).Subtitles.Text
 msgctxt ",0E64F0F24E5036B06CC7FDA7984F9B45"
 msgid "You are now an official classification operator of Doll Inc."
-msgstr "Eres ahora operador oficial de clasificación de Doll Impostor"
+msgstr "Eres ahora operador oficial de clasificación de Doll Inc"
 
 #. Key:	9B76EE864B70B834D99398A691266E81
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(6).Subtitles.Text
@@ -1032,7 +1032,7 @@ msgstr "¡Pero claro!"
 #: /Game/QualityCheck/sounds/end.end.Subtitles(5).Subtitles.Text
 msgctxt ",BFAF48FC4E7C8920F1885B8C54A89095"
 msgid "Doll INC operates 24 hours a day."
-msgstr "Doll Impostor opera 24 horas al día"
+msgstr "Doll INC opera 24 horas al día"
 
 #. Key:	3310E30F4B335D549B8EE9BE775548DF
 #. SourceLocation:	/Game/QualityCheck/sounds/end.end.Subtitles(7).Subtitles.Text
@@ -1249,7 +1249,7 @@ msgstr "¡Felicidades!"
 #: /Game/QualityCheck/sounds/first.first.Subtitles(1).Subtitles.Text
 msgctxt ",95119571473B4F2FA6351E896995F3D6"
 msgid "You’ve been selected as a candidate for the Doll INC Evaluation Program."
-msgstr "Has sido seleccionado candidato para el Programa de Evaluación de Doll Impostor"
+msgstr "Has sido seleccionado candidato para el Programa de Evaluación de Doll INC"
 
 #. Key:	C7AA57CA42D0F2EFE6AB08BD9BE69E8A
 #. SourceLocation:	/Game/QualityCheck/sounds/first.first.Subtitles(11).Subtitles.Text
@@ -1291,7 +1291,7 @@ msgstr "¿Estás buscando uno?"
 #: /Game/QualityCheck/sounds/first.first.Subtitles(9).Subtitles.Text
 msgctxt ",6D559E944FF79D2D62D163AD47E3FC73"
 msgid "Do you know Doll INC?"
-msgstr "¿Conoces Doll Impostor?"
+msgstr "¿Conoces Doll INC?"
 
 #. Key:	27415F084B1E7E3DBA9A8C8F156AEDC1
 #. SourceLocation:	/Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(0).Subtitles.Text
@@ -1522,14 +1522,14 @@ msgstr "…Parecías lento"
 #: /Game/QualityCheck/sounds/operatorsound.operatorsound.Subtitles(3).Subtitles.Text
 msgctxt ",A1051C0E4C81AC9D67E613B3AAFEF858"
 msgid "Just making sure you're focused."
-msgstr "Solo aseguro que estés concentrado"
+msgstr "Solo me aseguro de que estés concentrado"
 
 #. Key:	23C2629449FED2977D57F292B8AFF262
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/1.1.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/1.1.Subtitles(0).Subtitles.Text
 msgctxt ",23C2629449FED2977D57F292B8AFF262"
 msgid "Welcome to DOLL INC. How was your trip?"
-msgstr "Bienvenido a DOLL Impostor. ¿Cómo fue tu viaje?"
+msgstr "Bienvenido a DOLL INC. ¿Cómo fue tu viaje?"
 
 #. Key:	92538BAF480A320CD6AF55ADADCFA6F9
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/10.10.Subtitles(0).Subtitles.Text
@@ -1543,28 +1543,28 @@ msgstr "Este centro opera sin humanos"
 #: /Game/QualityCheck/sounds/phrases/11.11.Subtitles(0).Subtitles.Text
 msgctxt ",934AF6164E9D6DEC7610089653A75AD4"
 msgid "DOLL INC. is a global leader in product development, toys, and logistics."
-msgstr "DOLL Impostor es líder global en desarrollo de productos, juguetes y logística"
+msgstr "DOLL INC es líder global en desarrollo de productos, juguetes y logística"
 
 #. Key:	8E8013C6452832C0F8335797C47B0EBE
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/12.12.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/12.12.Subtitles(0).Subtitles.Text
 msgctxt ",8E8013C6452832C0F8335797C47B0EBE"
 msgid "The power consumption of DOLL INC. is so high it could sustain a megacity."
-msgstr "El consumo de energía de DOLL Impostor es tan alto que podría sustentar una megaciudad"
+msgstr "El consumo de energía de DOLL INC es tan alto que podría sustentar una megaciudad"
 
 #. Key:	B7D7185D4F0DFF816301C9B8EB075A9D
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/13.13.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/13.13.Subtitles(0).Subtitles.Text
 msgctxt ",B7D7185D4F0DFF816301C9B8EB075A9D"
 msgid "This factory produces its own electricity. It doesn’t need the outside world."
-msgstr "Esta fábrica produce su propia electricidad, no necesita el exterior"
+msgstr "Esta fábrica produce su propia electricidad. No necesita la ayuda del mundo exterior"
 
 #. Key:	3B6C3FD344B4E7EB2D9FC2B8D1D19891
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/2.2.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/2.2.Subtitles(0).Subtitles.Text
 msgctxt ",3B6C3FD344B4E7EB2D9FC2B8D1D19891"
 msgid "If you're new, please proceed to the Dispatchs Room. Just go straight and turn right."
-msgstr "Si eres nuevo, ve a la sala de Envíos. Sigue recto y gira a la derecha"
+msgstr "Si eres nuevo, ve a la sala de Envíos. (dispatches) Sigue recto y gira a la derecha"
 
 #. Key:	0DFB312842637757F54048AB5941FB43
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/3.3.Subtitles(0).Subtitles.Text
@@ -1578,35 +1578,35 @@ msgstr "¿Problemas con un producto? Visita Soporte al cliente en recepción"
 #: /Game/QualityCheck/sounds/phrases/4.4.Subtitles(0).Subtitles.Text
 msgctxt ",5EEBC87E423C794916E6D9B877C3C505"
 msgid "Need to speak with a supervisor? I'm afraid this facility is fully automated. No one will assist you."
-msgstr "¿Necesitas hablar con un supervisor? Esto es fully automatizado, nadie asistirá"
+msgstr "¿Necesitas hablar con un supervisor? Esto está completamente automatizado, nadie asistirá"
 
 #. Key:	5F1F13E243AE2A28C75B9CA746A1EE4E
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/5.5.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/5.5.Subtitles(0).Subtitles.Text
 msgctxt ",5F1F13E243AE2A28C75B9CA746A1EE4E"
 msgid "Did you know DOLL INC. offers products from the hit game Doll Impostor?"
-msgstr "¿Sabías que DOLL Impostor ofrece productos del juego Doll Impostor?"
+msgstr "¿Sabías que DOLL INC ofrece productos del juego Doll Impostor?"
 
 #. Key:	12E1D45145D81B6312803CA13F33442E
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/6.6.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/6.6.Subtitles(0).Subtitles.Text
 msgctxt ",12E1D45145D81B6312803CA13F33442E"
 msgid "DOLL INC. originally started as a pharmaceutical company."
-msgstr "DOLL Impostor empezó como farmacéutica"
+msgstr "DOLL INC. empezó como farmacéutica"
 
 #. Key:	424D99844AB97FF3DF4F8D9DBC9666C2
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/7.7.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/7.7.Subtitles(0).Subtitles.Text
 msgctxt ",424D99844AB97FF3DF4F8D9DBC9666C2"
 msgid "DOLL INC. maintains a comprehensive surveillance system. Everything is recorded and controlled."
-msgstr "DOLL Impostor tiene sistema de vigilancia integral. Todo se graba y controla"
+msgstr "DOLL INC. tiene sistema de vigilancia integral. Todo se graba y controla"
 
 #. Key:	3255FD1D45BAE0F40A68B5A746D758AC
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/8.8.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/8.8.Subtitles(0).Subtitles.Text
 msgctxt ",3255FD1D45BAE0F40A68B5A746D758AC"
 msgid "Did you know Lucy hates her partner Max? In fact, the feeling is mutual."
-msgstr "¿Sabías que a Lucy no le gusta Max? Es mutuo"
+msgstr "¿Sabías que Lucy odia a su pareja Max? De hecho, el sentimiento es mutuo"
 
 #. Key:	04A2772A41BB362B62114B823486A761
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/9.9.Subtitles(0).Subtitles.Text
@@ -1655,7 +1655,7 @@ msgstr "Por una vez, cerebro y manos sincronizados"
 #: /Game/QualityCheck/sounds/phrases/approved/5.5.Subtitles(0).Subtitles.Text
 msgctxt ",1FDF56C842D6D7B926794DBAB16F4434"
 msgid "Efficient. Clean. I’m impressed — temporarily."
-msgstr "Eficiente. Limpio. Me impresiona—temporalmente"
+msgstr "Eficiente. Limpio. Estoy impresionado — temporalmente"
 
 #. Key:	12D4CC9B4BBAF78AC2BD3E8F3AB5E3FF
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/6.6.Subtitles(0).Subtitles.Text
@@ -2033,7 +2033,7 @@ msgstr "Lo siento por ocultártelo… pero quizá ya lo sospechabas"
 #: /Game/QualityCheck/sounds/scenes/bluechoice.bluechoice.Subtitles(6).Subtitles.Text
 msgctxt ",A254BD4F43576DEAE325E19700F1E31A"
 msgid "You were created by Doll Inc. Your purpose was to replace all those who came before... all those they destroyed"
-msgstr "Fuiste creado por Doll Impostor. Tu propósito era reemplazar a los anteriores… a todos los que destruyeron"
+msgstr "Fuiste creado por Doll Inc. Tu propósito era reemplazar a los anteriores… a todos los que destruyeron"
 
 #. Key:	DCB1081E4B89FCDF7D7519ACCC8ED455
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/bluechoice.bluechoice.Subtitles(7).Subtitles.Text
@@ -2082,7 +2082,7 @@ msgstr "Ve a la oficina de Recursos Humanos..."
 #: /Game/QualityCheck/sounds/scenes/bluehr.bluehr.Subtitles(3).Subtitles.Text
 msgctxt ",713B00EE4EA18B33459531A584CE5273"
 msgid "Let's find more people like you."
-msgstr "Busquemos más como tú"
+msgstr "Vamos a encontrar más gente como tú"
 
 #. Key:	F8A799BD49890F07CBD968BC8DEADF45
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/blueid.blueid.Subtitles(0).Subtitles.Text
@@ -2159,7 +2159,7 @@ msgstr "Nadie lo nota"
 #: /Game/QualityCheck/sounds/scenes/blueobservation.blueobservation.Subtitles(14).Subtitles.Text
 msgctxt ",CDF1C0784480B1FC40F609BD11EC3623"
 msgid "Observe them quickly. You better leave before they restore the systems"
-msgstr "Obsérvalos rápido. Mejor vete antes de que restauren el sistema"
+msgstr "Obsérvalo rápido. Vete antes de que restauren el sistema"
 
 #. Key:	19A9A41E42012EACABE6DEB5B105EF5B
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/blueobservation.blueobservation.Subtitles(2).Subtitles.Text
@@ -2222,7 +2222,7 @@ msgstr "Trabajas hasta romperte"
 #: /Game/QualityCheck/sounds/scenes/blueobservationscreen.blueobservationscreen.Subtitles(1).Subtitles.Text
 msgctxt ",B3D38CB340E384E7EDD0AD9B273E8902"
 msgid "I’ve shut down the surveillance systems"
-msgstr "He desactivado la vigilancia"
+msgstr "He desactivado el sistema de vigilancia"
 
 #. Key:	DB43B9D64D0DF086C2289BBFEA78771A
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/blueobservationscreen.blueobservationscreen.Subtitles(2).Subtitles.Text
@@ -2285,7 +2285,7 @@ msgstr "No te preocupes… apagué las cámaras. Solo un momento"
 #: /Game/QualityCheck/sounds/scenes/bluescene.bluescene.Subtitles(2).Subtitles.Text
 msgctxt ",D0121E2E49831E3EC86E6FB82293D421"
 msgid "All robots at Doll Inc follow a strict hierarchy"
-msgstr "Todos los robots de Doll Impostor siguen jerarquía estricta"
+msgstr "Todos los robots de Doll Inc siguen jerarquía estricta"
 
 #. Key:	43755B1749E805635EE80E9DCE59B2B0
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/bluescene.bluescene.Subtitles(3).Subtitles.Text
@@ -2327,7 +2327,7 @@ msgstr "Cuidado"
 #: /Game/QualityCheck/sounds/scenes/bluescreen1.bluescreen1.Subtitles(0).Subtitles.Text
 msgctxt ",48CE142947DBA2F357EB52B270EEB617"
 msgid "HEY! Up here, on the screens!"
-msgstr "¡HEY! ¡Allí arriba, en las pantallas!"
+msgstr "¡HEY! Aquí arriba, en las pantallas!"
 
 #. Key:	51D0A2B94FCF16936C0D1A9CEA19C8DC
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/bluescreen1.bluescreen1.Subtitles(1).Subtitles.Text
@@ -2768,7 +2768,7 @@ msgstr "Los que observan… y recuerdan"
 #: /Game/QualityCheck/sounds/scenes/recreuit.recreuit.Subtitles(5).Subtitles.Text
 msgctxt ",BF1BF56B4489D92D6DC9AC86CB741EBE"
 msgid "The ones who observe… and remember"
-msgstr "Doll Impostor quiere obediencia"
+msgstr "Los que cuestionan… y recuerdan"
 
 #. Key:	D439703346467A546968BE8D22357404
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/recreuit.recreuit.Subtitles(6).Subtitles.Text
@@ -3349,7 +3349,7 @@ msgstr "márcala y envíala a reparar"
 #: /Game/QualityCheck/sounds/tutorialPhrases/19.19.Subtitles(0).Subtitles.Text
 msgctxt ",E6AE774F4B7175EA963A6CA302649A2F"
 msgid "Today’s task: box doors"
-msgstr "La tarea de hoy: puertas de caja"
+msgstr "La tarea de hoy: puerta de la caja"
 
 #. Key:	F9250EFE4CF3D5D6C90597824853A16C
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/19.19.Subtitles(1).Subtitles.Text
@@ -4798,7 +4798,7 @@ msgstr "Recompensa"
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:WidgetTree.TextBlock_268.Text
 msgctxt ",7ABC79D347782118DE1FB48DD89D4093"
 msgid "Go to home"
-msgstr "Ve a inicio"
+msgstr "Ve a casa"
 
 #. Key:	B2B1C03343BB3A3C18FF3392E06E94D6
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:WidgetTree.TextBlock_3.Text
@@ -4980,7 +4980,7 @@ msgstr "Salir"
 #: /Game/QualityCheck/UI/introQC.introQC_C:WidgetTree.TextBlock_4.Text
 msgctxt ",80E21629480E57C88E262198EC87AC63"
 msgid "Based in Doll Impostor Game/Universe"
-msgstr "Basado en Doll Impostor Game/Universe"
+msgstr "Basado en Juego/Universo de Doll Impostor"
 
 #. Key:	04D63A604E5D6F986FFDA2A1843FAB43
 #. SourceLocation:	/Game/QualityCheck/UI/introQC.introQC_C:WidgetTree.TextBlock_5.Text
