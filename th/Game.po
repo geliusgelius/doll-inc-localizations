@@ -899,14 +899,14 @@ msgstr "งานของพวกเขาคือคอยจับตาด
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(8).Subtitles.Text
 msgctxt ",4DB707544544994F9AE1ED9A6A01A5E8"
 msgid "And you? You disobeyed. You questioned."
-msgstr "และคุณก็? ไม่เชื่อฟังเลย มัวแต่ตั้งคำถาม"
+msgstr "แล้วคุณล่ะ? ไม่เชื่อฟังเลย มัวแต่ตั้งคำถาม"
 
 #. Key:	CE8D381B448561D21479639D363E84DC
 #. SourceLocation:	/Game/QualityCheck/sounds/badending.badending.Subtitles(9).Subtitles.Text
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(9).Subtitles.Text
 msgctxt ",CE8D381B448561D21479639D363E84DC"
 msgid "And here at Doll Inc, we don’t fix disobedience."
-msgstr "และที่ Doll Inc เราไม่แก้ไขการไม่เชื่อฟัง"
+msgstr "และที่นี่คือ Doll Inc เราไม่ได้มีหน้าที่แก้ไขคนที่ไม่ยอมเชื่อฟัง"
 
 #. Key:	6CD4009648A8F45C0353C5A379030501
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(0).Subtitles.Text
@@ -927,7 +927,7 @@ msgstr "คุณทำได้"
 #: /Game/QualityCheck/sounds/congrats.congrats.Subtitles(10).Subtitles.Text
 msgctxt ",890478D741033CD1FC45B4A0D13666B4"
 msgid "Proceed to your assigned workstation."
-msgstr "ไปยังสถานีงานที่กำหนด"
+msgstr "ไปยังสถานที่ที่ได้รับมอบหมายของคุณ"
 
 #. Key:	4948BB6F42DAA4B3F2F999825CD512C4
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(11).Subtitles.Text
@@ -941,14 +941,14 @@ msgstr "คุณสมควรได้รับมัน"
 #: /Game/QualityCheck/sounds/congrats.congrats.Subtitles(2).Subtitles.Text
 msgctxt ",066A75B44D6B5B7E0EDB95B11199B641"
 msgid "Thirty days. No failures. No hesitation."
-msgstr "สามสิบวัน ไม่มีความล้มเหลว ไม่มีความลังเล"
+msgstr "ในสามสิบวันนี้ ไม่มีความล้มเหลว ไม่มีความลังเล"
 
 #. Key:	12A242EF49576C88B24BD5A239057E76
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/congrats.congrats.Subtitles(3).Subtitles.Text
 msgctxt ",12A242EF49576C88B24BD5A239057E76"
 msgid "Your performance has been... acceptable."
-msgstr "ผลงานของคุณ…พอใช้ได้"
+msgstr "ผลงานของคุณหรอ… ก็พอใช้ได้นะ"
 
 #. Key:	27FF2EBB483629E41EE5F99613E13A60
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(4).Subtitles.Text
@@ -962,7 +962,7 @@ msgstr "แม่นยำ มีประสิทธิภาพ เชื่�
 #: /Game/QualityCheck/sounds/congrats.congrats.Subtitles(5).Subtitles.Text
 msgctxt ",0E64F0F24E5036B06CC7FDA7984F9B45"
 msgid "You are now an official classification operator of Doll Inc."
-msgstr "คุณคือผู้ปฏิบัติการจัดประเภทอย่างเป็นทางการของ Doll Inc"
+msgstr "ตอนนี้คุณคือพนักงานในแผนกจำแนกสินค้าของ Doll INC อย่างเป็นทางการแล้ว"
 
 #. Key:	9B76EE864B70B834D99398A691266E81
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(6).Subtitles.Text
@@ -976,7 +976,7 @@ msgstr "บัตรของคุณได้รับการอัปเด
 #: /Game/QualityCheck/sounds/congrats.congrats.Subtitles(7).Subtitles.Text
 msgctxt ",C5503D4A4513573E11E791BD8577CEE3"
 msgid "Your permissions... expanded."
-msgstr "สิทธิ์ของคุณ…ขยายขึ้น"
+msgstr "สิทธิ์ของคุณ…ได้ขยายขึ้น"
 
 #. Key:	B258F18D4468043C5D3F04A167B39859
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(8).Subtitles.Text
@@ -990,14 +990,14 @@ msgstr "ยินดีต้อนรับเข้าสู่ระบบ"
 #: /Game/QualityCheck/sounds/congrats.congrats.Subtitles(9).Subtitles.Text
 msgctxt ",78BF72714F67D21C6CB60882A1D2CE36"
 msgid "From now on — your choices will shape much more than production lines."
-msgstr "ตั้งแต่ตอนนี้ — ทางเลือกของคุณจะกำหนดมากกว่าแค่สายการผลิต"
+msgstr "ตั้งแต่ตอนนี้ — หน้าที่รับผิดชอบของคุณจะมีเพิ่มมากกว่าสายการผลิตแล้ว"
 
 #. Key:	1DA8E7AF47D231A4DFEB4C9B53542F8C
 #. SourceLocation:	/Game/QualityCheck/sounds/dontstop.dontstop.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/dontstop.dontstop.Subtitles(0).Subtitles.Text
 msgctxt ",1DA8E7AF47D231A4DFEB4C9B53542F8C"
 msgid "DON'T STOP! KEEP MOVING! KEEP WORKING! STAY FOCUSED!"
-msgstr "อย่าหยุด! ทำต่อ! ทำงานต่อ! ตั้งใจ!"
+msgstr "อย่าหยุด! ทำต่อไป! ทำงานต่อ! ตั้งใจ!"
 
 #. Key:	EC8647854352CA1BFDAC07BF71BB1C0B
 #. SourceLocation:	/Game/QualityCheck/sounds/end.end.Subtitles(0).Subtitles.Text
@@ -1011,7 +1011,7 @@ msgstr "ได้เลย"
 #: /Game/QualityCheck/sounds/end.end.Subtitles(1).Subtitles.Text
 msgctxt ",E9A728294CA24423E1921F9F3DD1B86B"
 msgid "Report to the facility immediately for your first assessment."
-msgstr "รายงานตัวที่โรงงานทันทีสำหรับการประเมินครั้งแรก"
+msgstr "โปรดรายงานตัวที่โรงงานทันทีสำหรับการประเมินครั้งแรก"
 
 #. Key:	D670B99E4C4997AE7138549BB082F5FA
 #. SourceLocation:	/Game/QualityCheck/sounds/end.end.Subtitles(2).Subtitles.Text
@@ -1039,7 +1039,7 @@ msgstr "Doll INC ทำงานตลอด 24 ชั่วโมง"
 #: /Game/QualityCheck/sounds/end.end.Subtitles(7).Subtitles.Text
 msgctxt ",3310E30F4B335D549B8EE9BE775548DF"
 msgid "MOVE YOUR ASS!"
-msgstr "ขยับสิ!"
+msgstr "ขยับตัวได้แล้ว!"
 
 #. Key:	FB58EE68471300799123978E17900858
 #. SourceLocation:	/Game/QualityCheck/sounds/ENDGAMEOVRE.ENDGAMEOVRE.Subtitles(0).Subtitles.Text
@@ -1067,21 +1067,21 @@ msgstr "อนาถใจ"
 #: /Game/QualityCheck/sounds/ENDGAMEOVRE.ENDGAMEOVRE.Subtitles(11).Subtitles.Text
 msgctxt ",02FBB65342F24F48C7250B890969931F"
 msgid "You are hereby terminated. "
-msgstr "คุณถูกเลิกจ้าง"
+msgstr "คุณถูกเลิกจ้างแล้ว"
 
 #. Key:	CF664A92478727A653553388AE7F13BB
 #. SourceLocation:	/Game/QualityCheck/sounds/ENDGAMEOVRE.ENDGAMEOVRE.Subtitles(12).Subtitles.Text
 #: /Game/QualityCheck/sounds/ENDGAMEOVRE.ENDGAMEOVRE.Subtitles(12).Subtitles.Text
 msgctxt ",CF664A92478727A653553388AE7F13BB"
 msgid "Don’t come back. Ever."
-msgstr "อย่ากลับมาอีก"
+msgstr "อย่ากลับมาอีก ไม่ว่าเมื่อใด"
 
 #. Key:	A8EB87594CDE2E2FBE14CD883EAB8501
 #. SourceLocation:	/Game/QualityCheck/sounds/ENDGAMEOVRE.ENDGAMEOVRE.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/ENDGAMEOVRE.ENDGAMEOVRE.Subtitles(2).Subtitles.Text
 msgctxt ",A8EB87594CDE2E2FBE14CD883EAB8501"
 msgid "And yet — here we are."
-msgstr "แต่เราก็อยู่ที่นี่"
+msgstr "แต่ยังไงซะ เราก็อยู่ที่นี่แล้ว"
 
 #. Key:	6278778C43C867391512508AFA04A422
 #. SourceLocation:	/Game/QualityCheck/sounds/ENDGAMEOVRE.ENDGAMEOVRE.Subtitles(3).Subtitles.Text
@@ -1123,91 +1123,91 @@ msgstr "เชื่อฟัง"
 #: /Game/QualityCheck/sounds/ENDGAMEOVRE.ENDGAMEOVRE.Subtitles(8).Subtitles.Text
 msgctxt ",325B71624CE6BE162718C9AFE80D545E"
 msgid "Discipline."
-msgstr "วินัย"
+msgstr "มีวินัย"
 
 #. Key:	EB306746450020DCD6B9D88D38744D42
 #. SourceLocation:	/Game/QualityCheck/sounds/ENDGAMEOVRE.ENDGAMEOVRE.Subtitles(9).Subtitles.Text
 #: /Game/QualityCheck/sounds/ENDGAMEOVRE.ENDGAMEOVRE.Subtitles(9).Subtitles.Text
 msgctxt ",EB306746450020DCD6B9D88D38744D42"
 msgid "You couldn’t even survive thirty days?"
-msgstr "คุณเอาตัวรอดไม่ถึงสามสิบวันเหรอ?"
+msgstr "ในสามสิบวันนี้ คุณจะเอาตัวรอดไหวไหม?"
 
 #. Key:	E41FDFAB403B4DFA6154F58D135C668C
 #. SourceLocation:	/Game/QualityCheck/sounds/endless.endless.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/endless.endless.Subtitles(0).Subtitles.Text
 msgctxt ",E41FDFAB403B4DFA6154F58D135C668C"
 msgid "Welcome to Endless Mode"
-msgstr "ยินดีต้อนรับสู่โหมดไร้ที่สิ้นสุด"
+msgstr "ยินดีต้อนรับสู่โหมดไม่รู้จบ"
 
 #. Key:	951669334150E951C5F16BB4C20CE96C
 #. SourceLocation:	/Game/QualityCheck/sounds/endless.endless.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/endless.endless.Subtitles(1).Subtitles.Text
 msgctxt ",951669334150E951C5F16BB4C20CE96C"
 msgid "In this mode, products will appear endlessly, one after another"
-msgstr "ในโหมดนี้ ผลิตภัณฑ์จะปรากฏอย่างไม่สิ้นสุดทีละชิ้น"
+msgstr "ในโหมดนี้ ผลิตภัณฑ์จะปรากฏอย่างต่อเนื่องทีละชิ้นและไม่มีที่สิ้นสุด"
 
 #. Key:	25D358E7414D764E3AB7989C0DB88A69
 #. SourceLocation:	/Game/QualityCheck/sounds/endless.endless.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/endless.endless.Subtitles(2).Subtitles.Text
 msgctxt ",25D358E7414D764E3AB7989C0DB88A69"
 msgid "If you fail or decide to leave through the exit door…"
-msgstr "ถ้าคุณล้มเหลวหรือเลือกออกทางประตู…"
+msgstr "ถ้าคุณพลาด หรือเลือกที่จะออกทางประตู…"
 
 #. Key:	D820751149E19C55EE428DA320211476
 #. SourceLocation:	/Game/QualityCheck/sounds/endless.endless.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/endless.endless.Subtitles(3).Subtitles.Text
 msgctxt ",D820751149E19C55EE428DA320211476"
 msgid "It’s over"
-msgstr "จบแล้ว"
+msgstr "เกมก็จะจบลง"
 
 #. Key:	2434DB9446AAFB679465D0A352D0D867
 #. SourceLocation:	/Game/QualityCheck/sounds/endSounds/1.1.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/endSounds/1.1.Subtitles(0).Subtitles.Text
 msgctxt ",2434DB9446AAFB679465D0A352D0D867"
 msgid "Your shift is over. Go home."
-msgstr "กะของคุณจบแล้ว กลับบ้าน"
+msgstr "งานกะของคุณจบแล้ว กลับบ้านได้"
 
 #. Key:	6544B9E8487C8520A295A7A137FBBF22
 #. SourceLocation:	/Game/QualityCheck/sounds/endSounds/10.10.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/endSounds/10.10.Subtitles(0).Subtitles.Text
 msgctxt ",6544B9E8487C8520A295A7A137FBBF22"
 msgid "Day cleared. You may leave — for now."
-msgstr "วันทำงานสำเร็จ คุณอาจออกได้ — ตอนนี้"
+msgstr "วันทำงานสำเร็จ คุณอาจออกได้ — ในตอนนี้"
 
 #. Key:	1FF04D174419895795E949A055FE2739
 #. SourceLocation:	/Game/QualityCheck/sounds/endSounds/2.2.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/endSounds/2.2.Subtitles(0).Subtitles.Text
 msgctxt ",1FF04D174419895795E949A055FE2739"
 msgid "You’re dismissed. Follow protocol and exit immediately."
-msgstr "คุณได้รับการปลด ปฏิบัติตามโปรโตคอลและออกทันที"
+msgstr "คุณถูกไล่ออกแล้ว โปรดปฏิบัติตามขั้นตอนและออกจากที่นี่ในทันที"
 
 #. Key:	6E8931024D52A2A7CE0C578473A45477
 #. SourceLocation:	/Game/QualityCheck/sounds/endSounds/3.3.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/endSounds/3.3.Subtitles(0).Subtitles.Text
 msgctxt ",6E8931024D52A2A7CE0C578473A45477"
 msgid "That’s enough for today. Exit through the designated corridor."
-msgstr "พอสำหรับวันนี้ ออกทางทางเดินที่กำหนด"
+msgstr "เพียงพอสำหรับวันนี้ ออกไปตามทางเดินที่กำหนดไว้"
 
 #. Key:	4DB0F4414D1C1BDAA76659A3E41536DD
 #. SourceLocation:	/Game/QualityCheck/sounds/endSounds/4.4.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/endSounds/4.4.Subtitles(0).Subtitles.Text
 msgctxt ",4DB0F4414D1C1BDAA76659A3E41536DD"
 msgid "Day complete. Proceed to departure."
-msgstr "วันทำงานเสร็จสิ้น ไปยังจุดออก"
+msgstr "วันทำงานเสร็จสิ้น ไปยังทางออก"
 
 #. Key:	1A967620432C6AE2403CF7880498E07B
 #. SourceLocation:	/Game/QualityCheck/sounds/endSounds/5.5.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/endSounds/5.5.Subtitles(0).Subtitles.Text
 msgctxt ",1A967620432C6AE2403CF7880498E07B"
 msgid "You’ve done your part. Leave the facility."
-msgstr "คุณทำหน้าที่แล้ว ออกจากสถานที่"
+msgstr "คุณหมดหน้าที่แล้ว ออกจากสถานที่"
 
 #. Key:	C1401200472B0B4B2B4A80A16C276AD3
 #. SourceLocation:	/Game/QualityCheck/sounds/endSounds/6.6.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/endSounds/6.6.Subtitles(0).Subtitles.Text
 msgctxt ",C1401200472B0B4B2B4A80A16C276AD3"
 msgid "That will be all, Operator. You’ll be needed again soon."
-msgstr "เท่านี้แหละ Operator คุณจะถูกเรียกใช้ซ้ำเร็ว ๆ นี้"
+msgstr "เท่านี้แหละ Operator อีกไม่นานคุณจะถูกเรียกตัวอีกครั้ง"
 
 #. Key:	3AF90F0D4B648C92F3E3729433C10778
 #. SourceLocation:	/Game/QualityCheck/sounds/endSounds/7.7.Subtitles(0).Subtitles.Text
@@ -1249,49 +1249,49 @@ msgstr "ยินดีด้วย!"
 #: /Game/QualityCheck/sounds/first.first.Subtitles(1).Subtitles.Text
 msgctxt ",95119571473B4F2FA6351E896995F3D6"
 msgid "You’ve been selected as a candidate for the Doll INC Evaluation Program."
-msgstr "คุณได้รับการคัดเลือกเป็นผู้สมัครโปรแกรมประเมินผล Doll INC"
+msgstr "คุณได้รับการคัดเลือกให้เป็นผู้สมัครโปรแกรมประเมินผลของบริษัท Doll INC แล้ว"
 
 #. Key:	C7AA57CA42D0F2EFE6AB08BD9BE69E8A
 #. SourceLocation:	/Game/QualityCheck/sounds/first.first.Subtitles(11).Subtitles.Text
 #: /Game/QualityCheck/sounds/first.first.Subtitles(11).Subtitles.Text
 msgctxt ",C7AA57CA42D0F2EFE6AB08BD9BE69E8A"
 msgid "We’re currently recruiting for our revolutionary product Doll Impostor."
-msgstr "เรากำลังสรรหาสำหรับผลิตภัณฑ์ปฏิวัติ Doll Impostor"
+msgstr "ขณะนี้เรากำลังสรรหาผู้ที่มีสามารถจะมาปฏิวัติวงการผลิตภัณฑ์ของเรา Doll Impostor นั่นเอง"
 
 #. Key:	B14FF1EF4C9081C3882CA69CB187BB28
 #. SourceLocation:	/Game/QualityCheck/sounds/first.first.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/first.first.Subtitles(2).Subtitles.Text
 msgctxt ",B14FF1EF4C9081C3882CA69CB187BB28"
 msgid "Before we begin, let me ask you a few questions…"
-msgstr "ก่อนเริ่ม ขอถามคุณสักสองสามคำถาม…"
+msgstr "ก่อนจะเริ่ม ผมขอถามคุณสักสองสามคำถามหน่อย…"
 
 #. Key:	FBF8CA6B4D0B3EC5591E809E584663D7
 #. SourceLocation:	/Game/QualityCheck/sounds/first.first.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/first.first.Subtitles(4).Subtitles.Text
 msgctxt ",FBF8CA6B4D0B3EC5591E809E584663D7"
 msgid "Do you currently have a job?"
-msgstr "คุณกำลังมีงานหรือไม่?"
+msgstr "คุณกำลังมีงานทำอยู่หรือไม่?"
 
 #. Key:	36F92ACD42A227776422899283AEB54E
 #. SourceLocation:	/Game/QualityCheck/sounds/first.first.Subtitles(6).Subtitles.Text
 #: /Game/QualityCheck/sounds/first.first.Subtitles(6).Subtitles.Text
 msgctxt ",36F92ACD42A227776422899283AEB54E"
 msgid "...No?"
-msgstr "…ไม่มี?"
+msgstr "…ไม่มีนะ?"
 
 #. Key:	6A9348AA4E9235D7EB6838858ADB5E7E
 #. SourceLocation:	/Game/QualityCheck/sounds/first.first.Subtitles(7).Subtitles.Text
 #: /Game/QualityCheck/sounds/first.first.Subtitles(7).Subtitles.Text
 msgctxt ",6A9348AA4E9235D7EB6838858ADB5E7E"
 msgid "Are you looking for one?  "
-msgstr "คุณกำลังหางานอยู่หรือ?"
+msgstr "คุณกำลังหางานอยู่ใช่ไหม?"
 
 #. Key:	6D559E944FF79D2D62D163AD47E3FC73
 #. SourceLocation:	/Game/QualityCheck/sounds/first.first.Subtitles(9).Subtitles.Text
 #: /Game/QualityCheck/sounds/first.first.Subtitles(9).Subtitles.Text
 msgctxt ",6D559E944FF79D2D62D163AD47E3FC73"
 msgid "Do you know Doll INC?"
-msgstr "คุณรู้จัก Doll INC หรือไม่?"
+msgstr "แล้วคุณรู้จัก Doll INC ไหมล่ะ?"
 
 #. Key:	27415F084B1E7E3DBA9A8C8F156AEDC1
 #. SourceLocation:	/Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(0).Subtitles.Text
@@ -1312,7 +1312,7 @@ msgstr "พวกมันตามล่าเรา"
 #: /Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(2).Subtitles.Text
 msgctxt ",43B81234453DF0EA7E567396501F439C"
 msgid "The government sent the military, those giant? Yeah, them."
-msgstr "รัฐบาลส่งทหาร เหล่ายักษ์? ใช่ พวกนั้น"
+msgstr "รัฐบาลส่งทหารมา เจ้าพวกยักษ์นั่น? ใช่ พวกนั้น"
 
 #. Key:	7CE22F524D3105B4F76CA0B4705A5700
 #. SourceLocation:	/Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(3).Subtitles.Text
@@ -1326,21 +1326,21 @@ msgstr "พวกมันล็อกดาวน์สถานที่ ไ�
 #: /Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(4).Subtitles.Text
 msgctxt ",EFA4058643E5E0665BB1A8BC76C02941"
 msgid "They’re suspecting sabotage… and I think I’m their target"
-msgstr "พวกเขาสงสัยการก่อวินาศกรรม… และฉันคิดว่าฉันเป็นเป้าหมาย"
+msgstr "พวกเขาสงสัยการก่อวินาศกรรม… และฉันคิดว่าฉันตกเป็นเป้าหมายพวกเขา"
 
 #. Key:	4C1125614A775B320EDBA0AAF4088FC8
 #. SourceLocation:	/Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(5).Subtitles.Text
 #: /Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(5).Subtitles.Text
 msgctxt ",4C1125614A775B320EDBA0AAF4088FC8"
 msgid "So please, be more careful than ever"
-msgstr "โปรดระวังให้มากขึ้นกว่าที่เคย"
+msgstr "โปรดระวังให้มากขึ้นกว่าเดิม"
 
 #. Key:	83EE4F244505E58E7623B98CDEEBE1E3
 #. SourceLocation:	/Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(6).Subtitles.Text
 #: /Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(6).Subtitles.Text
 msgctxt ",83EE4F244505E58E7623B98CDEEBE1E3"
 msgid "They’re watching everything"
-msgstr "พวกมันเฝ้าดูทุกอย่าง"
+msgstr "พวกเขากำลังจับตาดูทุกย่างก้าว"
 
 #. Key:	1FAEAC2946B6A50A74FD8E842B678044
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(0).Subtitles.Text
@@ -1354,56 +1354,56 @@ msgstr "ATTENTION, RESPONSIBLE CITIZEN!"
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(1).Subtitles.Text
 msgctxt ",4972757547FC371762329CBFE072CF34"
 msgid "Are you looking for a stable, clean, and promising opportunity?"
-msgstr "คุณกำลังมองหาโอกาสที่มั่นคง สะอาด และมีแนวโน้มดีหรือ?"
+msgstr "คุณกำลังมองหาโอกาสที่มั่นคง สะอาดเอี่ยม และมีแนวโน้มไปได้สวยใช่ไหมล่ะ?"
 
 #. Key:	945FF43742D74FEBA91809B28A214118
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(10).Subtitles.Text
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(10).Subtitles.Text
 msgctxt ",945FF43742D74FEBA91809B28A214118"
 msgid "Full labor insurance"
-msgstr "ประกันแรงงานเต็มรูปแบบ"
+msgstr "มีประกันแรงงานเต็มรูปแบบ"
 
 #. Key:	65CA5B094DD49E95C86DC7ACBFF409B2
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(11).Subtitles.Text
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(11).Subtitles.Text
 msgctxt ",65CA5B094DD49E95C86DC7ACBFF409B2"
 msgid "Recognition for exemplary performance"
-msgstr "การยอมรับสำหรับผลงานยอดเยี่ยม"
+msgstr "ได้รับการยอมรับถ้าสร้างผลงานได้ยอดเยี่ยม"
 
 #. Key:	45D5775A40CC893184CF3CA971ED904D
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(12).Subtitles.Text
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(12).Subtitles.Text
 msgctxt ",45D5775A40CC893184CF3CA971ED904D"
 msgid "No prior experience required. Just firm judgment, obedience, and commitment."
-msgstr "ไม่ต้องมีประสบการณ์ก่อนหน้า แค่การตัดสินที่มั่นคง เชื่อฟัง และมุ่งมั่น"
+msgstr "ไม่จำเป็นต้องมีประสบการณ์ก่อนหน้า แค่การตัดสินที่มั่นคง เชื่อฟัง และมุ่งมั่น เท่านั้น"
 
 #. Key:	2EB5E53746CCD50933180C9A89984C92
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(13).Subtitles.Text
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(13).Subtitles.Text
 msgctxt ",2EB5E53746CCD50933180C9A89984C92"
 msgid "Because in our line, there is no room for error..."
-msgstr "เพราะในสายงานนี้ไม่มีที่ว่างให้ผิดพลาด..."
+msgstr "เพราะในสายงานนี้ไม่มีที่ว่างให้กับความผิดพลาด..."
 
 #. Key:	46636DB148167C5943A00F9C766690DE
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(14).Subtitles.Text
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(14).Subtitles.Text
 msgctxt ",46636DB148167C5943A00F9C766690DE"
 msgid "nor for those who hesitate."
-msgstr "หรือผู้ที่ลังเล"
+msgstr "หรือแม้แต่ผู้ที่ใจโลเล"
 
 #. Key:	0E1A3A1546EFA926F1D75C9E0DACE598
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(15).Subtitles.Text
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(15).Subtitles.Text
 msgctxt ",0E1A3A1546EFA926F1D75C9E0DACE598"
 msgid "You decide… but you are not alone."
-msgstr "คุณตัดสินใจ…แต่คุณไม่ได้อยู่คนเดียว"
+msgstr "อยู่ที่คุณตัดสินใจ… แต่คุณไม่ได้อยู่คนเดียวนะ"
 
 #. Key:	AB262C174AD69A7B5CD554AAE37FF58E
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(16).Subtitles.Text
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(16).Subtitles.Text
 msgctxt ",AB262C174AD69A7B5CD554AAE37FF58E"
 msgid "Apply now. The system needs you."
-msgstr "สมัครเลย ระบบต้องการคุณ"
+msgstr "มาสมัครเลย พวกเราต้องการคุณ"
 
 #. Key:	A71CAE2F42624114E9E9F0A07510F013
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(2).Subtitles.Text
@@ -1417,7 +1417,7 @@ msgstr "คุณต้องการเป็นส่วนหนึ่งข
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(3).Subtitles.Text
 msgctxt ",B4F84D984C01A3F7D2C8769ACDD98D0B"
 msgid "JOIN THE INDUSTRIAL SORTING PROGRAM!"
-msgstr "เข้าร่วมโปรแกรมจัดเรียงอุตสาหกรรม!"
+msgstr "มาเข้าร่วมโรงงานอุตสาหกรรมฝ่ายจัดเรียงสินค้ากัน!"
 
 #. Key:	5ABAC75A47BF094E36D99B98F2E4B29D
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(4).Subtitles.Text
@@ -1431,14 +1431,14 @@ msgstr "กลายเป็นเจ้าหน้าที่รับผิ
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(5).Subtitles.Text
 msgctxt ",2D9A827F4E246B747FFAC381BC508D03"
 msgid "From the comfort of a central station equipped with cutting-edge technology,"
-msgstr "จากความสะดวกสบายของสถานีกลางที่มีเทคโนโลยีล้ำสมัย,"
+msgstr "จากความสะดวกสบายของศูนย์กลางที่มีเทคโนโลยีล้ำสมัย,"
 
 #. Key:	F250C1044ABAE9CF8CF4208708832C35
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(6).Subtitles.Text
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(6).Subtitles.Text
 msgctxt ",F250C1044ABAE9CF8CF4208708832C35"
 msgid "you will help ensure each product meets the highest standards of efficiency."
-msgstr "คุณจะช่วยให้ผลิตภัณฑ์แต่ละชิ้นเป็นไปตามมาตรฐานสูงสุดของประสิทธิภาพ"
+msgstr "คุณจะช่วยให้ผลิตภัณฑ์แต่ละชิ้น มีประสิทธิภาพสูงสุดตามมาตรฐานของเรา"
 
 #. Key:	21B60D81475E3E160EDD6B85C6804B06
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(7).Subtitles.Text
@@ -1459,7 +1459,7 @@ msgstr "ตารางเวลาคงที่"
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(9).Subtitles.Text
 msgctxt ",44B1126B42DC2B70CD5FFF8FED1BB695"
 msgid "Meals included"
-msgstr "รวมมื้ออาหาร"
+msgstr "เข้ารวมมื้ออาหาร"
 
 #. Key:	619FB5894BB8808FBFCC05B85D496DD9
 #. SourceLocation:	/Game/QualityCheck/sounds/nogame.nogame.Subtitles(0).Subtitles.Text
@@ -1473,21 +1473,21 @@ msgstr "อะไรนะ?!"
 #: /Game/QualityCheck/sounds/nogame.nogame.Subtitles(2).Subtitles.Text
 msgctxt ",3910694F44D17E730991FFA0AB99A0FD"
 msgid "You don’t know Doll Impostor?"
-msgstr "คุณไม่รู้จัก Doll Impostor หรือ?"
+msgstr "คุณไม่รู้จัก Doll Impostor หรอ?"
 
 #. Key:	A83F9BCD404D29341DCD4F8F68E25666
 #. SourceLocation:	/Game/QualityCheck/sounds/nogame.nogame.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/nogame.nogame.Subtitles(4).Subtitles.Text
 msgctxt ",A83F9BCD404D29341DCD4F8F68E25666"
 msgid "Then why did you even apply?!"
-msgstr "แล้วทำไมถึงสมัคร?"
+msgstr "แล้วทำไมถึงอยากสมัครมาล่ะ?"
 
 #. Key:	1FAA79E548CC28378A0562B0AD970F45
 #. SourceLocation:	/Game/QualityCheck/sounds/nogame.nogame.Subtitles(6).Subtitles.Text
 #: /Game/QualityCheck/sounds/nogame.nogame.Subtitles(6).Subtitles.Text
 msgctxt ",1FAA79E548CC28378A0562B0AD970F45"
 msgid "Good heavens..."
-msgstr "โอ้ พระเจ้า..."
+msgstr "สวรรค์ทรงโปรด..."
 
 #. Key:	4C01D08A41D76453640C1E8F4CD2C1C5
 #. SourceLocation:	/Game/QualityCheck/sounds/nogame.nogame.Subtitles(8).Subtitles.Text
@@ -1508,35 +1508,35 @@ msgstr "OPERATOR!"
 #: /Game/QualityCheck/sounds/operatorsound.operatorsound.Subtitles(1).Subtitles.Text
 msgctxt ",35696E984A523E0EC1E283B88D134BBE"
 msgid "Is everything in order?"
-msgstr "ทุกอย่างเรียบร้อยหรือ?"
+msgstr "ทุกอย่างเรียบร้อยไหม?"
 
 #. Key:	D16FBC434142CE6E9C10E98AB5B3C47A
 #. SourceLocation:	/Game/QualityCheck/sounds/operatorsound.operatorsound.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/operatorsound.operatorsound.Subtitles(2).Subtitles.Text
 msgctxt ",D16FBC434142CE6E9C10E98AB5B3C47A"
 msgid "...You looked a bit slow back there"
-msgstr "...คุณดูช้าหน่อยตรงนั้น"
+msgstr "...คุณที่อยู่ตรงนั้นน่ะดูอืดอาดไปหน่อยนะ"
 
 #. Key:	A1051C0E4C81AC9D67E613B3AAFEF858
 #. SourceLocation:	/Game/QualityCheck/sounds/operatorsound.operatorsound.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/operatorsound.operatorsound.Subtitles(3).Subtitles.Text
 msgctxt ",A1051C0E4C81AC9D67E613B3AAFEF858"
 msgid "Just making sure you're focused."
-msgstr "แค่ตรวจว่าคุณตั้งใจ"
+msgstr "ขอให้แน่ใจว่าคุณตั้งใจทำงาน"
 
 #. Key:	23C2629449FED2977D57F292B8AFF262
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/1.1.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/1.1.Subtitles(0).Subtitles.Text
 msgctxt ",23C2629449FED2977D57F292B8AFF262"
 msgid "Welcome to DOLL INC. How was your trip?"
-msgstr "ยินดีต้อนรับสู่ DOLL INC การเดินทางของคุณเป็นอย่างไร?"
+msgstr "ยินดีต้อนรับสู่ DOLL INC การเดินทางของคุณเป็นอย่างไรบ้าง?"
 
 #. Key:	92538BAF480A320CD6AF55ADADCFA6F9
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/10.10.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/10.10.Subtitles(0).Subtitles.Text
 msgctxt ",92538BAF480A320CD6AF55ADADCFA6F9"
 msgid "This center operates with zero human employees."
-msgstr "ศูนย์นี้ไม่มีพนักงานมนุษย์เลย"
+msgstr "ในศูนย์แห่งนี้ดำเนินงานด้วยพนักงานหุ่นยนต์ล้วน ไร้มนุษย์"
 
 #. Key:	934AF6164E9D6DEC7610089653A75AD4
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/11.11.Subtitles(0).Subtitles.Text
@@ -1550,133 +1550,133 @@ msgstr "DOLL INC. เป็นผู้นำระดับโลกด้า�
 #: /Game/QualityCheck/sounds/phrases/12.12.Subtitles(0).Subtitles.Text
 msgctxt ",8E8013C6452832C0F8335797C47B0EBE"
 msgid "The power consumption of DOLL INC. is so high it could sustain a megacity."
-msgstr "การใช้พลังงานของ DOLL INC. สูงพอที่จะเลี้ยงเมืองใหญ่ได้"
+msgstr "การใช้พลังงานของ DOLL INC. สูงพอที่จะเลี้ยงเมืองใหญ่ทั้งเมืองได้สบายเลย"
 
 #. Key:	B7D7185D4F0DFF816301C9B8EB075A9D
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/13.13.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/13.13.Subtitles(0).Subtitles.Text
 msgctxt ",B7D7185D4F0DFF816301C9B8EB075A9D"
 msgid "This factory produces its own electricity. It doesn’t need the outside world."
-msgstr "โรงงานนี้ผลิตไฟฟ้าเอง ไม่ต้องพึ่งโลกภายนอก"
+msgstr "โรงงานแห่งนี้มีแหล่งผลิตกระแสไฟฟ้าเป็นของตัวเอง ไม่จำเป็นต้องใช้จากภายนอก"
 
 #. Key:	3B6C3FD344B4E7EB2D9FC2B8D1D19891
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/2.2.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/2.2.Subtitles(0).Subtitles.Text
 msgctxt ",3B6C3FD344B4E7EB2D9FC2B8D1D19891"
 msgid "If you're new, please proceed to the Dispatchs Room. Just go straight and turn right."
-msgstr "ถ้าคุณเป็นใหม่ โปรดไปยัง Dispatchs Room ตรงไปแล้วเลี้ยวขวา"
+msgstr "ถ้าหากคุณมาใหม่ โปรดไปยังห้องจัดส่ง แค่เดินตรงไปแล้วก็เลี้ยวขวาตรงนั้น"
 
 #. Key:	0DFB312842637757F54048AB5941FB43
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/3.3.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/3.3.Subtitles(0).Subtitles.Text
 msgctxt ",0DFB312842637757F54048AB5941FB43"
 msgid "Having trouble with one of our products? Please visit Customer Support at reception."
-msgstr "มีปัญหากับผลิตภัณฑ์ของเรา โปรดไปที่ฝ่ายบริการลูกค้าที่เคาน์เตอร์ต้อนรับ"
+msgstr "มีปัญหากับหนึ่งในผลิตภัณฑ์ของเราใช่ไหม? โปรดติดต่อเจ้าหน้าที่ที่แผนกต้อนรับได้เลย"
 
 #. Key:	5EEBC87E423C794916E6D9B877C3C505
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/4.4.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/4.4.Subtitles(0).Subtitles.Text
 msgctxt ",5EEBC87E423C794916E6D9B877C3C505"
 msgid "Need to speak with a supervisor? I'm afraid this facility is fully automated. No one will assist you."
-msgstr "ต้องการพูดกับผู้ควบคุมไหม? เสียใจด้วย ศูนย์นี้อัตโนมัติเต็มรูปแบบ ไม่มีใครช่วยคุณ"
+msgstr "ต้องการพูดกับผู้ควบคุมไหม? ศูนย์นี้เป็นศูนย์อัตโนมัติเต็มรูปแบบ ไม่มีใครช่วยคุณได้ ขออภัยในความไม่สะดวก"
 
 #. Key:	5F1F13E243AE2A28C75B9CA746A1EE4E
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/5.5.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/5.5.Subtitles(0).Subtitles.Text
 msgctxt ",5F1F13E243AE2A28C75B9CA746A1EE4E"
 msgid "Did you know DOLL INC. offers products from the hit game Doll Impostor?"
-msgstr "คุณรู้ไหม DOLL INC. มีสินค้าจากเกม Doll Impostor?"
+msgstr "คุณรู้ไหมว่า DOLL INC. มีสินค้าจากเกมที่คุ้นเคยอย่าง Doll Impostor ด้วยนะ?"
 
 #. Key:	12E1D45145D81B6312803CA13F33442E
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/6.6.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/6.6.Subtitles(0).Subtitles.Text
 msgctxt ",12E1D45145D81B6312803CA13F33442E"
 msgid "DOLL INC. originally started as a pharmaceutical company."
-msgstr "DOLL INC. เริ่มต้นจากบริษัทเภสัชกรรม"
+msgstr "ในแรกเริ่ม Doll INC เป็นบริษัทเกี่ยวกับการผลิตยาเวชภัณฑ์ เภสัชกรรมมาก่อน"
 
 #. Key:	424D99844AB97FF3DF4F8D9DBC9666C2
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/7.7.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/7.7.Subtitles(0).Subtitles.Text
 msgctxt ",424D99844AB97FF3DF4F8D9DBC9666C2"
 msgid "DOLL INC. maintains a comprehensive surveillance system. Everything is recorded and controlled."
-msgstr "DOLL INC. มีระบบเฝ้าระวังครอบคลุม ทุกอย่างถูกบันทึกและควบคุม"
+msgstr "ใน Doll INC มีระบบรักษาความปลอดภัยที่ครอบคลุมทุกพื้นที่ ทุกอย่างจะมีการบันทึกและมีการควบคุมเอาไว้อย่างดี"
 
 #. Key:	3255FD1D45BAE0F40A68B5A746D758AC
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/8.8.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/8.8.Subtitles(0).Subtitles.Text
 msgctxt ",3255FD1D45BAE0F40A68B5A746D758AC"
 msgid "Did you know Lucy hates her partner Max? In fact, the feeling is mutual."
-msgstr "คุณรู้ไหม ลูซี่เกลียดแม็กซ์ คู่หูของเธอ? ความรู้สึกก็ตรงกัน"
+msgstr "คุณรู้หรือไม่ว่า Lucy เกลียด Max แม้ว่าเขาจะเป็นหุ้นส่วนของเธอก็ตาม? จริง ๆ แล้ว เราก็รู้สึกแบบนั้นเหมือนกัน"
 
 #. Key:	04A2772A41BB362B62114B823486A761
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/9.9.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/9.9.Subtitles(0).Subtitles.Text
 msgctxt ",04A2772A41BB362B62114B823486A761"
 msgid "This facility contains over 45,000 surveillance cameras."
-msgstr "ที่นี่มีกล้องวงจรปิดกว่า 45,000 ตัว"
+msgstr "ที่นี่มีกล้องวงจรปิดกว่า 45,000 ตัวในบริษัทแห่งนี้ ครอบคลุมทั่วทั้งบริษัทเลยนะ"
 
 #. Key:	00C8021F4BA2277E831CB49059966107
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/1.1.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/approved/1.1.Subtitles(0).Subtitles.Text
 msgctxt ",00C8021F4BA2277E831CB49059966107"
 msgid "Good. Finally, you're doing something right."
-msgstr "ดีมาก สุดท้ายคุณก็ทำถูก"
+msgstr "ดีมาก สุดท้ายคุณก็ทำถูกกับเขาซักที"
 
 #. Key:	EB1526D34903F2A98135968929945E53
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/10.10.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/approved/10.10.Subtitles(0).Subtitles.Text
 msgctxt ",EB1526D34903F2A98135968929945E53"
 msgid "Good job, Operator. Try not to mess it up next time."
-msgstr "ทำได้ดี Operator อย่าพลาดคราวหน้าล่ะ"
+msgstr "ทำได้ดี Operator คราวหน้าก็อย่าทำพลาดอีกล่ะ"
 
 #. Key:	557C093E4C89AF17FD0561A302339377
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/2.2.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/approved/2.2.Subtitles(0).Subtitles.Text
 msgctxt ",557C093E4C89AF17FD0561A302339377"
 msgid "That wasn’t completely awful. Keep it up."
-msgstr "ไม่แย่มาก Keep it up"
+msgstr "นั่นไม่น่ากลัวอย่างที่คิดเลย ทำต่อไปกันเถอะ"
 
 #. Key:	166014F142A744CB936F5FAAB1636719
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/3.3.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/approved/3.3.Subtitles(0).Subtitles.Text
 msgctxt ",166014F142A744CB936F5FAAB1636719"
 msgid "Hmm… acceptable. Barely."
-msgstr "ฮืม…พอใช้ได้ แค่นิดเดียว"
+msgstr "อืมม… ก็พอรับได้ งั้น ๆ อ่ะ"
 
 #. Key:	E8EB44DA44B64220DE714FA5EF464957
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/4.4.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/approved/4.4.Subtitles(0).Subtitles.Text
 msgctxt ",E8EB44DA44B64220DE714FA5EF464957"
 msgid "For once, your brain was in sync with your hands."
-msgstr "ครั้งนี้ สมองคุณสอดคล้องกับมือ"
+msgstr "ในครั้งนี้ สมองคุณสอดคล้องกับมือ"
 
 #. Key:	1FDF56C842D6D7B926794DBAB16F4434
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/5.5.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/approved/5.5.Subtitles(0).Subtitles.Text
 msgctxt ",1FDF56C842D6D7B926794DBAB16F4434"
 msgid "Efficient. Clean. I’m impressed — temporarily."
-msgstr "มีประสิทธิภาพ สะอาด ฉันประทับใจ — ชั่วคราว"
+msgstr "มีประสิทธิภาพ สะอาดเอี่ยม ฉันประทับใจ — ก็แค่ตอนนี้"
 
 #. Key:	12D4CC9B4BBAF78AC2BD3E8F3AB5E3FF
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/6.6.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/approved/6.6.Subtitles(0).Subtitles.Text
 msgctxt ",12D4CC9B4BBAF78AC2BD3E8F3AB5E3FF"
 msgid "You’re not entirely useless after all."
-msgstr "คุณไม่ใช่คนไร้ประโยชน์ทั้งหมดซะทีเดียว"
+msgstr "คุณก็ไม่ใช่คนไร้ประโยชน์ไปซะทีเดียวนี่"
 
 #. Key:	480C83EE4FE7472A852F2D85A12261E5
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/7.7.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/approved/7.7.Subtitles(0).Subtitles.Text
 msgctxt ",480C83EE4FE7472A852F2D85A12261E5"
 msgid "You might survive the 30 days at this rate."
-msgstr "ด้วยอัตรานี้ คุณอาจรอด 30 วัน"
+msgstr "ด้วยอัตรานี้ คุณต้องเอาตัวรอดใน 30 วันนี้"
 
 #. Key:	2F0E63674E767B3627CAD6AAF859BD9D
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/8.8.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/approved/8.8.Subtitles(0).Subtitles.Text
 msgctxt ",2F0E63674E767B3627CAD6AAF859BD9D"
 msgid "Well done. Even a broken clock is right twice a day."
-msgstr "ดีมาก แม้แต่ชั่วโมงที่เสียก็ถูกสองครั้งต่อวัน"
+msgstr "ดีมาก แม้แต่นาฬิกาเสียก็ยังบอกเวลาถูกต้องวันละสองครั้ง"
 
 #. Key:	2B3358B44EBA0A0EF08C2B8847D7541B
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/9.9.Subtitles(0).Subtitles.Text
@@ -1690,14 +1690,14 @@ msgstr "นั่นแหละความเชื่อฟังที่เ
 #: /Game/QualityCheck/sounds/phrases/voiceinterview.voiceinterview.Subtitles(0).Subtitles.Text
 msgctxt ",98E5DAF74727728FC67BD6AAA3B40072"
 msgid "Ah, there you are. Right on time."
-msgstr "อ้า นี่คุณนี่ ถึงเวลาเป๊ะ"
+msgstr "อ้า คุณอยู่นี่เอง ได้จังหวะเลย"
 
 #. Key:	904AA2A9436ED8D055F2919F077418C3
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/voiceinterview.voiceinterview.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/voiceinterview.voiceinterview.Subtitles(1).Subtitles.Text
 msgctxt ",904AA2A9436ED8D055F2919F077418C3"
 msgid "Before we begin, I need to ask you a few basic questions... for record-keeping."
-msgstr "ก่อนเริ่ม ขอถามคำถามพื้นฐาน…สำหรับบันทึก"
+msgstr "ก่อนอื่น เราขอถามคำถามพื้นฐาน… สำหรับบันทึกเป็นข้อมูล"
 
 #. Key:	6D68507B4F631D8C6E65F0B88A85015A
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/voiceinterview.voiceinterview.Subtitles(10).Subtitles.Text
