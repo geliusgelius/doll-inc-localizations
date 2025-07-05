@@ -122,7 +122,7 @@ msgstr "Неправильный штрих-код"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",4C7713A24AFB6421C4B494AD85808489"
 msgid "Inconsistent glass"
-msgstr "Неконсистентное стекло"
+msgstr "Неоднородное стекло"
 
 #. Key:	535D24D84B69458DD03D798D96B6007A
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -150,7 +150,7 @@ msgstr "несоответствующий замок"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",70B0850340A625EE624D11AE6552631B"
 msgid "missing slider lock"
-msgstr "отсутствует запорный задвижка"
+msgstr "Отсутствует фиксатор ползунка"
 
 #. Key:	8B56A6DF45A70FEB8B1CD2BA45797776
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -339,7 +339,7 @@ msgstr "Беги"
 #: /Game/QualityCheck/levels/qcm_cafeteria.qcm_cafeteria:PersistentLevel.SkeletalMeshActor_0.New Mission
 msgctxt ",003D0D834733E7C533A89F9D6A1FB8E8"
 msgid "Put a sticker in each table"
-msgstr "Наклей по наклейке на каждый стол"
+msgstr "Наклей стикер на каждый стол"
 
 #. Key:	81E9BAA7419C1B5289437BA82FACBEE1
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch:PersistentLevel.3DKeyShow_C_3.description
@@ -367,7 +367,7 @@ msgstr "Действие давления"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch:PersistentLevel.streamingLevelLoadInteract_C_1.newMission(6 - Value).newMission_Value
 msgctxt ",2FC1B1CB4A4893796C9FF8ABF1A2FE97"
 msgid "Go to Servers room"
-msgstr "Веди в комнату серверов"
+msgstr "Перейдите в серверную комнату"
 
 #. Key:	1CD44A0B4B5EBC23936048B71943D235
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch:PersistentLevel.streamingLevelLoadInteract_C_2.newMission(0 - Value).newMission_Value
@@ -381,28 +381,28 @@ msgstr "Включи свет"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch:PersistentLevel.streamingLevelLoadInteract_C_2.newMission(1 - Value).newMission_Value
 msgctxt ",BD531B9E4442536830BE929E0EE5BE75"
 msgid "Unblock the products on dispatch"
-msgstr "Разблокируй товары в разделе Envíos"
+msgstr "Разблокируйте товары перед отправкой"
 
 #. Key:	166AB17B4C2924FEEED342A0F0C2FD03
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch:PersistentLevel.streamingLevelLoadInteract_C_3.newMission(0 - Value).newMission_Value
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch:PersistentLevel.streamingLevelLoadInteract_C_3.newMission(0 - Value).newMission_Value
 msgctxt ",166AB17B4C2924FEEED342A0F0C2FD03"
 msgid "Go to dispatches room"
-msgstr "Веди в комнату Envíos"
+msgstr "Перейдите в диспетчерскую"
 
 #. Key:	0F12F3904CEF62CE122689A9AFDAD4CA
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",0F12F3904CEF62CE122689A9AFDAD4CA"
 msgid "Go to maintenance room"
-msgstr "Веди в комнату техобслуживания"
+msgstr "Перейдите в комнату техобслуживания"
 
 #. Key:	21EACFAF49507A7552A110BAE83EEE37
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",21EACFAF49507A7552A110BAE83EEE37"
 msgid "Go home"
-msgstr "Пойди домой"
+msgstr "Возвращайтесь домой"
 
 #. Key:	239D301D425DDDE4BB5E72945B2C2E1A
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -465,7 +465,7 @@ msgstr "ЗАСТРЯЛ"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",6DAEF58F41A34662BD57069D35F19980"
 msgid "Use the repair reason panel (Wrong name)"
-msgstr "Используй панель причины ремонта (Неверное имя)"
+msgstr "Используйте панель причин ремонта (Неверное название)"
 
 #. Key:	6E0EA478403ECE52ABBF53A320274AB8
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -493,7 +493,7 @@ msgstr "Отправь в производство"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",8F48C2364E01FB55DE3BE3965FDDA749"
 msgid "Activate the dispatch Panel"
-msgstr "Активируй панель Envíos"
+msgstr "Активируй диспетчерскую панель"
 
 #. Key:	99B7B7A64D583DA8EC8B43A20F3588B3
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -542,7 +542,7 @@ msgstr "Проверь коробку"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",D299CF65439CF03C62CBD1A3840D84A9"
 msgid "Put the case on repair selecting wrong name as repair reason"
-msgstr "Поставь коробку в ремонт и выбери неверное имя как причину"
+msgstr "Отправьте коробку в ремонт, указав неверное название в качестве причины"
 
 #. Key:	E5D1644344491A13316F9AB8CD6AD31A
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -556,7 +556,7 @@ msgstr "Приклей штрих-код к коробке и отправь в 
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",E986BC32440410B3B2AA529C1AF4C358"
 msgid "Go to Storage room..."
-msgstr "Иди в склад..."
+msgstr "Отправляйтесь на склад"
 
 #. Key:	F0444637451984370DD1ABBD14148409
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -570,7 +570,7 @@ msgstr "Поставь куклу на платформу"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",F7FDDC304A5024D676A5EE80893CEB02"
 msgid "Go to home"
-msgstr "Веди домой"
+msgstr "Возвращайтесь домой"
 
 #. Key:	F88B77E547F006009AD0F0B0125FF1C8
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -591,56 +591,56 @@ msgstr "Распечатай штрих-код заказа и приклей н
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",FC8959AC46B48CBBFBEE2AB99A29DBF8"
 msgid "Go to maintenance room"
-msgstr "Веди в комнату техобслуживания"
+msgstr "Перейдите в комнату техобслуживания"
 
 #. Key:	72665A764943C26EF07B8BBC76AC13C0
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_0.Mission
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_0.Mission
 msgctxt ",72665A764943C26EF07B8BBC76AC13C0"
 msgid "Go to observation room"
-msgstr "Веди в комнату наблюдения"
+msgstr "Перейдите в комнату наблюдения"
 
 #. Key:	6370292A4746B6810ECD75AB7A447E81
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_1.Mission
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_1.Mission
 msgctxt ",6370292A4746B6810ECD75AB7A447E81"
 msgid "Go to HR Office"
-msgstr "Веди в офис кадров"
+msgstr "Перейдите в отдел кадров"
 
 #. Key:	A13EC4E84C6D0BE812C8B48B6C6403D1
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_10.Mission
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_10.Mission
 msgctxt ",A13EC4E84C6D0BE812C8B48B6C6403D1"
 msgid "Go to Servers room"
-msgstr "Веди в комнату серверов"
+msgstr "Перейдите в серверную комнату"
 
 #. Key:	0902806743D23675BFDD0A9E5936DB6C
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_2.Mission
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_2.Mission
 msgctxt ",0902806743D23675BFDD0A9E5936DB6C"
 msgid "Go to dispatches room"
-msgstr "Веди в комнату Envíos"
+msgstr "Перейдите в диспетчерскую"
 
 #. Key:	21DAAAA046755F3B0DEA72BF83FEABC5
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_4.Mission
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_4.Mission
 msgctxt ",21DAAAA046755F3B0DEA72BF83FEABC5"
 msgid "Go to Locker room"
-msgstr "Веди в комнату с шкафчиками"
+msgstr "Перейдите в раздевалку"
 
 #. Key:	A528D48348617EF476A703A36E74708E
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_6.Mission
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_6.Mission
 msgctxt ",A528D48348617EF476A703A36E74708E"
 msgid "Go to Security room"
-msgstr "Веди в комнату охраны"
+msgstr "Перейдите в комнату охраны"
 
 #. Key:	9B2DD66146ED89E8308D5D9A7E95A64A
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_8.Mission
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_8.Mission
 msgctxt ",9B2DD66146ED89E8308D5D9A7E95A64A"
 msgid "Go to Cafeteria"
-msgstr "Веди в кафетерий"
+msgstr "Перейдите в кафетерий"
 
 #. Key:	078AEF0A4BC4903DC64AA48A81CD7B97
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.streamingLevelLoadInteract_C_3.newMission(0 - Value).newMission_Value
@@ -654,7 +654,7 @@ msgstr "Найди документы"
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.streamingLevelLoadInteract_C_4.newMission(0 - Value).newMission_Value
 msgctxt ",5E25DAC8457D6AC059BAFD8659576A99"
 msgid "Put the stickers on each lock"
-msgstr "Наклей наклейки на каждый замок"
+msgstr "Наклей стикеры на каждый замок"
 
 #. Key:	781DC04D48CE750D284BBD8DD0CE51B1
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.streamingLevelLoadInteract_C_4.newMission(1 - Value).newMission_Value
@@ -675,7 +675,7 @@ msgstr "Управляй камерами"
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.streamingLevelLoadInteract_C_6.newMission(0 - Value).newMission_Value
 msgctxt ",355139F940FF4B1819E7FFA952892B85"
 msgid "Put a sticker in each table"
-msgstr "Наклей по наклейке на каждый стол"
+msgstr "Наклей стикер на каждый стол"
 
 #. Key:	5758EEC14D1960F9A51B11A4E14B7EFE
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.streamingLevelLoadInteract_C_7.newMission(0 - Value).newMission_Value
@@ -689,14 +689,14 @@ msgstr "Найди Blue"
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.streamingLevelLoadInteract_C_8.newMission(0 - Value).newMission_Value
 msgctxt ",05F004004C0C63CB913F89B579B3C2B5"
 msgid "Manipulate each red server"
-msgstr "Управляй каждым красным сервером"
+msgstr "Взаимодействуй с каждым красным сервером"
 
 #. Key:	133FA5ED4F9610DA9718BAAC4A501221
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_out.qcm_factory_out:PersistentLevel.streamingLevelLoadInteract_C_0.newMission(0 - Value).newMission_Value
 #: /Game/QualityCheck/levels/qcm_factory_out.qcm_factory_out:PersistentLevel.streamingLevelLoadInteract_C_0.newMission(0 - Value).newMission_Value
 msgctxt ",133FA5ED4F9610DA9718BAAC4A501221"
 msgid "Go to interviews room"
-msgstr "Веди в комнату интервью"
+msgstr "Перейдите в комнату для собеседований"
 
 #. Key:	38B47F6443107F1A870F258CE1E53FEE
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_house.qcm_house:PersistentLevel.streamingLevelLoadInteract_C_1.newMission(0 - Value).newMission_Value
@@ -710,7 +710,7 @@ msgstr "Вступи в Doll Inc"
 #: /Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
 msgctxt ",26F695304732DB9EAED5508A16DB6F1F"
 msgid "Go to door"
-msgstr "Иди к двери"
+msgstr "Подойди к двери"
 
 #. Key:	6605812249F319D73CE7B68A78798C40
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
@@ -724,7 +724,7 @@ msgstr "Возьми телефон"
 #: /Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
 msgctxt ",6981B6DA4BD6F8514E58CD94519AE1AD"
 msgid "Get out of the apartment."
-msgstr "Выходи из квартиры"
+msgstr "Покинь квартиру"
 
 #. Key:	9B5F77504063E212FB1654A0A361625F
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
@@ -745,35 +745,35 @@ msgstr "Спасибо за покупку Doll Impostor ранее (систе�
 #: /Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
 msgctxt ",F726153349E7F7EBEEDAEB8A041DDAA0"
 msgid "Go to Doll Inc"
-msgstr "Веди в Doll Inc"
+msgstr "Направляйтесь в Doll Inc"
 
 #. Key:	134119FA415555EF5E94ABB5F5F751E7
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_interviews.qcm_interviews_C:ExecuteUbergraph_qcm_interviews [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_interviews.qcm_interviews_C:ExecuteUbergraph_qcm_interviews [Script Bytecode]
 msgctxt ",134119FA415555EF5E94ABB5F5F751E7"
 msgid "Follow the supervisor instructions"
-msgstr "Следуй указаниям супервайзера"
+msgstr "Выполняйте указания руководителя"
 
 #. Key:	418203D640E6B38281E0AAA97492F850
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_maintenance.qcm_maintenance_C:ExecuteUbergraph_qcm_maintenance [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_maintenance.qcm_maintenance_C:ExecuteUbergraph_qcm_maintenance [Script Bytecode]
 msgctxt ",418203D640E6B38281E0AAA97492F850"
 msgid "Clear the obstruction"
-msgstr "Убери препятствие"
+msgstr "Устраните препятствие"
 
 #. Key:	6F9DCEB046A48B9227D936B115EA6CE5
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_maintenance.qcm_maintenance_C:ExecuteUbergraph_qcm_maintenance [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_maintenance.qcm_maintenance_C:ExecuteUbergraph_qcm_maintenance [Script Bytecode]
 msgctxt ",6F9DCEB046A48B9227D936B115EA6CE5"
 msgid "Back to work"
-msgstr "Вернись к работе"
+msgstr "Возвращайтесь к работе"
 
 #. Key:	4790609049389B3E8BE97BAD6DDB01F8
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_office.qcm_office_C:ExecuteUbergraph_qcm_office [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_office.qcm_office_C:ExecuteUbergraph_qcm_office [Script Bytecode]
 msgctxt ",4790609049389B3E8BE97BAD6DDB01F8"
 msgid "Leave from HR Office"
-msgstr "Выйди из офиса кадров"
+msgstr "Покиньте отдел кадров"
 
 #. Key:	CFF1D6A44842770C6B33A5A75CCDD4C5
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_office.qcm_office_C:ExecuteUbergraph_qcm_office [Script Bytecode]
@@ -787,28 +787,28 @@ msgstr "Найди документы"
 #: /Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 msgctxt ",256D8907458D653267033A97CBA8BF4B"
 msgid "Put a case inside and write the text required in the order"
-msgstr "Положи кейс внутрь и напиши текст из заказа"
+msgstr "Поместите кейс внутрь и напишите текст из заказа"
 
 #. Key:	270E3DE54C31DDA06F8A2B9948DE36D5
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 msgctxt ",270E3DE54C31DDA06F8A2B9948DE36D5"
 msgid "Bring the box to dispatch room"
-msgstr "Отнеси коробку в комнату Envíos"
+msgstr "Отнесите коробку в диспетчерскую"
 
 #. Key:	308FFE574239048DD15660B6BAA6F182
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 msgctxt ",308FFE574239048DD15660B6BAA6F182"
 msgid "Request a box before products"
-msgstr "Запроси коробку перед товарами"
+msgstr "Запроси коробку перед получением товаров"
 
 #. Key:	47AFFBCC41F0404B5C2BDFB0A9C6ECBC
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 msgctxt ",47AFFBCC41F0404B5C2BDFB0A9C6ECBC"
 msgid "Pick the product and back to dispatch room"
-msgstr "Возьми продукт и вернись в комнату Envíos"
+msgstr "Забери продукт и вернись в диспетчерскую"
 
 #. Key:	EBA8131F4CEE22F6786953957FBC5822
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
@@ -822,7 +822,7 @@ msgstr "Положи предметы в коробку"
 #: /Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 msgctxt ",F208F6E945169173EDE934A12DA0094A"
 msgid "Request the product order"
-msgstr "Запроси заказ продукта"
+msgstr "Запроси заказ на продукцию"
 
 #. Key:	F387F4634D5E58FC3E53D18BD021A97E
 #. SourceLocation:	/Game/QualityCheck/sounds/badending.badending.Subtitles(0).Subtitles.Text
@@ -906,7 +906,7 @@ msgstr "А ты? Ты ослушался. Ты сомневался"
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(9).Subtitles.Text
 msgctxt ",CE8D381B448561D21479639D363E84DC"
 msgid "And here at Doll Inc, we don’t fix disobedience."
-msgstr "А здесь, в Doll Inc, мы не исправляем неповиновение"
+msgstr "Но в Doll Inc неповиновение не исправляют."
 
 #. Key:	6CD4009648A8F45C0353C5A379030501
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(0).Subtitles.Text
@@ -976,7 +976,7 @@ msgstr "Твой бейдж обновлён"
 #: /Game/QualityCheck/sounds/congrats.congrats.Subtitles(7).Subtitles.Text
 msgctxt ",C5503D4A4513573E11E791BD8577CEE3"
 msgid "Your permissions... expanded."
-msgstr "Твои разрешения... расширены"
+msgstr "Твои полномочия... расширены"
 
 #. Key:	B258F18D4468043C5D3F04A167B39859
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(8).Subtitles.Text
@@ -1193,7 +1193,7 @@ msgstr "Хватит на сегодня. Выходи через коридор
 #: /Game/QualityCheck/sounds/endSounds/4.4.Subtitles(0).Subtitles.Text
 msgctxt ",4DB0F4414D1C1BDAA76659A3E41536DD"
 msgid "Day complete. Proceed to departure."
-msgstr "День завершён. Продолжай на выход"
+msgstr "Смена завершена. Пройдите к выходу."
 
 #. Key:	1A967620432C6AE2403CF7880498E07B
 #. SourceLocation:	/Game/QualityCheck/sounds/endSounds/5.5.Subtitles(0).Subtitles.Text
@@ -1221,7 +1221,7 @@ msgstr "Твое присутствие больше не требуется"
 #: /Game/QualityCheck/sounds/endSounds/8.8.Subtitles(0).Subtitles.Text
 msgctxt ",EB22C5AB4E62D85A143D2182AC843A43"
 msgid "Rest cycle initiated. Vacate your post."
-msgstr "Инициирован отдых. Освободи пост"
+msgstr "Цикл отдыха активирован. Покиньте пост."
 
 #. Key:	D243B5D7490069AA38870CA913F2DF30
 #. SourceLocation:	/Game/QualityCheck/sounds/endSounds/9.9.Subtitles(0).Subtitles.Text
@@ -1445,7 +1445,7 @@ msgstr "ты поможешь обеспечить соответствие пр
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(7).Subtitles.Text
 msgctxt ",21B60D81475E3E160EDD6B85C6804B06"
 msgid "No sweat, no risk — everything under control!"
-msgstr "Никакого пота, никакого риска — всё под контролем!"
+msgstr "Никакой суеты, никакого риска — всё под контролем!"
 
 #. Key:	52EB41A843E43063871195AE9DCC5615
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(8).Subtitles.Text
@@ -1543,7 +1543,7 @@ msgstr "Этот центр работает без людей"
 #: /Game/QualityCheck/sounds/phrases/11.11.Subtitles(0).Subtitles.Text
 msgctxt ",934AF6164E9D6DEC7610089653A75AD4"
 msgid "DOLL INC. is a global leader in product development, toys, and logistics."
-msgstr "DOLL INC — мировой лидер в разработке продуктов, игрушек и логистике"
+msgstr "DOLL INC. — мировой лидер в разработке продукции, производстве игрушек и логистике."
 
 #. Key:	8E8013C6452832C0F8335797C47B0EBE
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/12.12.Subtitles(0).Subtitles.Text
@@ -1564,7 +1564,7 @@ msgstr "Эта фабрика вырабатывает собственную э
 #: /Game/QualityCheck/sounds/phrases/2.2.Subtitles(0).Subtitles.Text
 msgctxt ",3B6C3FD344B4E7EB2D9FC2B8D1D19891"
 msgid "If you're new, please proceed to the Dispatchs Room. Just go straight and turn right."
-msgstr "Если ты новичок, направляйся в комнату Envíos. Иди прямо и поверни направо"
+msgstr "Если ты новичок, направляйся в диспетчерскую. Иди прямо и поверни направо"
 
 #. Key:	0DFB312842637757F54048AB5941FB43
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/3.3.Subtitles(0).Subtitles.Text
@@ -2075,7 +2075,7 @@ msgstr "Нужно найти новых союзников"
 #: /Game/QualityCheck/sounds/scenes/bluehr.bluehr.Subtitles(2).Subtitles.Text
 msgctxt ",B735645E4DFB97B9D40792AC2F511F46"
 msgid "Head to the Human Resources office..."
-msgstr "Веди в офис кадров..."
+msgstr "Направляйтесь в отдел кадров"
 
 #. Key:	713B00EE4EA18B33459531A584CE5273
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/bluehr.bluehr.Subtitles(3).Subtitles.Text
@@ -2453,7 +2453,7 @@ msgstr "Иди к панели камер здесь..."
 #: /Game/QualityCheck/sounds/scenes/bluesec.bluesec.Subtitles(5).Subtitles.Text
 msgctxt ",9AD9C33143B2ECA51D30EAB3F9EB053E"
 msgid "and scramble the signal."
-msgstr "и смущай сигнал"
+msgstr "и заглуши сигнал"
 
 #. Key:	EB7070184D48FCCBFA32F69D032B7143
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/bluesec.bluesec.Subtitles(6).Subtitles.Text
@@ -2733,7 +2733,7 @@ msgstr "Хорошо… продолжим набор"
 #: /Game/QualityCheck/sounds/scenes/recreuit.recreuit.Subtitles(1).Subtitles.Text
 msgctxt ",A893933F470345E8852F97B8C7D0FBB8"
 msgid "Head to the locker room"
-msgstr "Веди в раздевалку"
+msgstr "Направляйтесь в раздевалку"
 
 #. Key:	D11793554AD2E976CD2FD5BDDCDB941F
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/recreuit.recreuit.Subtitles(10).Subtitles.Text
@@ -3041,7 +3041,7 @@ msgstr "это всё, оператор?"
 #: /Game/QualityCheck/sounds/tutorialPhrases/1.1.Subtitles(0).Subtitles.Text
 msgctxt ",5E65C80D465D94F4EFA6E482CB5C1BAE"
 msgid "Welcome to Dispatch."
-msgstr "Добро пожаловать в Envíos"
+msgstr "Добро пожаловать в диспетчерскую"
 
 #. Key:	FE8A72F340B75790D5A529BB21A7E04F
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/1.1.Subtitles(1).Subtitles.Text
@@ -3244,7 +3244,7 @@ msgstr "Товары не идут"
 #: /Game/QualityCheck/sounds/tutorialPhrases/15.15.Subtitles(2).Subtitles.Text
 msgctxt ",E30194B84A412FD04A8211883D7C490E"
 msgid "Check the maintenance room, make sure everything’s powered and functioning properly."
-msgstr "Проверь комнату техобслуживания — питание и всё работает"
+msgstr "Проверь комнату техобслуживания — питание и работоспособность"
 
 #. Key:	FCFCA90042468E3FB95C24A28FF6DBB8
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/16.16.Subtitles(0).Subtitles.Text
@@ -3447,7 +3447,7 @@ msgstr "Проверяй коды на экране"
 #: /Game/QualityCheck/sounds/tutorialPhrases/21.21.Subtitles(3).Subtitles.Text
 msgctxt ",3789D0AB43BBD5D42744DB915F50DAEA"
 msgid "You can check the correct codes on your screen"
-msgstr "You can check the correct codes on your screen"
+msgstr "Проверьте корректные коды на вашем экране"
 
 #. Key:	300A50244125449E9E9215856A18FFE9
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/21.21.Subtitles(4).Subtitles.Text
@@ -3615,7 +3615,7 @@ msgstr "Сегодня продолжим обычные задачи..."
 #: /Game/QualityCheck/sounds/tutorialPhrases/28.28.Subtitles(1).Subtitles.Text
 msgctxt ",14CD87D345B502368F95ACB484AA0D69"
 msgid "But we’ve installed a barcode scanner for you"
-msgstr "Но в Envíos установили панель классификации"
+msgstr "Но мы установили панель классификации"
 
 #. Key:	38ADA6A1453F551C5CC69681734A3AE5
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/28.28.Subtitles(2).Subtitles.Text
@@ -3629,364 +3629,364 @@ msgstr "Можно делать запросы прямо, не ходя на с
 #: /Game/QualityCheck/sounds/tutorialPhrases/28.28.Subtitles(3).Subtitles.Text
 msgctxt ",989615F140E866F6838509851261B476"
 msgid "Just aim, scan, and decide"
-msgstr "Just aim, scan, and decide"
+msgstr "Просто наведите, отсканируйте и примите решение"
 
 #. Key:	B33518E34F82B9D34ADBAFB1A598B6A1
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/28.28.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/28.28.Subtitles(4).Subtitles.Text
 msgctxt ",B33518E34F82B9D34ADBAFB1A598B6A1"
 msgid "No excuses now, efficiency is expected"
-msgstr "No excuses now, efficiency is expected"
+msgstr "Больше никаких оправданий. Требуется эффективность."
 
 #. Key:	C6FFF2F64577D194BCD69795E0989335
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(1).Subtitles.Text
 msgctxt ",C6FFF2F64577D194BCD69795E0989335"
 msgid "Today’s task is simple"
-msgstr "Today’s task is simple"
+msgstr "Сегодняшняя задача проста"
 
 #. Key:	B719030F4732E6BE435B8E85DB454903
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(2).Subtitles.Text
 msgctxt ",B719030F4732E6BE435B8E85DB454903"
 msgid "You're going to check the weight of each product"
-msgstr "You're going to check the weight of each product"
+msgstr "Вам необходимо проверить вес каждого изделия"
 
 #. Key:	FC697936469FA1AB62B7E7A5398ED13D
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(3).Subtitles.Text
 msgctxt ",FC697936469FA1AB62B7E7A5398ED13D"
 msgid "Place the item on the scale platform and wait"
-msgstr "Place the item on the scale platform and wait"
+msgstr "Поместите изделие на платформу весов и ожидайте."
 
 #. Key:	C87902AF42AB3AB7E6B03FAD9D7317F7
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(4).Subtitles.Text
 msgctxt ",C87902AF42AB3AB7E6B03FAD9D7317F7"
 msgid "If the weight is correct, the indicator will turn green"
-msgstr "If the weight is correct, the indicator will turn green"
+msgstr "Если вес соответствует норме, индикатор загорится зелёным"
 
 #. Key:	0463160E447BA8F0161064B752182D6D
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(5).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(5).Subtitles.Text
 msgctxt ",0463160E447BA8F0161064B752182D6D"
 msgid "If it doesn’t… well, you know what to do"
-msgstr "If it doesn’t… well, you know what to do"
+msgstr "Если нет... что ж, вы знаете, что делать"
 
 #. Key:	0646055547A05CAA2288E8B1EFBA3D24
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(6).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(6).Subtitles.Text
 msgctxt ",0646055547A05CAA2288E8B1EFBA3D24"
 msgid "Let’s begin"
-msgstr "Let’s begin"
+msgstr "Приступим"
 
 #. Key:	7F1C39AE4920F4A1BEEABBAEF65DC1EA
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/3.3.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/3.3.Subtitles(0).Subtitles.Text
 msgctxt ",7F1C39AE4920F4A1BEEABBAEF65DC1EA"
 msgid "Turn on the light to see more clearly."
-msgstr "Turn on the light to see more clearly."
+msgstr "Включите свет для лучшей видимости"
 
 #. Key:	D5505E744081EC77A18703A54E406B7E
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/30.30.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/30.30.Subtitles(0).Subtitles.Text
 msgctxt ",D5505E744081EC77A18703A54E406B7E"
 msgid "Alright, Operator. Today’s task is slightly different"
-msgstr "Alright, Operator. Today’s task is slightly different"
+msgstr "Так, Оператор. Сегодняшнее задание будет несколько иным"
 
 #. Key:	2EEC51194CA8C9059015F49A8B28BBD8
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/30.30.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/30.30.Subtitles(1).Subtitles.Text
 msgctxt ",2EEC51194CA8C9059015F49A8B28BBD8"
 msgid "We're adding pressure testing to your routine. It's similar to the weight checks you've done before"
-msgstr "We're adding pressure testing to your routine. It's similar to the weight checks you've done before"
+msgstr "Мы добавляем в ваш цикл проверку под давлением. Это похоже на взвешивание, которое вы уже выполняли"
 
 #. Key:	157E726B4086D65007A9689322B043DE
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/30.30.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/30.30.Subtitles(2).Subtitles.Text
 msgctxt ",157E726B4086D65007A9689322B043DE"
 msgid "Place the product on the pressure platform, activate the machine, and wait for the result"
-msgstr "Place the product on the pressure platform, activate the machine, and wait for the result"
+msgstr "Поместите изделие на платформу для испытаний, активируйте аппарат и ожидайте результата"
 
 #. Key:	36D5ADE3488AA79AEBD2FCA909F01624
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/30.30.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/30.30.Subtitles(3).Subtitles.Text
 msgctxt ",36D5ADE3488AA79AEBD2FCA909F01624"
 msgid "If it doesn’t meet the pressure standards… send it to repair. No exceptions"
-msgstr "If it doesn’t meet the pressure standards… send it to repair. No exceptions"
+msgstr "Если не соответствует стандартам давления... отправьте в ремонт. Без исключений"
 
 #. Key:	C13B226A45A4FEA2C0346EBEB11617D7
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/30.30.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/30.30.Subtitles(4).Subtitles.Text
 msgctxt ",C13B226A45A4FEA2C0346EBEB11617D7"
 msgid "Stay sharp. Faulty units under pressure can cause problems"
-msgstr "Stay sharp. Faulty units under pressure can cause problems"
+msgstr "Будьте начеку. Дефектные единицы под давлением могут создать проблемы"
 
 #. Key:	4F7D30B843ACE3D22D7E9BAEA2B73E35
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/31.31.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/31.31.Subtitles(0).Subtitles.Text
 msgctxt ",4F7D30B843ACE3D22D7E9BAEA2B73E35"
 msgid "Alright, listen up"
-msgstr "Alright, listen up"
+msgstr "Так, слушайте внимательно"
 
 #. Key:	B0D4C54D45DB07B97493EFA489283976
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/31.31.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/31.31.Subtitles(1).Subtitles.Text
 msgctxt ",B0D4C54D45DB07B97493EFA489283976"
 msgid "Today you're checking temperature"
-msgstr "Today you're checking temperature"
+msgstr "Сегодня вы будете проверять температуру"
 
 #. Key:	10928D8E4C64C65A14F4C2A4326ED7C6
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/31.31.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/31.31.Subtitles(2).Subtitles.Text
 msgctxt ",10928D8E4C64C65A14F4C2A4326ED7C6"
 msgid "Excessive heat can warp the structure, melt joints, or even fry internal systems"
-msgstr "Excessive heat can warp the structure, melt joints, or even fry internal systems"
+msgstr "Перегрев может деформировать корпус, расплавить соединения или вывести из строя внутренние системы"
 
 #. Key:	C6254A894933D36D857BD4B3797DA216
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/31.31.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/31.31.Subtitles(3).Subtitles.Text
 msgctxt ",C6254A894933D36D857BD4B3797DA216"
 msgid "Too cold? Well… plastics become brittle, motors jam, and let's just say, it gets ugly"
-msgstr "Too cold? Well… plastics become brittle, motors jam, and let's just say, it gets ugly"
+msgstr "Слишком холодно? Что ж... пластик становится хрупким, моторы клинит, и, скажем так, картина выходит неприглядная"
 
 #. Key:	3C3443C94AFDC314B2C6E5ACAE97BB96
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/31.31.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/31.31.Subtitles(4).Subtitles.Text
 msgctxt ",3C3443C94AFDC314B2C6E5ACAE97BB96"
 msgid "We’re not cooking dinner, we’re making perfection."
-msgstr "We’re not cooking dinner, we’re making perfection."
+msgstr "Мы тут не ужин готовим, а создаём совершенство"
 
 #. Key:	33EB491045552E6968E47F8D9E0EF684
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/32.32.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/32.32.Subtitles(1).Subtitles.Text
 msgctxt ",33EB491045552E6968E47F8D9E0EF684"
 msgid "Starting today, you'll be using the product scanner"
-msgstr "Starting today, you'll be using the product scanner"
+msgstr "С сегодняшнего дня вы будете использовать сканер продукции"
 
 #. Key:	6EFD123B41F02BE81C0406A8F87EB716
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/32.32.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/32.32.Subtitles(2).Subtitles.Text
 msgctxt ",6EFD123B41F02BE81C0406A8F87EB716"
 msgid "It’s been added to your station, try not to drop it"
-msgstr "It’s been added to your station, try not to drop it"
+msgstr "Он добавлен на вашу рабочую станцию. Постарайтесь не уронить его"
 
 #. Key:	6929D7BF4CDE47D6A9FF2FA8B2E7F122
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/32.32.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/32.32.Subtitles(3).Subtitles.Text
 msgctxt ",6929D7BF4CDE47D6A9FF2FA8B2E7F122"
 msgid "This tool helps detect visual anomalies that may not be obvious to the eye"
-msgstr "This tool helps detect visual anomalies that may not be obvious to the eye"
+msgstr "Этот инструмент помогает выявлять визуальные аномалии, незаметные глазу"
 
 #. Key:	4CB424A04C5B8644989AEDBA664C7E73
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/32.32.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/32.32.Subtitles(4).Subtitles.Text
 msgctxt ",4CB424A04C5B8644989AEDBA664C7E73"
 msgid "Scorch marks, hidden cracks, internal tampering... the scanner will catch it"
-msgstr "Scorch marks, hidden cracks, internal tampering... the scanner will catch it"
+msgstr "Подпалины, скрытые трещины, следы вмешательства... сканер всё обнаружит"
 
 #. Key:	F00390E9420BDC6FDBCC79BBB0DB2237
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/32.32.Subtitles(5).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/32.32.Subtitles(5).Subtitles.Text
 msgctxt ",F00390E9420BDC6FDBCC79BBB0DB2237"
 msgid "Use it wisely"
-msgstr "Use it wisely"
+msgstr "Используйте его с умом"
 
 #. Key:	36B418724AF72A663D01ACAD0CEE2413
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(0).Subtitles.Text
 msgctxt ",36B418724AF72A663D01ACAD0CEE2413"
 msgid "New day."
-msgstr "New day."
+msgstr "Новый день."
 
 #. Key:	A83F29B04D7D263BDF0F35ABD240C1D7
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(1).Subtitles.Text
 msgctxt ",A83F29B04D7D263BDF0F35ABD240C1D7"
 msgid "Today, you'll be handling Orders."
-msgstr "Today, you'll be handling Orders."
+msgstr "Сегодня вы будете работать с заказами"
 
 #. Key:	6C50ACD14BF451C81404DBA21BD427A3
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(2).Subtitles.Text
 msgctxt ",6C50ACD14BF451C81404DBA21BD427A3"
 msgid "Once you press the Dispatch button, incoming requests will show up on the panel."
-msgstr "Once you press the Dispatch button, incoming requests will show up on the panel."
+msgstr "Как только вы нажмёте кнопку 'Отправка', на панели начнут появляться входящие запросы"
 
 #. Key:	7CF4F49548489A5719460FB090557F65
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(3).Subtitles.Text
 msgctxt ",7CF4F49548489A5719460FB090557F65"
 msgid "Head to Storage, find the requested product, and bring it back for processing."
-msgstr "Head to Storage, find the requested product, and bring it back for processing."
+msgstr "Направляйтесь на склад, найдите требуемый товар и доставьте его для обработки"
 
 #. Key:	C45DE74440471F2D3EDB029BBF12852C
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(4).Subtitles.Text
 msgctxt ",C45DE74440471F2D3EDB029BBF12852C"
 msgid "Simple task, but don't mess it up."
-msgstr "Simple task, but don't mess it up."
+msgstr "Задача простая, но не допустите ошибок"
 
 #. Key:	DA7DCDC542C568F2EF946F8549F06509
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/34.34.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/34.34.Subtitles(0).Subtitles.Text
 msgctxt ",DA7DCDC542C568F2EF946F8549F06509"
 msgid "Today’s going to be a bit more… tedious."
-msgstr "Today’s going to be a bit more… tedious."
+msgstr "Сегодня будет немного... монотоннее"
 
 #. Key:	FD5CCD36463CEA8C928DB0A22C8826A3
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/34.34.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/34.34.Subtitles(1).Subtitles.Text
 msgctxt ",FD5CCD36463CEA8C928DB0A22C8826A3"
 msgid "We’ve received multiple requests for separate items, dolls and boxes individually."
-msgstr "We’ve received multiple requests for separate items, dolls and boxes individually."
+msgstr "Поступили многочисленные запросы на отдельные позиции: куклы и коробки по отдельности"
 
 #. Key:	58432AFC472CC0DD356393964BE1DC9F
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/34.34.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/34.34.Subtitles(2).Subtitles.Text
 msgctxt ",58432AFC472CC0DD356393964BE1DC9F"
 msgid "Check the order panel and fulfill each request accordingly."
-msgstr "Check the order panel and fulfill each request accordingly."
+msgstr "Проверьте панель заказов и выполните каждый запрос соответствующим образом"
 
 #. Key:	B6CEFE5D4DEAA109EFE33AA5EDAC7915
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/34.34.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/34.34.Subtitles(3).Subtitles.Text
 msgctxt ",B6CEFE5D4DEAA109EFE33AA5EDAC7915"
 msgid "Stay sharp and don’t mix them up."
-msgstr "Stay sharp and don’t mix them up."
+msgstr "Будьте внимательны и не перепутайте их"
 
 #. Key:	91F1DDD249FBEC5A4D116FAFFC30680F
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/34.34.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/34.34.Subtitles(4).Subtitles.Text
 msgctxt ",91F1DDD249FBEC5A4D116FAFFC30680F"
 msgid "Things will change soon… hang in there."
-msgstr "Things will change soon… hang in there."
+msgstr "Скоро всё изменится… держитесь"
 
 #. Key:	36EC55BA48DE5D0A3819A8AB332FBFDE
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(0).Subtitles.Text
 msgctxt ",36EC55BA48DE5D0A3819A8AB332FBFDE"
 msgid "Today’s task requires precision"
-msgstr "Today’s task requires precision"
+msgstr "Сегодняшнее задание требует точности"
 
 #. Key:	FBBA9F30443343E05EB411BF873F8C73
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(1).Subtitles.Text
 msgctxt ",FBBA9F30443343E05EB411BF873F8C73"
 msgid "Some orders will now request both a box and a doll together"
-msgstr "Some orders will now request both a box and a doll together"
+msgstr "Некоторые заказы теперь требуют одновременной поставки коробки и куклы"
 
 #. Key:	598ED16A414CD3F07FBC49AF875B0E4F
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(2).Subtitles.Text
 msgctxt ",598ED16A414CD3F07FBC49AF875B0E4F"
 msgid "You have two options"
-msgstr "You have two options"
+msgstr "У вас есть два варианта"
 
 #. Key:	790370A74511CB8AC419779F677F3BD6
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(3).Subtitles.Text
 msgctxt ",790370A74511CB8AC419779F677F3BD6"
 msgid "Place the doll inside the box, it will count as one complete unit"
-msgstr "Place the doll inside the box, it will count as one complete unit"
+msgstr "Поместите куклу в коробку — это засчитается как один готовый комплект"
 
 #. Key:	C164326848D943D16F8B53B1C8B421A5
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(4).Subtitles.Text
 msgctxt ",C164326848D943D16F8B53B1C8B421A5"
 msgid "Or send each product separately, but make sure the order is fully completed"
-msgstr "Or send each product separately, but make sure the order is fully completed"
+msgstr "Или отправляйте каждое изделие отдельно, но убедитесь, что заказ выполнен полностью"
 
 #. Key:	CF1DDE4348E8CA218251D2B68FE7580C
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(5).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(5).Subtitles.Text
 msgctxt ",CF1DDE4348E8CA218251D2B68FE7580C"
 msgid "Do it right. Orders are monitored closely"
-msgstr "Do it right. Orders are monitored closely"
+msgstr "Сделайте всё правильно. Заказы находятся под пристальным контролем"
 
 #. Key:	8C3318BF43FF5EDC5A4D778714FBFA3F
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(0).Subtitles.Text
 msgctxt ",8C3318BF43FF5EDC5A4D778714FBFA3F"
 msgid "Alright, today’s task is a little different."
-msgstr "Alright, today’s task is a little different."
+msgstr "Так, сегодняшнее задание будет немного другим"
 
 #. Key:	FAA49AA74C09E43BDE66B4A55EFA542F
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(1).Subtitles.Text
 msgctxt ",FAA49AA74C09E43BDE66B4A55EFA542F"
 msgid "Some orders now include custom names printed on the boxes."
-msgstr "Some orders now include custom names printed on the boxes."
+msgstr "Некоторые заказы теперь включают индивидуальные имена, нанесённые на коробки"
 
 #. Key:	3FAE62124D8E20DA8FAA3C94F418A30C
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(2).Subtitles.Text
 msgctxt ",3FAE62124D8E20DA8FAA3C94F418A30C"
 msgid "Head over to the storage area, pick the box listed in the order..."
-msgstr "Head over to the storage area, pick the box listed in the order..."
+msgstr "Направляйтесь в складскую зону, возьмите коробку, указанную в заказе..."
 
 #. Key:	BE875AE6490A1EA088424993C3217A4A
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(3).Subtitles.Text
 msgctxt ",BE875AE6490A1EA088424993C3217A4A"
 msgid "Then bring it to the labeling machine to assign the correct name."
-msgstr "Then bring it to the labeling machine to assign the correct name."
+msgstr "Затем отнесите её к маркировочному аппарату, чтобы нанести соответствующее имя"
 
 #. Key:	53D079974D58C0F044AEFCB515E3CB68
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(4).Subtitles.Text
 msgctxt ",53D079974D58C0F044AEFCB515E3CB68"
 msgid "Make sure everything matches, no typos allowed."
-msgstr "Make sure everything matches, no typos allowed."
+msgstr "Убедитесь, что всё совпадает — опечатки недопустимы"
 
 #. Key:	232069D64671012C9020B0BC0BA6A6D8
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/37.37.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/37.37.Subtitles(0).Subtitles.Text
 msgctxt ",232069D64671012C9020B0BC0BA6A6D8"
 msgid "Today, you’ll be preparing shipments."
-msgstr "Today, you’ll be preparing shipments."
+msgstr "Сегодня вы будете формировать грузы для отправки"
 
 #. Key:	B9876A7D41F0C5503614F5A8BC12B51C
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/37.37.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/37.37.Subtitles(1).Subtitles.Text
 msgctxt ",B9876A7D41F0C5503614F5A8BC12B51C"
 msgid "Head to the storage room, request a box, and place all the required products inside."
-msgstr "Head to the storage room, request a box, and place all the required products inside."
+msgstr "Направляйтесь в складское помещение, запросите коробку и разместите все указанные товары внутри"
 
 #. Key:	E503D3DC4775A1DC0BA9E2AE7BE16DD0
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/37.37.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/37.37.Subtitles(2).Subtitles.Text
 msgctxt ",E503D3DC4775A1DC0BA9E2AE7BE16DD0"
 msgid "Make sure to add protective padding, then send it to production."
-msgstr "Make sure to add protective padding, then send it to production."
+msgstr "Обязательно добавьте защитную прокладку, затем отправьте в производственную зону"
 
 #. Key:	12315BF8407364A8D72A8CBA04EC29F4
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(0).Subtitles.Text
 msgctxt ",12315BF8407364A8D72A8CBA04EC29F4"
 msgid "Alright, Operator"
-msgstr "Alright, Operator"
+msgstr "Так, Оператор"
 
 #. Key:	04CDF18B4D947FF4E1DF98961F5D42E5
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(1).Subtitles.Text
 msgctxt ",04CDF18B4D947FF4E1DF98961F5D42E5"
 msgid "Continue handling requests as usual."
-msgstr "Continue handling requests as usual."
+msgstr "Продолжайте обрабатывать запросы в обычном режиме"
 
 #. Key:	960C44074C8C218584F61C89408576B1
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(2).Subtitles.Text
 msgctxt ",960C44074C8C218584F61C89408576B1"
 msgid "We’ve now installed a classifier panel in your dispatch."
-msgstr "We’ve now installed a classifier panel in your dispatch."
+msgstr "Мы установили классификаторную панель в вашем диспетчерском пункте"
 
 #. Key:	EC2ADCF046546F86784CEBB1D600CCE5
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(3).Subtitles.Text
 msgctxt ",EC2ADCF046546F86784CEBB1D600CCE5"
 msgid "You can use it to request products directly, no need to walk to storage every time."
-msgstr "You can use it to request products directly, no need to walk to storage every time."
+msgstr "Теперь вы можете запрашивать товары напрямую — больше не нужно каждый раз идти на склад"
 
 #. Key:	2198B93E4B5CA595CDF790B76C07D7CB
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(4).Subtitles.Text
@@ -4021,7 +4021,7 @@ msgstr "Меньше времени зря. Больше работы сдела
 #: /Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(8).Subtitles.Text
 msgctxt ",5D32721545885BF0E2964A9E3297B46D"
 msgid "Let’s keep the line moving."
-msgstr "Держи поток"
+msgstr "Поддерживаем темп работы"
 
 #. Key:	1DB342544EE1F8CAF0BFC9B495E9979C
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/39.39.Subtitles(0).Subtitles.Text
@@ -4063,7 +4063,7 @@ msgstr "Просто и эффективно. Поехали"
 #: /Game/QualityCheck/sounds/tutorialPhrases/4.4.Subtitles(0).Subtitles.Text
 msgctxt ",1341ABC141C212381873A1B66F21D743"
 msgid "Alright, this doll is inconsistent."
-msgstr "Ладно, эта кукла неконсистентна"
+msgstr "Так, эта кукла не соответствует стандартам"
 
 #. Key:	D9AAA851491E73CAC5CBDF84CD4BF6CD
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/4.4.Subtitles(1).Subtitles.Text
@@ -4245,7 +4245,7 @@ msgstr "Так не часто бывает"
 #: /Game/QualityCheck/sounds/tutorialPhrases/8.8.Subtitles(2).Subtitles.Text
 msgctxt ",D763BFD14F81A594C968D58E62997899"
 msgid "In any case, head to the maintenance room and restore the power."
-msgstr "В любом случае иди в техобслуживание и восстанови питание"
+msgstr "В любом случае, направляйтесь в техническое помещение и восстановите питание"
 
 #. Key:	61D5E3C74007E1240E68EEBBD157EEC3
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/9.9.Subtitles(0).Subtitles.Text
@@ -4602,7 +4602,7 @@ msgstr "Я впервые увидел других операторов. Blue �
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 msgctxt ",9BAFE58C4AA258AD473B76B6BE28FF78"
 msgid "Everything at once now: orders, dispatch, returns... No rest. The system is pushing me to my limit."
-msgstr "Всё сразу: заказы, Envíos, возвраты... Без отдыха. Система давит"
+msgstr "Всё и сразу: заказы, отправки, возвраты... Никакой передышки. Система выжимает из меня все соки"
 
 #. Key:	9E87178546EE28314166F7B251C83648
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
@@ -4798,7 +4798,7 @@ msgstr "Награда"
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:WidgetTree.TextBlock_268.Text
 msgctxt ",7ABC79D347782118DE1FB48DD89D4093"
 msgid "Go to home"
-msgstr "Иди домой"
+msgstr "Возвращайтесь домой"
 
 #. Key:	B2B1C03343BB3A3C18FF3392E06E94D6
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:WidgetTree.TextBlock_3.Text
@@ -4854,28 +4854,28 @@ msgstr "Возобновить игру"
 #: /Game/QualityCheck/UI/extras.extras_C:Get_close_1_ToolTipWidget [Script Bytecode]
 msgctxt ",C83A56EC426E9FC9E5BA31A9249D2681"
 msgid "In this mode, you will accumulate days infinitely. You can leave at any time and come back; each day will be saved. You'll need to purchase the tools required to perform your job, and there's a leaderboard based on the number of consecutive days."
-msgstr "В этом режиме дни будут накапливаться бесконечно. Ты можешь уйти и вернуться; каждый день сохранится. Нужно покупать инструменты для работы, есть лидерборд по количеству подряд дней."
+msgstr "В этом режиме вы будете бесконечно накапливать дни. Вы можете уйти в любой момент и вернуться — прогресс сохранится. Вам нужно будет покупать инструменты для работы, а также доступна таблица лидеров, основанная на количестве последовательно отработанных дней."
 
 #. Key:	1184F1C941A74FBF8E4F0BACCC7CB62C
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 #: /Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 msgctxt ",1184F1C941A74FBF8E4F0BACCC7CB62C"
 msgid "In this mode, you’ll play against the clock. You have 3 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
-msgstr "В этом режиме ты играешь против времени. У тебя 3 минуты на как можно больше правильных продуктов. Ошибки снижают итоговый счёт, есть лидерборд."
+msgstr "В этом режиме тебе предстоит играть на время. У тебя есть 3 минуты, чтобы сделать как можно больше правильных продуктов. Ошибки уменьшают итоговый счёт. Доступна таблица лидеров. "
 
 #. Key:	9AD075424978E03033D799BB29F2E2CC
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_3_ToolTipWidget [Script Bytecode]
 #: /Game/QualityCheck/UI/extras.extras_C:Get_close_3_ToolTipWidget [Script Bytecode]
 msgctxt ",9AD075424978E03033D799BB29F2E2CC"
 msgid "In this mode, you must complete all products on time. Every X seconds, more products will arrive. Your limit is either making mistakes or letting too many products pile up. There's a leaderboard."
-msgstr "В этом режиме нужно выполнить все продукты вовремя. Каждые X секунд приходят новые. Твой лимит — ошибки или скопление. Есть лидерборд."
+msgstr "В этом режиме вы должны выполнять все заказы вовремя. Каждые X секунд будут поступать новые изделия. Вы проиграете, если допустите слишком много ошибок или накопите критическое количество необработанных заказов. Доступна таблица лидеров."
 
 #. Key:	C286C77C4525E4E32199E2A1BE3AF7D1
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_4_ToolTipWidget [Script Bytecode]
 #: /Game/QualityCheck/UI/extras.extras_C:Get_close_4_ToolTipWidget [Script Bytecode]
 msgctxt ",C286C77C4525E4E32199E2A1BE3AF7D1"
 msgid "In this mode, you'll play endlessly—you can't go back home. Correct actions are cumulative, but if you make a mistake, it's over. There's a leaderboard."
-msgstr "В этом режиме бесконечно — домой не вернёшься. Правильные действия накапливаются, но ошибка — конец. Есть лидерборд."
+msgstr "В этом режиме вы играете бесконечно — возврата домой нет. Правильные действия накапливаются, но одна ошибка — и всё закончено. Доступна таблица лидеров."
 
 #. Key:	A404AA8F42B73EE54F4CCF852C31941A
 #. SourceLocation:	/Game/QualityCheck/UI/fired.fired_C:WidgetTree.TextBlock.Text
@@ -5778,7 +5778,7 @@ msgstr "Несоответствие коробки определяется д�
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_15.Text
 msgctxt ",33FB39BB409FD71A510642B60E3093D2"
 msgid "Wrong barcode"
-msgstr "Неправильный штрихкод"
+msgstr "Неправильный штрих-код"
 
 #. Key:	8FDF390B4F188F44A3BE098EE2838B1B
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_16.Text
@@ -5799,7 +5799,7 @@ msgstr "Неправильные названия не совпадают ни �
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_18.Text
 msgctxt ",34DE1BE04320BA260C3166BB34D20447"
 msgid "Wrong name"
-msgstr "Неправильное имя"
+msgstr "Неверное имя"
 
 #. Key:	42B3ECA74445C99808A116A289DCFE8F
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_2.Text
@@ -5883,7 +5883,7 @@ msgstr "Иногда температура отображается невер�
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_49.Text
 msgctxt ",C14C0086490CE5C48C9A4BA7E4110DA7"
 msgid "Inconsistent glass"
-msgstr "Несоответствие стекла"
+msgstr "Неоднородное стекло"
 
 #. Key:	3A6817BD4C9326A7863FC3B8F3B7CBD2
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_5.Text
@@ -5925,7 +5925,7 @@ msgstr "Инструменты"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_60.Text
 msgctxt ",86FDA56B46A99ACA43BA8DBEFD80C194"
 msgid "Wrong sticker position"
-msgstr "Неправильно размещенная наклейка"
+msgstr "Неправильное положение наклейки"
 
 #. Key:	3EE0114D493F28568AD7D78D04C799B2
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_61.Text
@@ -6226,14 +6226,14 @@ msgstr "Печать штрихкода"
 #: /Game/QualityCheck/UI/tablet/RepairReason.Default__RepairReason_C.reasons(0).reasons
 msgctxt ",CD5CE62A4033401019E64CAE21F2DC5A"
 msgid "Missing barcode"
-msgstr "Отсутствует штрихкод"
+msgstr "Отсутствует штрих-код"
 
 #. Key:	91A00FD0418AAFD270CAAE8E31FA7383
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/RepairReason.Default__RepairReason_C.reasons(1).reasons
 #: /Game/QualityCheck/UI/tablet/RepairReason.Default__RepairReason_C.reasons(1).reasons
 msgctxt ",91A00FD0418AAFD270CAAE8E31FA7383"
 msgid "Wrong barcode"
-msgstr "Неправильный штрихкод"
+msgstr "Неправильный штрих-код"
 
 #. Key:	0CC26CBA406AFDBBE3383EBBE358E8E7
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/RepairReason.Default__RepairReason_C.reasons(13).reasons
@@ -6247,14 +6247,14 @@ msgstr "Отсутствует скользящий засов"
 #: /Game/QualityCheck/UI/tablet/RepairReason.Default__RepairReason_C.reasons(5).reasons
 msgctxt ",198B2446451863F0FF59A7A8137CB6C4"
 msgid "Wrong name"
-msgstr "Неправильное имя"
+msgstr "Неверное имя"
 
 #. Key:	F41E8C5148D1EF04BBC66993D4B0FF49
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/RepairReason.Default__RepairReason_C.reasons(7).reasons
 #: /Game/QualityCheck/UI/tablet/RepairReason.Default__RepairReason_C.reasons(7).reasons
 msgctxt ",F41E8C5148D1EF04BBC66993D4B0FF49"
 msgid "Wrong sticker position"
-msgstr "Неправильно размещенная наклейка"
+msgstr "Неправильное положение наклейки"
 
 #. Key:	4408CCC144B729C7C4D0118AA7BE18E7
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/RepairReason.RepairReason_C:WidgetTree.TextBlock.Text
