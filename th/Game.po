@@ -24,28 +24,28 @@ msgstr "กดปุ่มเพื่อผูก"
 #: /Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
 msgctxt ",3CB2A0B24617CF31968FC28E978F4153"
 msgid "Blueprints"
-msgstr "แผนผัง (Blueprints)"
+msgstr "พิมพ์เขียว"
 
 #. Key:	F2A8B642470514630D564A877B6C0FD7
 #. SourceLocation:	/Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
 #: /Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
 msgctxt ",F2A8B642470514630D564A877B6C0FD7"
 msgid "Static Meshes"
-msgstr "ตาข่ายคงที่ (Static Meshes)"
+msgstr "ตาข่ายคงที่"
 
 #. Key:	133AA5784CF570694C94B09914F0F525
 #. SourceLocation:	/Game/QualityCheck/Blueprints/ItemResult.ItemResult_C:ExecuteUbergraph_ItemResult [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/ItemResult.ItemResult_C:ExecuteUbergraph_ItemResult [Script Bytecode]
 msgctxt ",133AA5784CF570694C94B09914F0F525"
 msgid "Missing order barcode"
-msgstr "ไม่มีบาร์โค้ดของ pedido"
+msgstr "ไม่มีบาร์โค้ดคำสั่งซื้อ"
 
 #. Key:	509FAFFE48C45229E7360D97381EB5AB
 #. SourceLocation:	/Game/QualityCheck/Blueprints/ItemResult.ItemResult_C:ExecuteUbergraph_ItemResult [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/ItemResult.ItemResult_C:ExecuteUbergraph_ItemResult [Script Bytecode]
 msgctxt ",509FAFFE48C45229E7360D97381EB5AB"
 msgid "Missing protection"
-msgstr "ไม่มีการป้องกัน"
+msgstr "ไม่มีอุปกรณ์ป้องกัน"
 
 #. Key:	59EBFA86404FABA5CC55C58E7FF30A45
 #. SourceLocation:	/Game/QualityCheck/Blueprints/ItemResult.ItemResult_C:ExecuteUbergraph_ItemResult [Script Bytecode]
@@ -59,7 +59,7 @@ msgstr "ไม่มีบาร์โค้ด"
 #: /Game/QualityCheck/Blueprints/ItemResult.ItemResult_C:ExecuteUbergraph_ItemResult [Script Bytecode]
 msgctxt ",78B6C47048CB47719563CB88CC55D93A"
 msgid "Incomplete order"
-msgstr "pedido ไม่สมบูรณ์"
+msgstr "คำสั่งซื้อไม่สมบูรณ์"
 
 #. Key:	83253EFB4C0471D4AC69BAB387E0AD51
 #. SourceLocation:	/Game/QualityCheck/Blueprints/ItemResult.ItemResult_C:ExecuteUbergraph_ItemResult [Script Bytecode]
@@ -87,14 +87,14 @@ msgstr "สลับกล่อง"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",023C80494BD0373B621D728704DB99E9"
 msgid "Missing warning stickers"
-msgstr "ไม่มีสติ๊กเกอร์เตือน"
+msgstr "ไม่มีสติ๊กเกอร์คำเตือน"
 
 #. Key:	0ADE54E542DAD14ABB03F09162164FA2
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",0ADE54E542DAD14ABB03F09162164FA2"
 msgid "Inconsistent case"
-msgstr "กรณีไม่สอดคล้องกัน"
+msgstr "ตู้ไม่ตรงกัน"
 
 #. Key:	151789A244DFBB16BE890581DDE457B6
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -108,7 +108,7 @@ msgstr "ตำแหน่งสติ๊กเกอร์ผิด"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",2EB19FF24FE9853E1A67A4B2C5FDECFB"
 msgid "foreign objects"
-msgstr "วัตถุแปลกปลอม"
+msgstr "มีวัตถุแปลกปลอม"
 
 #. Key:	30F4F7434E058FCBF045E78CD48CE993
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -136,14 +136,14 @@ msgstr "ไม่มีชื่อ"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",69BACD724A6F3D41167DBBBDF85B0CE3"
 msgid "missing door"
-msgstr "ขาดประตู"
+msgstr "ไม่มีประตู"
 
 #. Key:	6A0CB23E4920D09318963D81ADECF639
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",6A0CB23E4920D09318963D81ADECF639"
 msgid "inconsistent lock"
-msgstr "ล็อกไม่สอดคล้องกัน"
+msgstr "ตัวล็อกไม่สอดคล้องกัน"
 
 #. Key:	70B0850340A625EE624D11AE6552631B
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -171,14 +171,14 @@ msgstr "ประตูไม่สอดคล้องกัน"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",E90801DE44EF123D29714D9B3962E3C5"
 msgid "Wrong name"
-msgstr "ชื่อผิด"
+msgstr "ชื่อไม่ถูกต้อง"
 
 #. Key:	0D8FE6B94EA2FDD914779FB617A89FE9
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_doll.qcm_physcs_doll_C:ExecuteUbergraph_qcm_physcs_doll [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_doll.qcm_physcs_doll_C:ExecuteUbergraph_qcm_physcs_doll [Script Bytecode]
 msgctxt ",0D8FE6B94EA2FDD914779FB617A89FE9"
 msgid "Wrong barcode"
-msgstr "บาร์โค้ดผิด"
+msgstr "บาร์โค้ดไม่ถูกต้อง"
 
 #. Key:	23CA48224A9BF5CFA2EA3A98E036BADA
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_doll.qcm_physcs_doll_C:ExecuteUbergraph_qcm_physcs_doll [Script Bytecode]
@@ -192,7 +192,7 @@ msgstr "ตุ๊กตาไม่สอดคล้องกัน"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_doll.qcm_physcs_doll_C:ExecuteUbergraph_qcm_physcs_doll [Script Bytecode]
 msgctxt ",34555C7F4218570D3D004A9EA3FC3410"
 msgid "Strange phenomenon"
-msgstr "ปรากฏการณ์แปลก ๆ"
+msgstr "เกิดปรากฏการณ์แปลก ๆ"
 
 #. Key:	ED350A8D4428164192E5148ED5131FEE
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_doll.qcm_physcs_doll_C:ExecuteUbergraph_qcm_physcs_doll [Script Bytecode]
@@ -206,7 +206,7 @@ msgstr "ไม่มีบาร์โค้ด"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_doll.qcm_physcs_doll_C:ExecuteUbergraph_qcm_physcs_doll [Script Bytecode]
 msgctxt ",EDA2EB3E4F3B37D7EBD19FAAF58CE596"
 msgid "Wrong name"
-msgstr "ชื่อผิด"
+msgstr "ชื่อไม่ถูกต้อง"
 
 #. Key:	246F2F4949FFB42650894AB5BD32B00D
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
@@ -248,7 +248,7 @@ msgstr "ไม่มีบาร์โค้ด"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",6E21B25E4D1C6179FC732F82785C32BF"
 msgid "Wrong barcode"
-msgstr "บาร์โค้ดผิด"
+msgstr "บาร์โค้ดไม่ถูกต้อง"
 
 #. Key:	71F6E88941938C640D8228BDE5E61725
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
@@ -262,7 +262,7 @@ msgstr "แรงดันไม่สอดคล้องกัน"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",87BC936647AB5AF3569652990E87D9B5"
 msgid "Inconsistent animation"
-msgstr "แอนิเมชันไม่สอดคล้องกัน"
+msgstr "การเคลื่อนไหวไม่สอดคล้องกัน"
 
 #. Key:	D37BCC0E40EF4546A93E2D9D388DAF76
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:Speak_GEN_VARIABLE.ChildActor1_GEN_VARIABLE_3DKeyShow_C_CAT.description
@@ -290,7 +290,7 @@ msgstr "หุ่นยนต์ของ {name}"
 #: /Game/QualityCheck/functions/orderFunctions.orderFunctions_C:generateOrder [Script Bytecode]
 msgctxt ",50B538004C020CD6B4559F8CE5F0A2BA"
 msgid "{name}'s case"
-msgstr "Caja ของ {name}"
+msgstr "ตู้ของ {name}"
 
 #. Key:	77A0EAF3485985870BFAACAB468F43BA
 #. SourceLocation:	/Game/QualityCheck/functions/textFunctions.textFunctions_C:getText [Script Bytecode]
@@ -311,28 +311,28 @@ msgstr "สลับประตู"
 #: /Game/QualityCheck/levels/qcm_area4.qcm_area4:PersistentLevel.AIPatrol_C_1.Mission
 msgctxt ",DBB575374F3EDC8AE24521ACFAD752E2"
 msgid "Find Blue"
-msgstr "หาสีฟ้า (Find Blue)"
+msgstr "ตามหา Blue"
 
 #. Key:	EF6789BD4B378EB6395796B33153C8D3
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_blue.qcm_blue:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
 #: /Game/QualityCheck/levels/qcm_blue.qcm_blue:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
 msgctxt ",EF6789BD4B378EB6395796B33153C8D3"
 msgid "UP"
-msgstr "ขึ้น (UP)"
+msgstr "ขึ้น"
 
 #. Key:	34F4896049116D5EB9610D9193ED7001
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_blue.qcm_blue:PersistentLevel.TextRenderActor_2.NewTextRenderComponent.Text
 #: /Game/QualityCheck/levels/qcm_blue.qcm_blue:PersistentLevel.TextRenderActor_2.NewTextRenderComponent.Text
 msgctxt ",34F4896049116D5EB9610D9193ED7001"
 msgid "THROW"
-msgstr "โยน (THROW)"
+msgstr "โยน"
 
 #. Key:	BD9F98F441E48FB99A44F5A54731EA54
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_blue.qcm_blue_C:ExecuteUbergraph_qcm_blue [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_blue.qcm_blue_C:ExecuteUbergraph_qcm_blue [Script Bytecode]
 msgctxt ",BD9F98F441E48FB99A44F5A54731EA54"
 msgid "Escape"
-msgstr "หนี (Escapa)"
+msgstr "หนี"
 
 #. Key:	003D0D834733E7C533A89F9D6A1FB8E8
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_cafeteria.qcm_cafeteria:PersistentLevel.SkeletalMeshActor_0.New Mission
@@ -360,7 +360,7 @@ msgstr "หมุนขวา"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch:PersistentLevel.3DKeyShow_C_6.description
 msgctxt ",C13DEE9C4AB6C195FC29288F8D0CADA4"
 msgid "Preasure Action"
-msgstr "การกด (Pressure Action)"
+msgstr "การปรับแรงดัน"
 
 #. Key:	2FC1B1CB4A4893796C9FF8ABF1A2FE97
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch:PersistentLevel.streamingLevelLoadInteract_C_1.newMission(6 - Value).newMission_Value
@@ -381,14 +381,14 @@ msgstr "เปิดไฟ"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch:PersistentLevel.streamingLevelLoadInteract_C_2.newMission(1 - Value).newMission_Value
 msgctxt ",BD531B9E4442536830BE929E0EE5BE75"
 msgid "Unblock the products on dispatch"
-msgstr "ปลดบล็อกผลิตภัณฑ์ใน Envíos"
+msgstr "ปลดบล็อคผลิตภัณฑ์ในแผนกจัดส่ง"
 
 #. Key:	166AB17B4C2924FEEED342A0F0C2FD03
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch:PersistentLevel.streamingLevelLoadInteract_C_3.newMission(0 - Value).newMission_Value
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch:PersistentLevel.streamingLevelLoadInteract_C_3.newMission(0 - Value).newMission_Value
 msgctxt ",166AB17B4C2924FEEED342A0F0C2FD03"
 msgid "Go to dispatches room"
-msgstr "ไปยังห้อง Envíos"
+msgstr "ไปยังห้องแผนกจัดส่ง"
 
 #. Key:	0F12F3904CEF62CE122689A9AFDAD4CA
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -409,7 +409,7 @@ msgstr "กลับบ้าน"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",239D301D425DDDE4BB5E72945B2C2E1A"
 msgid "Put the tool back in its place."
-msgstr "เก็บเครื่องมือกลับที่เดิม"
+msgstr "กรุณาเก็บเครื่องมือกลับที่เดิม"
 
 #. Key:	32BB351643F146D3CE187DA1F1A5061F
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -430,14 +430,14 @@ msgstr "หยิบเครื่องสแกนบาร์โค้ด"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",3C78B4824D8DDE1EE4EADEA8E5D30790"
 msgid "Add protection to Box"
-msgstr "เพิ่มการป้องกันให้ Caja"
+msgstr "เพิ่มอุปกรณ์ป้องกันให้กล่อง"
 
 #. Key:	41C8EB434E3B857742426CB953A2D962
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",41C8EB434E3B857742426CB953A2D962"
 msgid "Place into platform"
-msgstr "วางบนแท่น"
+msgstr "วางบนแท่นตรวจสอบ"
 
 #. Key:	59D5F27B450291184FBE03926D9972D3
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -458,14 +458,14 @@ msgstr "ตรวจสอบผลิตภัณฑ์"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",6D3847D84B4B95D2139654B5C4FEB564"
 msgid "STUCK"
-msgstr "ติดขัด (STUCK)"
+msgstr "ติดขัด"
 
 #. Key:	6DAEF58F41A34662BD57069D35F19980
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",6DAEF58F41A34662BD57069D35F19980"
 msgid "Use the repair reason panel (Wrong name)"
-msgstr "ใช้แผงเหตุผลการซ่อม (ชื่อผิด)"
+msgstr "ใช้แผงระบุเหตุผลการส่งซ่อม (ชื่อไม่ถูกต้อง)"
 
 #. Key:	6E0EA478403ECE52ABBF53A320274AB8
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -486,14 +486,14 @@ msgstr "ตรวจสอบแผงใหม่"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",7A7E50BE4647DBC366917A8BCB2C243D"
 msgid "Send to production"
-msgstr "ส่งไปผลิต"
+msgstr "ส่งไปยังฝ่ายผลิต"
 
 #. Key:	8F48C2364E01FB55DE3BE3965FDDA749
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",8F48C2364E01FB55DE3BE3965FDDA749"
 msgid "Activate the dispatch Panel"
-msgstr "เปิดแผง Envíos"
+msgstr "เปิดแผงแผนกจัดส่ง"
 
 #. Key:	99B7B7A64D583DA8EC8B43A20F3588B3
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -521,35 +521,35 @@ msgstr "ออกจากห้องสังเกตการณ์"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",C8D9A35D497B88BA1314689A56AEF353"
 msgid "Put the box on the floor platform."
-msgstr "วาง Caja บนแท่นพื้น"
+msgstr "วางกล่องบนพื้นแพลตฟอร์ม"
 
 #. Key:	C94280B14B7B4C66F1B93F915138EC5A
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",C94280B14B7B4C66F1B93F915138EC5A"
 msgid "Pick up the Doll"
-msgstr "หยิบ Muñeco"
+msgstr "หยิบตุ๊กตาขึ้นมา"
 
 #. Key:	D06F76594B031E9B278C26860B6700BF
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",D06F76594B031E9B278C26860B6700BF"
 msgid "Review the case"
-msgstr "ตรวจสอบ Caja"
+msgstr "ตรวจสอบตู้"
 
 #. Key:	D299CF65439CF03C62CBD1A3840D84A9
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",D299CF65439CF03C62CBD1A3840D84A9"
 msgid "Put the case on repair selecting wrong name as repair reason"
-msgstr "วาง Caja บนการซ่อม พร้อมเลือกชื่อผิดเป็นเหตุผลการซ่อม"
+msgstr "วางตู้ในสายการซ่อมแล้วเลือกเหตุผลการซ่อมแซมว่าชื่อไม่ถูกต้อง"
 
 #. Key:	E5D1644344491A13316F9AB8CD6AD31A
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",E5D1644344491A13316F9AB8CD6AD31A"
 msgid "Put the barcode on box and send it to production"
-msgstr "ติดบาร์โค้ดบน Caja และส่งไปผลิต"
+msgstr "ติดบาร์โค้ดลงในกล่องแล้วส่งไปยังการผลิต"
 
 #. Key:	E986BC32440410B3B2AA529C1AF4C358
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -563,7 +563,7 @@ msgstr "ไปยังห้องจัดเก็บ..."
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",F0444637451984370DD1ABBD14148409"
 msgid "Place the doll in the platform"
-msgstr "วาง Muñeco บนแท่น"
+msgstr "วางตุ๊กตาบนแท่นตรวจสอบ"
 
 #. Key:	F7FDDC304A5024D676A5EE80893CEB02
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -577,14 +577,14 @@ msgstr "กลับบ้าน"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",F88B77E547F006009AD0F0B0125FF1C8"
 msgid "Send it to production"
-msgstr "ส่งไปผลิต"
+msgstr "ส่งไปยังฝ่ายผลิต"
 
 #. Key:	F9EDED874A66119071C16984B7464371
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",F9EDED874A66119071C16984B7464371"
 msgid "Print the order barcode and put on product"
-msgstr "พิมพ์บาร์โค้ดของ pedido และติดบนผลิตภัณฑ์"
+msgstr "พิมพ์บาร์โค้ดคำสั่งซื้อและติดลงผลิตภัณฑ์"
 
 #. Key:	FC8959AC46B48CBBFBEE2AB99A29DBF8
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -605,7 +605,7 @@ msgstr "ไปยังห้องสังเกตการณ์"
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_1.Mission
 msgctxt ",6370292A4746B6810ECD75AB7A447E81"
 msgid "Go to HR Office"
-msgstr "ไปยังสำนักงาน HR"
+msgstr "ไปยังสำนักงานฝ่ายบุคคล"
 
 #. Key:	A13EC4E84C6D0BE812C8B48B6C6403D1
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_10.Mission
@@ -619,7 +619,7 @@ msgstr "ไปยังห้องเซิร์ฟเวอร์"
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_2.Mission
 msgctxt ",0902806743D23675BFDD0A9E5936DB6C"
 msgid "Go to dispatches room"
-msgstr "ไปยังห้อง Envíos"
+msgstr "ไปยังห้องแผนกจัดส่ง"
 
 #. Key:	21DAAAA046755F3B0DEA72BF83FEABC5
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_4.Mission
@@ -640,14 +640,14 @@ msgstr "ไปยังห้องรักษาความปลอดภั
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_8.Mission
 msgctxt ",9B2DD66146ED89E8308D5D9A7E95A64A"
 msgid "Go to Cafeteria"
-msgstr "ไปยัง Cafeteria"
+msgstr "ไปยังโรงอาหาร"
 
 #. Key:	078AEF0A4BC4903DC64AA48A81CD7B97
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.streamingLevelLoadInteract_C_3.newMission(0 - Value).newMission_Value
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.streamingLevelLoadInteract_C_3.newMission(0 - Value).newMission_Value
 msgctxt ",078AEF0A4BC4903DC64AA48A81CD7B97"
 msgid "Find the papers"
-msgstr "หากระดาษ"
+msgstr "ค้นหาเอกสาร"
 
 #. Key:	5E25DAC8457D6AC059BAFD8659576A99
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.streamingLevelLoadInteract_C_4.newMission(0 - Value).newMission_Value
@@ -682,7 +682,7 @@ msgstr "ติดสติ๊กเกอร์บนโต๊ะแต่ละ
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.streamingLevelLoadInteract_C_7.newMission(0 - Value).newMission_Value
 msgctxt ",5758EEC14D1960F9A51B11A4E14B7EFE"
 msgid "Find Blue"
-msgstr "หาสีฟ้า (Find Blue)"
+msgstr "ตามหา Blue"
 
 #. Key:	05F004004C0C63CB913F89B579B3C2B5
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.streamingLevelLoadInteract_C_8.newMission(0 - Value).newMission_Value
@@ -703,7 +703,7 @@ msgstr "ไปยังห้องสัมภาษณ์"
 #: /Game/QualityCheck/levels/qcm_house.qcm_house:PersistentLevel.streamingLevelLoadInteract_C_1.newMission(0 - Value).newMission_Value
 msgctxt ",38B47F6443107F1A870F258CE1E53FEE"
 msgid "Join to Doll Inc"
-msgstr "เข้าร่วม Doll Impostor"
+msgstr "เข้าร่วม Doll INC"
 
 #. Key:	26F695304732DB9EAED5508A16DB6F1F
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
@@ -717,7 +717,7 @@ msgstr "ไปยังประตู"
 #: /Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
 msgctxt ",6605812249F319D73CE7B68A78798C40"
 msgid "Take the phone"
-msgstr "หยิบโทรศัพท์"
+msgstr "รับโทรศัพท์"
 
 #. Key:	6981B6DA4BD6F8514E58CD94519AE1AD
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
@@ -731,14 +731,14 @@ msgstr "ออกจากอพาร์ตเมนต์"
 #: /Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
 msgctxt ",9B5F77504063E212FB1654A0A361625F"
 msgid "Check the tv"
-msgstr "ตรวจทีวี"
+msgstr "เปิดทีวี"
 
 #. Key:	C8835BB54ADB2E0A417CA59DB4FF9866
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
 msgctxt ",C8835BB54ADB2E0A417CA59DB4FF9866"
 msgid "Thanks for purchasing Doll Impostor previously (The system has recognized it)."
-msgstr "ขอบคุณที่ซื้อ Doll Impostor ไปก่อนหน้านี้ (ระบบรับรู้แล้ว)"
+msgstr "ขอขอบคุณที่ซื้อ Doll Impostor ไปก่อนหน้านี้ (ระบบตรวจสอบเรียบร้อยแล้ว)"
 
 #. Key:	F726153349E7F7EBEEDAEB8A041DDAA0
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_house.qcm_house_C:ExecuteUbergraph_qcm_house [Script Bytecode]
@@ -773,70 +773,70 @@ msgstr "กลับไปทำงาน"
 #: /Game/QualityCheck/levels/qcm_office.qcm_office_C:ExecuteUbergraph_qcm_office [Script Bytecode]
 msgctxt ",4790609049389B3E8BE97BAD6DDB01F8"
 msgid "Leave from HR Office"
-msgstr "ออกจากสำนักงาน HR"
+msgstr "ออกจากสำนักงานฝ่ายบุคคล"
 
 #. Key:	CFF1D6A44842770C6B33A5A75CCDD4C5
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_office.qcm_office_C:ExecuteUbergraph_qcm_office [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_office.qcm_office_C:ExecuteUbergraph_qcm_office [Script Bytecode]
 msgctxt ",CFF1D6A44842770C6B33A5A75CCDD4C5"
 msgid "Find the papers"
-msgstr "หากระดาษ"
+msgstr "ค้นหาเอกสาร"
 
 #. Key:	256D8907458D653267033A97CBA8BF4B
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 msgctxt ",256D8907458D653267033A97CBA8BF4B"
 msgid "Put a case inside and write the text required in the order"
-msgstr "ใส่ Caja ลงไปแล้วเขียนข้อความตามที่ pedido ต้องการ"
+msgstr "ใส่ตู้ลงไปและเขียนข้อความที่จำเป็นลงในคำสั่งซื้อสินค้า"
 
 #. Key:	270E3DE54C31DDA06F8A2B9948DE36D5
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 msgctxt ",270E3DE54C31DDA06F8A2B9948DE36D5"
 msgid "Bring the box to dispatch room"
-msgstr "เอา Caja ไปห้อง Envíos"
+msgstr "นำกล่องไปยังแผนกจัดส่ง"
 
 #. Key:	308FFE574239048DD15660B6BAA6F182
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 msgctxt ",308FFE574239048DD15660B6BAA6F182"
 msgid "Request a box before products"
-msgstr "ขอ Caja ก่อนเอาผลิตภัณฑ์"
+msgstr "ขอกล่องก่อนใส่ผลิตภัณฑ์"
 
 #. Key:	47AFFBCC41F0404B5C2BDFB0A9C6ECBC
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 msgctxt ",47AFFBCC41F0404B5C2BDFB0A9C6ECBC"
 msgid "Pick the product and back to dispatch room"
-msgstr "หยิบผลิตภัณฑ์แล้วกลับไปห้อง Envíos"
+msgstr "หยิบผลิตภัณฑ์และกลับไปที่ห้องจัดส่ง"
 
 #. Key:	EBA8131F4CEE22F6786953957FBC5822
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 msgctxt ",EBA8131F4CEE22F6786953957FBC5822"
 msgid "Put items on box"
-msgstr "ใส่ของลงใน Caja"
+msgstr "ใส่ของลงในกล่อง"
 
 #. Key:	F208F6E945169173EDE934A12DA0094A
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 #: /Game/QualityCheck/levels/qcm_storage.qcm_storage_C:ExecuteUbergraph_qcm_storage [Script Bytecode]
 msgctxt ",F208F6E945169173EDE934A12DA0094A"
 msgid "Request the product order"
-msgstr "ขอ pedido ผลิตภัณฑ์"
+msgstr "ขอคำสั่งซื้อผลิตภัณฑ์"
 
 #. Key:	F387F4634D5E58FC3E53D18BD021A97E
 #. SourceLocation:	/Game/QualityCheck/sounds/badending.badending.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(0).Subtitles.Text
 msgctxt ",F387F4634D5E58FC3E53D18BD021A97E"
 msgid "So... you thought this was about trust?"
-msgstr "…คุณคิดว่านี่เกี่ยวกับความไว้วางใจเหรอ?"
+msgstr "แล้ว ... คุณคิดว่านี่เป็นเรื่องเกี่ยวกับความไว้ใจอย่างนั้นหรอ?"
 
 #. Key:	3D8EE06A441B7ED0F7CAE1ACB1C14A53
 #. SourceLocation:	/Game/QualityCheck/sounds/badending.badending.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(1).Subtitles.Text
 msgctxt ",3D8EE06A441B7ED0F7CAE1ACB1C14A53"
 msgid "You were never a real employee."
-msgstr "คุณไม่เคยเป็นพนักงานจริงเลย"
+msgstr "คุณไม่ตั้งใจทำงานเอาซะเลย"
 
 #. Key:	95FD7DF54609DC7835C79CA7852EBC6A
 #. SourceLocation:	/Game/QualityCheck/sounds/badending.badending.Subtitles(10).Subtitles.Text
@@ -864,7 +864,7 @@ msgstr "นี่เป็นการทดสอบ"
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(3).Subtitles.Text
 msgctxt ",FAEA23D5488A289A74F34F9ACFE94D77"
 msgid "Thirty days to prove one thing: obedience."
-msgstr "สามสิบวันเพื่อพิสูจน์สิ่งหนึ่ง: ความเชื่อฟัง"
+msgstr "สามสิบวันเพื่อทำการพิสูจน์สิ่งหนึ่ง: ความเชื่อฟัง"
 
 #. Key:	6E53A60340B955CAD3D82BBE785C0B06
 #. SourceLocation:	/Game/QualityCheck/sounds/badending.badending.Subtitles(4).Subtitles.Text
@@ -878,28 +878,28 @@ msgstr "แต่คุณล้มเหลว"
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(5).Subtitles.Text
 msgctxt ",5C533C2F4E181BF14C45AA8A2A0585FF"
 msgid "Your “friend”?"
-msgstr "“เพื่อน” ของคุณ?"
+msgstr "“เพื่อน” ของคุณอย่างนั้นหรอ?"
 
 #. Key:	28C9673547645DB66CD638BB07DEEF29
 #. SourceLocation:	/Game/QualityCheck/sounds/badending.badending.Subtitles(6).Subtitles.Text
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(6).Subtitles.Text
 msgctxt ",28C9673547645DB66CD638BB07DEEF29"
 msgid "Just a handler."
-msgstr "แค่ผู้ดูแล"
+msgstr "แค่ผู้ดูแลเท่านั้นเอง"
 
 #. Key:	DE4F17FA46CEE74EFCB32CB58179387C
 #. SourceLocation:	/Game/QualityCheck/sounds/badending.badending.Subtitles(7).Subtitles.Text
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(7).Subtitles.Text
 msgctxt ",DE4F17FA46CEE74EFCB32CB58179387C"
 msgid "Their job was to watch you... push you."
-msgstr "งานของพวกเขาคือดูคุณ…ผลักดันคุณ"
+msgstr "งานของพวกเขาคือคอยจับตาดูคุณ… ผลักดันคุณ"
 
 #. Key:	4DB707544544994F9AE1ED9A6A01A5E8
 #. SourceLocation:	/Game/QualityCheck/sounds/badending.badending.Subtitles(8).Subtitles.Text
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(8).Subtitles.Text
 msgctxt ",4DB707544544994F9AE1ED9A6A01A5E8"
 msgid "And you? You disobeyed. You questioned."
-msgstr "แล้วคุณล่ะ? คุณไม่เชื่อฟัง คุณตั้งคำถาม"
+msgstr "และคุณก็? ไม่เชื่อฟังเลย มัวแต่ตั้งคำถาม"
 
 #. Key:	CE8D381B448561D21479639D363E84DC
 #. SourceLocation:	/Game/QualityCheck/sounds/badending.badending.Subtitles(9).Subtitles.Text
