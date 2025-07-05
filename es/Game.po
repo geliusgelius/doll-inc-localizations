@@ -66,7 +66,7 @@ msgstr "Pedido incompleto"
 #: /Game/QualityCheck/Blueprints/ItemResult.ItemResult_C:ExecuteUbergraph_ItemResult [Script Bytecode]
 msgctxt ",83253EFB4C0471D4AC69BAB387E0AD51"
 msgid "Fail reason"
-msgstr "Motivo de fallo"
+msgstr "Razón del fallo"
 
 #. Key:	652FB43B4C7AD93FDE5427B128469DEC
 #. SourceLocation:	/Game/QualityCheck/Blueprints/putItem.putItem_C:ExecuteUbergraph_putItem [Script Bytecode]
@@ -598,7 +598,7 @@ msgstr "Ve a la sala de mantenimiento"
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_0.Mission
 msgctxt ",72665A764943C26EF07B8BBC76AC13C0"
 msgid "Go to observation room"
-msgstr "Ve a la sala de observación"
+msgstr "Ve a la sala de observación (observation)"
 
 #. Key:	6370292A4746B6810ECD75AB7A447E81
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_1.Mission
@@ -626,7 +626,7 @@ msgstr "Ve a la sala de Envíos (dispatches)"
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_4.Mission
 msgctxt ",21DAAAA046755F3B0DEA72BF83FEABC5"
 msgid "Go to Locker room"
-msgstr "Ve al vestuario"
+msgstr "Ve al vestuario (locker)"
 
 #. Key:	A528D48348617EF476A703A36E74708E
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.AIPatrol_C_6.Mission
@@ -654,7 +654,7 @@ msgstr "Encuentra los papeles"
 #: /Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.streamingLevelLoadInteract_C_4.newMission(0 - Value).newMission_Value
 msgctxt ",5E25DAC8457D6AC059BAFD8659576A99"
 msgid "Put the stickers on each lock"
-msgstr "Pon pegatinas en cada cierre"
+msgstr "Pon pegatinas en cada taquilla"
 
 #. Key:	781DC04D48CE750D284BBD8DD0CE51B1
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_factory_in.qcm_factory_in:PersistentLevel.streamingLevelLoadInteract_C_4.newMission(1 - Value).newMission_Value
@@ -1662,7 +1662,7 @@ msgstr "Eficiente. Limpio. Estoy impresionado — temporalmente"
 #: /Game/QualityCheck/sounds/phrases/approved/6.6.Subtitles(0).Subtitles.Text
 msgctxt ",12D4CC9B4BBAF78AC2BD3E8F3AB5E3FF"
 msgid "You’re not entirely useless after all."
-msgstr "No eres totalmente inútil"
+msgstr "No eres del todo inútil después de todo"
 
 #. Key:	480C83EE4FE7472A852F2D85A12261E5
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/7.7.Subtitles(0).Subtitles.Text
@@ -2733,7 +2733,7 @@ msgstr "Bien… sigamos con el reclutamiento"
 #: /Game/QualityCheck/sounds/scenes/recreuit.recreuit.Subtitles(1).Subtitles.Text
 msgctxt ",A893933F470345E8852F97B8C7D0FBB8"
 msgid "Head to the locker room"
-msgstr "Ve al vestuario"
+msgstr "Ve al vestuario (locker)"
 
 #. Key:	D11793554AD2E976CD2FD5BDDCDB941F
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/recreuit.recreuit.Subtitles(10).Subtitles.Text
@@ -4581,7 +4581,7 @@ msgstr "Volví a inspeccionar cajas, pero esta vez revisando las etiquetas de pe
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 msgctxt ",7DE9014E41DAF981D64B42B1FF3C38DE"
 msgid "Blue told me to return to the lockers and collect the IDs of those willing to join the resistance."
-msgstr "Blue me dijo que volviera a los casilleros y recogiera las IDs de quienes quisieran entrar a la resistencia."
+msgstr "Blue me dijo que volviera a las taquillas y recogiera los documentos de quienes quisieran entrar a la resistencia."
 
 #. Key:	7FD44B71482BC5E39B903FBE1C763966
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
@@ -4679,7 +4679,7 @@ msgstr "Conseguí una nueva herramienta: el escáner de anomalías visuales. Mi 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 msgctxt ",E99BBB6C4842A2D53CC11DB6F2919CEB"
 msgid "Left post-its in lockers — recruiting others has begun."
-msgstr "Dejé post-its en casilleros — el reclutamiento ha comenzado."
+msgstr "Dejé post-its en taquillas — el reclutamiento ha comenzado."
 
 #. Key:	EC7293844D4B3B77062E669B67B84FD5
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
