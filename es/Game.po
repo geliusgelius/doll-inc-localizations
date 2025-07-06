@@ -829,7 +829,7 @@ msgstr "Solicita el pedido de producto"
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(0).Subtitles.Text
 msgctxt ",F387F4634D5E58FC3E53D18BD021A97E"
 msgid "So... you thought this was about trust?"
-msgstr "¿… pensaste que esto era sobre confianza?"
+msgstr "Entonces... ¿pensabas que esto se trataba de confianza?"
 
 #. Key:	3D8EE06A441B7ED0F7CAE1ACB1C14A53
 #. SourceLocation:	/Game/QualityCheck/sounds/badending.badending.Subtitles(1).Subtitles.Text
@@ -1648,7 +1648,7 @@ msgstr "Hmm… aceptable. Justo"
 #: /Game/QualityCheck/sounds/phrases/approved/4.4.Subtitles(0).Subtitles.Text
 msgctxt ",E8EB44DA44B64220DE714FA5EF464957"
 msgid "For once, your brain was in sync with your hands."
-msgstr "Por una vez, cerebro y manos sincronizados"
+msgstr "Por una vez, tu cerebro estaba en sintonía con tus manos"
 
 #. Key:	1FDF56C842D6D7B926794DBAB16F4434
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/5.5.Subtitles(0).Subtitles.Text
@@ -1683,7 +1683,7 @@ msgstr "Bien hecho. Hasta un reloj roto acierta dos veces"
 #: /Game/QualityCheck/sounds/phrases/approved/9.9.Subtitles(0).Subtitles.Text
 msgctxt ",2B3358B44EBA0A0EF08C2B8847D7541B"
 msgid "That’s the kind of obedience we need here."
-msgstr "Ese es el tipo de obediencia que necesitamos"
+msgstr "Ese es el tipo de obediencia que necesitamos aquí."
 
 #. Key:	98E5DAF74727728FC67BD6AAA3B40072
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/voiceinterview.voiceinterview.Subtitles(0).Subtitles.Text
@@ -2824,14 +2824,14 @@ msgstr "¡Vamos! ¡Blue ha fallado a la compañía!"
 #: /Game/QualityCheck/sounds/scenes/supervisorchoice.supervisorchoice.Subtitles(3).Subtitles.Text
 msgctxt ",BC77795B4FD32BC9A1161DBE425B4648"
 msgid "Throw him into the void. He is no longer a Useful Robot."
-msgstr "Échalo al vacío. Ya no es un robot útil"
+msgstr "Tíralo al vacío. Ya no es un robot útil"
 
 #. Key:	47EA3AF9405B8B97A13BA6AFEC8A6A2B
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/supervisorchoice.supervisorchoice.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/scenes/supervisorchoice.supervisorchoice.Subtitles(4).Subtitles.Text
 msgctxt ",47EA3AF9405B8B97A13BA6AFEC8A6A2B"
 msgid "What are you waiting for?"
-msgstr "¿Qué esperas?"
+msgstr "¿A Qué esperas?"
 
 #. Key:	488E9A364F7831864D58628E98E791A2
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/timetrial.timetrial.Subtitles(0).Subtitles.Text
@@ -4532,14 +4532,14 @@ msgstr "Comencé a procesar pedidos de productos. Ahora manejamos envíos reales
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 msgctxt ",1C9D1995422A4BE131A0F3A1BF8F842A"
 msgid "I’ve been assigned to handle full quality control — returns, complaints, all of it."
-msgstr "Me asignaron control de calidad completo — devoluciones, quejas, todo."
+msgstr "Me asignaron control de calidad completo — devoluciones, pedidos, todo."
 
 #. Key:	2F303EA24751AA8DE94637AA56D164E3
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 msgctxt ",2F303EA24751AA8DE94637AA56D164E3"
 msgid "The resistance contacted me again. They addressed me as their superior. Blue has vanished. Last seen in Area 4."
-msgstr "La resistencia me contactó de nuevo. Me llamaron su superior. Blue ha desaparecido. Última vez visto en Área 4."
+msgstr "La resistencia me contactó de nuevo. Me llamaron su superior. Blue ha desaparecido. La última vez que se le vio fue en el Área 4."
 
 #. Key:	4F4277B84EB62BFCD2085AB950017649
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
@@ -4980,7 +4980,7 @@ msgstr "Salir"
 #: /Game/QualityCheck/UI/introQC.introQC_C:WidgetTree.TextBlock_4.Text
 msgctxt ",80E21629480E57C88E262198EC87AC63"
 msgid "Based in Doll Impostor Game/Universe"
-msgstr "Basado en Juego/Universo de Doll Impostor"
+msgstr "Basado en el Juego/Universo de Doll Impostor"
 
 #. Key:	04D63A604E5D6F986FFDA2A1843FAB43
 #. SourceLocation:	/Game/QualityCheck/UI/introQC.introQC_C:WidgetTree.TextBlock_5.Text
@@ -6198,7 +6198,7 @@ msgstr "Hecho"
 #: /Game/QualityCheck/UI/tablet/nameChanger.nameChanger_C:WidgetTree.TextBlock_5.Text
 msgctxt ",5E7917D54BA5190DF7A108B9500486CA"
 msgid "WRITE"
-msgstr "ESCRIBIR"
+msgstr "ESCRIBE"
 
 #. Key:	F54CE9DA42C11B543660619823F77D1D
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/order.order_C:GetText [Script Bytecode]
