@@ -80,7 +80,7 @@ msgstr "кг"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_box.qcm_physcs_box_C:DoorMSG_GEN_VARIABLE.ChildActor_GEN_VARIABLE_3DKeyShow_C_CAT.description
 msgctxt ",A2A9C4324AD650A0A94C3C98ED1938A6"
 msgid "Toggle Box"
-msgstr "Переключить коробку"
+msgstr "Открыть/закрыть коробку"
 
 #. Key:	023C80494BD0373B621D728704DB99E9
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -108,7 +108,7 @@ msgstr "Неправильное положение наклейки"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",2EB19FF24FE9853E1A67A4B2C5FDECFB"
 msgid "foreign objects"
-msgstr "посторонние объекты"
+msgstr "Посторонние объекты"
 
 #. Key:	30F4F7434E058FCBF045E78CD48CE993
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -136,14 +136,14 @@ msgstr "Отсутствует имя"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",69BACD724A6F3D41167DBBBDF85B0CE3"
 msgid "missing door"
-msgstr "отсутствует дверь"
+msgstr "Отсутствует дверь"
 
 #. Key:	6A0CB23E4920D09318963D81ADECF639
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",6A0CB23E4920D09318963D81ADECF639"
 msgid "inconsistent lock"
-msgstr "несоответствующий замок"
+msgstr "Несоответствующий замок"
 
 #. Key:	70B0850340A625EE624D11AE6552631B
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -164,7 +164,7 @@ msgstr "Отсутствует штрих-код"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",BB2A7259408546D2F1A07CBDADAEC929"
 msgid "inconsistent door"
-msgstr "несоответствующая дверь"
+msgstr "Несоответствующая дверь"
 
 #. Key:	E90801DE44EF123D29714D9B3962E3C5
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -185,7 +185,7 @@ msgstr "Неправильный штрих-код"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_doll.qcm_physcs_doll_C:ExecuteUbergraph_qcm_physcs_doll [Script Bytecode]
 msgctxt ",23CA48224A9BF5CFA2EA3A98E036BADA"
 msgid "Inconsistent doll"
-msgstr "несоответствующая кукла"
+msgstr "Несоответствующая кукла"
 
 #. Key:	34555C7F4218570D3D004A9EA3FC3410
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_doll.qcm_physcs_doll_C:ExecuteUbergraph_qcm_physcs_doll [Script Bytecode]
@@ -213,28 +213,28 @@ msgstr "Неверное имя"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",246F2F4949FFB42650894AB5BD32B00D"
 msgid "inconsistent weight"
-msgstr "несоответствующий вес"
+msgstr "Несоответствующий вес"
 
 #. Key:	2E207F62429FB6F9CDD02BB28E0ED5E6
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",2E207F62429FB6F9CDD02BB28E0ED5E6"
 msgid "inconsistent temperature"
-msgstr "несоответствующая температура"
+msgstr "Несоответствующая температура"
 
 #. Key:	5C3B4340450F84A03477DA81D1A4BC2B
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",5C3B4340450F84A03477DA81D1A4BC2B"
 msgid "Inconsistent voice"
-msgstr "несоответствующий голос"
+msgstr "Несоответствующий голос"
 
 #. Key:	605FF701467A050AB8CE96A29C44E3D7
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",605FF701467A050AB8CE96A29C44E3D7"
 msgid "Inconsistent robot"
-msgstr "несоответствующий робот"
+msgstr "Несоответствующий робот"
 
 #. Key:	658E832A42ED1FEF74D28FBB459680D5
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
@@ -255,14 +255,14 @@ msgstr "Неправильный штрих-код"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",71F6E88941938C640D8228BDE5E61725"
 msgid "inconsistent pressure"
-msgstr "несоответствующее давление"
+msgstr "Несоответствующее давление"
 
 #. Key:	87BC936647AB5AF3569652990E87D9B5
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",87BC936647AB5AF3569652990E87D9B5"
 msgid "Inconsistent animation"
-msgstr "несоответствующая анимация"
+msgstr "Несоответствующая анимация"
 
 #. Key:	D37BCC0E40EF4546A93E2D9D388DAF76
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:Speak_GEN_VARIABLE.ChildActor1_GEN_VARIABLE_3DKeyShow_C_CAT.description
@@ -276,7 +276,7 @@ msgstr "Говори"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:TurnOn_GEN_VARIABLE.Speak1_GEN_VARIABLE_3DKeyShow_C_CAT.description
 msgctxt ",A7D3B47A4A4B068C31CFD39A6CF0A5D1"
 msgid "Toggle Robot"
-msgstr "Переключить робота"
+msgstr "Вкл/Выкл робота"
 
 #. Key:	110C6C1B4CF0A0E6C0F317B2CDC7939E
 #. SourceLocation:	/Game/QualityCheck/functions/orderFunctions.orderFunctions_C:generateOrder [Script Bytecode]
@@ -304,7 +304,7 @@ msgstr "Переключить замок"
 #: /Game/QualityCheck/functions/textFunctions.textFunctions_C:getText [Script Bytecode]
 msgctxt ",7F79F95F4C1FD5F0F6E0CBA5BADCD4E5"
 msgid "Toggle Door"
-msgstr "Переключить дверь"
+msgstr "Открыть/закрыть дверь"
 
 #. Key:	DBB575374F3EDC8AE24521ACFAD752E2
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_area4.qcm_area4:PersistentLevel.AIPatrol_C_1.Mission
@@ -465,7 +465,7 @@ msgstr "ЗАСТРЯЛ"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",6DAEF58F41A34662BD57069D35F19980"
 msgid "Use the repair reason panel (Wrong name)"
-msgstr "Используйте панель причин ремонта (Неверное название)"
+msgstr "Используйте панель причин ремонта (Неверное имя)"
 
 #. Key:	6E0EA478403ECE52ABBF53A320274AB8
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -542,7 +542,7 @@ msgstr "Проверь коробку"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",D299CF65439CF03C62CBD1A3840D84A9"
 msgid "Put the case on repair selecting wrong name as repair reason"
-msgstr "Отправьте коробку в ремонт, указав неверное название в качестве причины"
+msgstr "Отправьте коробку в ремонт, указав неверное имя в качестве причины"
 
 #. Key:	E5D1644344491A13316F9AB8CD6AD31A
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -1011,7 +1011,7 @@ msgstr "Хорошо"
 #: /Game/QualityCheck/sounds/end.end.Subtitles(1).Subtitles.Text
 msgctxt ",E9A728294CA24423E1921F9F3DD1B86B"
 msgid "Report to the facility immediately for your first assessment."
-msgstr "Я хочу тебя сразу к оценке"
+msgstr "Я хочу тебя оценить. "
 
 #. Key:	D670B99E4C4997AE7138549BB082F5FA
 #. SourceLocation:	/Game/QualityCheck/sounds/end.end.Subtitles(2).Subtitles.Text
@@ -2824,7 +2824,7 @@ msgstr "Давай! Blue провалил компанию!"
 #: /Game/QualityCheck/sounds/scenes/supervisorchoice.supervisorchoice.Subtitles(3).Subtitles.Text
 msgctxt ",BC77795B4FD32BC9A1161DBE425B4648"
 msgid "Throw him into the void. He is no longer a Useful Robot."
-msgstr "Брось его в бездну. Он больше не полезен"
+msgstr "Брось его в бездну. Он теперь бесполезен."
 
 #. Key:	47EA3AF9405B8B97A13BA6AFEC8A6A2B
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/supervisorchoice.supervisorchoice.Subtitles(4).Subtitles.Text
@@ -4392,7 +4392,7 @@ msgstr "Не бойся"
 #: /Game/QualityCheck/sounds/yesgame.yesgame.Subtitles(0).Subtitles.Text
 msgctxt ",276C005F4E51A6639CA94C94BA4DC831"
 msgid "Ah, I see you know the product well."
-msgstr "Ах, знаю, ты хорошо знаешь продукт"
+msgstr "Ах, знаю, ты хорошо знаешь продукт. "
 
 #. Key:	D569B04341B2798F2E2204A129AA31BF
 #. SourceLocation:	/Game/QualityCheck/sounds/yesgame.yesgame.Subtitles(1).Subtitles.Text
@@ -4637,7 +4637,7 @@ msgstr "Иерархии? Blue сказал, что у роботов тоже: 
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 msgctxt ",B6483E6140D4F75F8E3D77B6191CBE5A"
 msgid "Finally got access to the barcode scanner — no more manually reading numbers."
-msgstr "Наконец-то получил сканер штрих-кодов — не надо вручную"
+msgstr "Наконец-то получил сканер штрих-кодов — не надо делать это вручную"
 
 #. Key:	C168EE924BE86A42D619DFA95E96168A
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
@@ -5078,7 +5078,7 @@ msgstr "Неделя"
 #: /Game/QualityCheck/UI/leaderboards.leaderboards_C:WidgetTree.TextBlock_1.Text
 msgctxt ",192B9AE445ECB9AEB4F3F588A556594A"
 msgid "Leaderboards"
-msgstr "Лидерборды"
+msgstr "Таблица лидеров"
 
 #. Key:	76080D1C45AA2898CEF5519DF7B49D15
 #. SourceLocation:	/Game/QualityCheck/UI/leaderboards.leaderboards_C:WidgetTree.TextBlock_28.Text
