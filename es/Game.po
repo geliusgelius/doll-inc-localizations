@@ -2775,7 +2775,7 @@ msgstr "Los que cuestionan… y recuerdan"
 #: /Game/QualityCheck/sounds/scenes/recreuit.recreuit.Subtitles(6).Subtitles.Text
 msgctxt ",D439703346467A546968BE8D22357404"
 msgid "Doll Inc wants obedience"
-msgstr "Doll Inc wants obedience"
+msgstr "Doll Inc quiere obediencia"
 
 #. Key:	18D0F4D64E795F42C63F3990CFD827A2
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/recreuit.recreuit.Subtitles(7).Subtitles.Text
