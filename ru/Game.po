@@ -164,7 +164,7 @@ msgstr "Отсутствует штрих-код"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",BB2A7259408546D2F1A07CBDADAEC929"
 msgid "inconsistent door"
-msgstr "Несоответствующая дверь"
+msgstr "Несоответствие двери"
 
 #. Key:	E90801DE44EF123D29714D9B3962E3C5
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -5974,7 +5974,7 @@ msgstr "Несоответствие засовы"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_67.Text
 msgctxt ",3DFDB1964006309595AE44A61A60E363"
 msgid "Missing door"
-msgstr "Отсутствие двери"
+msgstr "Отсутствует дверь"
 
 #. Key:	0CC98BD940D829FCD35CE68D17B630CE
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_68.Text
