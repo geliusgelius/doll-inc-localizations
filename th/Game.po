@@ -17,7 +17,7 @@ msgstr ""
 #: /AutoSettings/InputMapping/DefaultBindCapturePrompt.DefaultBindCapturePrompt_C:WidgetTree.TextBlock_2.Text
 msgctxt ",EF176B2A4BCEA55C2F438CB60C8AC601"
 msgid "Press key to bind"
-msgstr "กดปุ่มเพื่อเลือก"
+msgstr "กดปุ่มที่จะเลือก"
 
 #. Key:	3CB2A0B24617CF31968FC28E978F4153
 #. SourceLocation:	/Game/Construction_VOL1/Maps/Overview.Overview:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
@@ -66,7 +66,7 @@ msgstr "คำสั่งซื้อไม่สมบูรณ์"
 #: /Game/QualityCheck/Blueprints/ItemResult.ItemResult_C:ExecuteUbergraph_ItemResult [Script Bytecode]
 msgctxt ",83253EFB4C0471D4AC69BAB387E0AD51"
 msgid "Fail reason"
-msgstr "ระบุสาเหตุที่ล้มเหลว"
+msgstr "สาเหตุที่ไม่ผ่าน"
 
 #. Key:	652FB43B4C7AD93FDE5427B128469DEC
 #. SourceLocation:	/Game/QualityCheck/Blueprints/putItem.putItem_C:ExecuteUbergraph_putItem [Script Bytecode]
@@ -80,7 +80,7 @@ msgstr "กก."
 #: /Game/QualityCheck/Blueprints/qcm_physcs_box.qcm_physcs_box_C:DoorMSG_GEN_VARIABLE.ChildActor_GEN_VARIABLE_3DKeyShow_C_CAT.description
 msgctxt ",A2A9C4324AD650A0A94C3C98ED1938A6"
 msgid "Toggle Box"
-msgstr "เปิดกล่อง"
+msgstr "แตะกล่อง"
 
 #. Key:	023C80494BD0373B621D728704DB99E9
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -94,14 +94,14 @@ msgstr "ไม่มีสติ๊กเกอร์คำเตือน"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",0ADE54E542DAD14ABB03F09162164FA2"
 msgid "Inconsistent case"
-msgstr "ตู้ตุ๊กตามีปัญหา"
+msgstr "ตู้ตุ๊กตาผิดปกติ"
 
 #. Key:	151789A244DFBB16BE890581DDE457B6
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",151789A244DFBB16BE890581DDE457B6"
 msgid "Wrong sticker position"
-msgstr "ตำแหน่งสติ๊กเกอร์ผิด"
+msgstr "ตำแหน่งสติ๊กเกอร์ไม่ถูกต้อง"
 
 #. Key:	2EB19FF24FE9853E1A67A4B2C5FDECFB
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -150,7 +150,7 @@ msgstr "ตัวล็อกผิดปกติ"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",70B0850340A625EE624D11AE6552631B"
 msgid "missing slider lock"
-msgstr "ขาดตัวเลื่อนล็อก"
+msgstr "ไม่มีตัวล็อกเลื่อน"
 
 #. Key:	8B56A6DF45A70FEB8B1CD2BA45797776
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -213,28 +213,28 @@ msgstr "ชื่อไม่ถูกต้อง"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",246F2F4949FFB42650894AB5BD32B00D"
 msgid "inconsistent weight"
-msgstr "น้ำหนักไม่สอดคล้องกัน"
+msgstr "น้ำหนักผิดปกติ"
 
 #. Key:	2E207F62429FB6F9CDD02BB28E0ED5E6
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",2E207F62429FB6F9CDD02BB28E0ED5E6"
 msgid "inconsistent temperature"
-msgstr "อุณหภูมิไม่สอดคล้องกัน"
+msgstr "อุณหภูมิผิดปกติ"
 
 #. Key:	5C3B4340450F84A03477DA81D1A4BC2B
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",5C3B4340450F84A03477DA81D1A4BC2B"
 msgid "Inconsistent voice"
-msgstr "เสียงไม่สอดคล้องกัน"
+msgstr "เสียงผิดปกติ"
 
 #. Key:	605FF701467A050AB8CE96A29C44E3D7
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",605FF701467A050AB8CE96A29C44E3D7"
 msgid "Inconsistent robot"
-msgstr "หุ่นยนต์ไม่สอดคล้องกัน"
+msgstr "หุ่นยนต์ผิดปกติ"
 
 #. Key:	658E832A42ED1FEF74D28FBB459680D5
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
@@ -255,14 +255,14 @@ msgstr "บาร์โค้ดไม่ถูกต้อง"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",71F6E88941938C640D8228BDE5E61725"
 msgid "inconsistent pressure"
-msgstr "แรงดันไม่สอดคล้องกัน"
+msgstr "แรงดันผิดปกติ"
 
 #. Key:	87BC936647AB5AF3569652990E87D9B5
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",87BC936647AB5AF3569652990E87D9B5"
 msgid "Inconsistent animation"
-msgstr "การเคลื่อนไหวไม่สอดคล้องกัน"
+msgstr "การเคลื่อนไหวผิดปกติ"
 
 #. Key:	D37BCC0E40EF4546A93E2D9D388DAF76
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:Speak_GEN_VARIABLE.ChildActor1_GEN_VARIABLE_3DKeyShow_C_CAT.description
@@ -276,7 +276,7 @@ msgstr "พูด"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:TurnOn_GEN_VARIABLE.Speak1_GEN_VARIABLE_3DKeyShow_C_CAT.description
 msgctxt ",A7D3B47A4A4B068C31CFD39A6CF0A5D1"
 msgid "Toggle Robot"
-msgstr "เปิดหุ่นยนต์"
+msgstr "แตะหุ่นยนต์"
 
 #. Key:	110C6C1B4CF0A0E6C0F317B2CDC7939E
 #. SourceLocation:	/Game/QualityCheck/functions/orderFunctions.orderFunctions_C:generateOrder [Script Bytecode]
@@ -297,14 +297,14 @@ msgstr "ตู้ตุ๊กตาของ {name}"
 #: /Game/QualityCheck/functions/textFunctions.textFunctions_C:getText [Script Bytecode]
 msgctxt ",77A0EAF3485985870BFAACAB468F43BA"
 msgid "Toggle Lock"
-msgstr "ปลดล็อก"
+msgstr "แตะล็อก"
 
 #. Key:	7F79F95F4C1FD5F0F6E0CBA5BADCD4E5
 #. SourceLocation:	/Game/QualityCheck/functions/textFunctions.textFunctions_C:getText [Script Bytecode]
 #: /Game/QualityCheck/functions/textFunctions.textFunctions_C:getText [Script Bytecode]
 msgctxt ",7F79F95F4C1FD5F0F6E0CBA5BADCD4E5"
 msgid "Toggle Door"
-msgstr "เปิดประตู"
+msgstr "แตะประตู"
 
 #. Key:	DBB575374F3EDC8AE24521ACFAD752E2
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_area4.qcm_area4:PersistentLevel.AIPatrol_C_1.Mission
@@ -472,7 +472,7 @@ msgstr "ใช้แผงควบคุมระบุเหตุผลกา
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",6E0EA478403ECE52ABBF53A320274AB8"
 msgid "Keep working"
-msgstr "ทำงานต่อ"
+msgstr "ทำงานต่อไป"
 
 #. Key:	731711684782573177A6E68C266B590B
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -500,7 +500,7 @@ msgstr "เปิดแผงควบคุมแผนกจัดส่ง"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",99B7B7A64D583DA8EC8B43A20F3588B3"
 msgid "Continue Working..."
-msgstr "ทำงานต่อ..."
+msgstr "ทำงานต่อไป..."
 
 #. Key:	B188EE0042364C49DADBE6A8828B5608
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
@@ -843,7 +843,7 @@ msgstr "นายไม่เคยถูกนับว่าเป็นพน
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(10).Subtitles.Text
 msgctxt ",95FD7DF54609DC7835C79CA7852EBC6A"
 msgid "We eliminate it."
-msgstr "เราต้องกำจัดมัน"
+msgstr "เราต้องกำจัดคุณ"
 
 #. Key:	8E8C786F4AD8A5A78A47CCA856082DD6
 #. SourceLocation:	/Game/QualityCheck/sounds/badending.badending.Subtitles(11).Subtitles.Text
@@ -899,7 +899,7 @@ msgstr "งานของพวกเขาคือจับตาดูคุ
 #: /Game/QualityCheck/sounds/badending.badending.Subtitles(8).Subtitles.Text
 msgctxt ",4DB707544544994F9AE1ED9A6A01A5E8"
 msgid "And you? You disobeyed. You questioned."
-msgstr "แล้วคุณล่ะ? ไม่เชื่อฟัง มัวแต่ตั้งคำถาม"
+msgstr "แล้วคุณล่ะ? ไม่ยอมเชื่อฟัง มัวแต่ตั้งคำถาม"
 
 #. Key:	CE8D381B448561D21479639D363E84DC
 #. SourceLocation:	/Game/QualityCheck/sounds/badending.badending.Subtitles(9).Subtitles.Text
@@ -927,7 +927,7 @@ msgstr "คุณทำได้แล้ว"
 #: /Game/QualityCheck/sounds/congrats.congrats.Subtitles(10).Subtitles.Text
 msgctxt ",890478D741033CD1FC45B4A0D13666B4"
 msgid "Proceed to your assigned workstation."
-msgstr "ไปยังสถานที่ที่คุณได้รับมอบหมาย"
+msgstr "ดำเนินการต่อไปยังสถานที่ทำงานของคุณ"
 
 #. Key:	4948BB6F42DAA4B3F2F999825CD512C4
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(11).Subtitles.Text
@@ -941,14 +941,14 @@ msgstr "คุณสมควรได้รับมัน"
 #: /Game/QualityCheck/sounds/congrats.congrats.Subtitles(2).Subtitles.Text
 msgctxt ",066A75B44D6B5B7E0EDB95B11199B641"
 msgid "Thirty days. No failures. No hesitation."
-msgstr "ในสามสิบวันนี้ ไร้ซึ่งความล้มเหลว ไร้ซึ่งความลังเล"
+msgstr "ภายในสามสิบวันนี้ ไร้ซึ่งความล้มเหลว ไร้ซึ่งความลังเล"
 
 #. Key:	12A242EF49576C88B24BD5A239057E76
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/congrats.congrats.Subtitles(3).Subtitles.Text
 msgctxt ",12A242EF49576C88B24BD5A239057E76"
 msgid "Your performance has been... acceptable."
-msgstr "ผลงานของคุณอยู่ในเกณฑ์ที่… พอใช้ได้"
+msgstr "ผลงานของคุณอยู่ในเกณฑ์ที่… พอใช้ได้เท่านั้น"
 
 #. Key:	27FF2EBB483629E41EE5F99613E13A60
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(4).Subtitles.Text
@@ -983,14 +983,14 @@ msgstr "สิทธิ์ของคุณ…ได้เพิ่มขึ้
 #: /Game/QualityCheck/sounds/congrats.congrats.Subtitles(8).Subtitles.Text
 msgctxt ",B258F18D4468043C5D3F04A167B39859"
 msgid "Welcome to the system."
-msgstr "ยินดีต้อนรับเข้าสู่ระบบของพวกเรา"
+msgstr "ยินดีต้อนรับเข้าสู่ครอบครัวของเรา"
 
 #. Key:	78BF72714F67D21C6CB60882A1D2CE36
 #. SourceLocation:	/Game/QualityCheck/sounds/congrats.congrats.Subtitles(9).Subtitles.Text
 #: /Game/QualityCheck/sounds/congrats.congrats.Subtitles(9).Subtitles.Text
 msgctxt ",78BF72714F67D21C6CB60882A1D2CE36"
 msgid "From now on — your choices will shape much more than production lines."
-msgstr "จากนี้เป็นต้นไป — ความรับผิดชอบของคุณเพิ่มมากขึ้น มากกว่าแค่งานสายการผลิตแล้ว"
+msgstr "จากนี้เป็นต้นไป — ความรับผิดชอบของคุณจะเพิ่มมากขึ้น มากกว่าแค่งานสายการผลิตแล้ว"
 
 #. Key:	1DA8E7AF47D231A4DFEB4C9B53542F8C
 #. SourceLocation:	/Game/QualityCheck/sounds/dontstop.dontstop.Subtitles(0).Subtitles.Text
@@ -1151,7 +1151,7 @@ msgstr "ในโหมดนี้ ผลิตภัณฑ์จะปรา�
 #: /Game/QualityCheck/sounds/endless.endless.Subtitles(2).Subtitles.Text
 msgctxt ",25D358E7414D764E3AB7989C0DB88A69"
 msgid "If you fail or decide to leave through the exit door…"
-msgstr "ถ้าคุณพลาด หรือเลือกที่จะเดินออกจากที่นี่ไป…"
+msgstr "ถ้าคุณพลาด หรือเลือกที่จะเดินออกจากประตูไป…"
 
 #. Key:	D820751149E19C55EE428DA320211476
 #. SourceLocation:	/Game/QualityCheck/sounds/endless.endless.Subtitles(3).Subtitles.Text
@@ -1200,7 +1200,7 @@ msgstr "เสร็จงานแล้ว กล้บบ้านได้"
 #: /Game/QualityCheck/sounds/endSounds/5.5.Subtitles(0).Subtitles.Text
 msgctxt ",1A967620432C6AE2403CF7880498E07B"
 msgid "You’ve done your part. Leave the facility."
-msgstr "คุณหมดหน้าที่แล้ว ออกจากสถานที่"
+msgstr "คุณหมดหน้าที่แล้ว ออกจากที่นี่ได้"
 
 #. Key:	C1401200472B0B4B2B4A80A16C276AD3
 #. SourceLocation:	/Game/QualityCheck/sounds/endSounds/6.6.Subtitles(0).Subtitles.Text
@@ -1312,21 +1312,21 @@ msgstr "พวกมันตามเรามา"
 #: /Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(2).Subtitles.Text
 msgctxt ",43B81234453DF0EA7E567396501F439C"
 msgid "The government sent the military, those giant? Yeah, them."
-msgstr "รัฐบาลส่งทหารมา เจ้าพวกยักษ์นั่น? ใช่ พวกนั้น"
+msgstr "ทางรัฐบาลส่งทหารมา เจ้าพวกยักษ์นั่นใช่ไหม? ใช่แล้ว พวกนั้นแหละ"
 
 #. Key:	7CE22F524D3105B4F76CA0B4705A5700
 #. SourceLocation:	/Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(3).Subtitles.Text
 msgctxt ",7CE22F524D3105B4F76CA0B4705A5700"
 msgid "They’ve locked down the facility. No breaks. No mistakes"
-msgstr "พวกมันล็อกดาวน์สถานที่ ไม่มีวันลา ไม่มีผิดพลาด"
+msgstr "พวกมันล็อกดาวน์สถานที่ ห้ามลางาน ห้ามมีผิดพลาด"
 
 #. Key:	EFA4058643E5E0665BB1A8BC76C02941
 #. SourceLocation:	/Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(4).Subtitles.Text
 msgctxt ",EFA4058643E5E0665BB1A8BC76C02941"
 msgid "They’re suspecting sabotage… and I think I’m their target"
-msgstr "พวกเขาสงสัยการก่อกบฏนี้… และฉันคิดว่า ฉันโดนพวกเขาหมายหัวแล้ว"
+msgstr "พวกเขาสงสัยการก่อกบฏนี้… และฉันคิดว่า ฉันอายจะโดนพวกเขาหมายหัวแล้ว"
 
 #. Key:	4C1125614A775B320EDBA0AAF4088FC8
 #. SourceLocation:	/Game/QualityCheck/sounds/heyblue.heyblue.Subtitles(5).Subtitles.Text
@@ -1368,7 +1368,7 @@ msgstr "มีประกันการทำงาน"
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(11).Subtitles.Text
 msgctxt ",65CA5B094DD49E95C86DC7ACBFF409B2"
 msgid "Recognition for exemplary performance"
-msgstr "ได้เลื่อนตำแหน่ง ถ้าสร้างผลงานได้ยอดเยี่ยม"
+msgstr "คุณจะได้เลื่อนตำแหน่ง ถ้ามีผลงานที่ยอดเยี่ยม"
 
 #. Key:	45D5775A40CC893184CF3CA971ED904D
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(12).Subtitles.Text
@@ -1403,7 +1403,7 @@ msgstr "อยู่ที่คุณตัดสินใจ… แต่ค�
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(16).Subtitles.Text
 msgctxt ",AB262C174AD69A7B5CD554AAE37FF58E"
 msgid "Apply now. The system needs you."
-msgstr "มาสมัครเลย เราต้องการคุณ"
+msgstr "มาสมัครกันเลย เราต้องการคุณ"
 
 #. Key:	A71CAE2F42624114E9E9F0A07510F013
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(2).Subtitles.Text
@@ -1438,7 +1438,7 @@ msgstr "มีสื่งอำนวยความสะดวกของห
 #: /Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(6).Subtitles.Text
 msgctxt ",F250C1044ABAE9CF8CF4208708832C35"
 msgid "you will help ensure each product meets the highest standards of efficiency."
-msgstr "คุณจะทำให้ผลิตภัณฑ์แต่ละชิ้น มีประสิทธิภาพสูงสุด ตามมาตรฐานของเรา"
+msgstr "คุณจะทำให้ผลิตภัณฑ์แต่ละชิ้น มีประสิทธิภาพสูงสุด เป็นไปตามมาตรฐานของเรา"
 
 #. Key:	21B60D81475E3E160EDD6B85C6804B06
 #. SourceLocation:	/Game/QualityCheck/sounds/introaudi.introaudi.Subtitles(7).Subtitles.Text
@@ -1599,7 +1599,7 @@ msgstr "ในแรกเริ่ม Doll INC. เป็นบริษัท�
 #: /Game/QualityCheck/sounds/phrases/7.7.Subtitles(0).Subtitles.Text
 msgctxt ",424D99844AB97FF3DF4F8D9DBC9666C2"
 msgid "DOLL INC. maintains a comprehensive surveillance system. Everything is recorded and controlled."
-msgstr "ใน Doll INC. มีระบบรักษาความปลอดภัยที่เข้มงวด ครอบคลุมทุกพื้นที่ มีการบันทึก และถูกควบคุมอย่างดี"
+msgstr "ใน Doll INC. มีระบบรักษาความปลอดภัยที่เข้มงวด ครอบคลุมทุกพื้นที่ มีการบันทึกข้อมูล และควบคุมเป็นอย่างดี"
 
 #. Key:	3255FD1D45BAE0F40A68B5A746D758AC
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/8.8.Subtitles(0).Subtitles.Text
@@ -1634,14 +1634,14 @@ msgstr "ทำได้ดี Operator คราวหน้าก็อย่�
 #: /Game/QualityCheck/sounds/phrases/approved/2.2.Subtitles(0).Subtitles.Text
 msgctxt ",557C093E4C89AF17FD0561A302339377"
 msgid "That wasn’t completely awful. Keep it up."
-msgstr "นั่นไม่น่ากลัวอย่างที่คิดเลย ทำต่อไปกันเถอะ"
+msgstr "มันไม่น่ากลัวอย่างที่คิดเลยใช่ไหม ทำต่อไปกันเถอะ"
 
 #. Key:	166014F142A744CB936F5FAAB1636719
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/3.3.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/approved/3.3.Subtitles(0).Subtitles.Text
 msgctxt ",166014F142A744CB936F5FAAB1636719"
 msgid "Hmm… acceptable. Barely."
-msgstr "อืมม… ก็พอรับได้ งั้น ๆ อ่ะ"
+msgstr "อืมม… มันก็พอรับได้"
 
 #. Key:	E8EB44DA44B64220DE714FA5EF464957
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/4.4.Subtitles(0).Subtitles.Text
@@ -1669,7 +1669,7 @@ msgstr "คุณก็ไม่ใช่คนไร้ประโยชน์
 #: /Game/QualityCheck/sounds/phrases/approved/7.7.Subtitles(0).Subtitles.Text
 msgctxt ",480C83EE4FE7472A852F2D85A12261E5"
 msgid "You might survive the 30 days at this rate."
-msgstr "คุณต้องเอาตัวรอดใน 30 วันนี้ ด้วยอัตรานี้"
+msgstr "คุณต้องเอาตัวรอดใน 30 วันนี้ ด้วยอัตราจ้างนี้"
 
 #. Key:	2F0E63674E767B3627CAD6AAF859BD9D
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/approved/8.8.Subtitles(0).Subtitles.Text
@@ -1858,7 +1858,7 @@ msgstr "ไม่สำคัญหรอก เดี๋ยวคุณก็�
 #: /Game/QualityCheck/sounds/phrases/voiceinterview.voiceinterview.Subtitles(6).Subtitles.Text
 msgctxt ",83975C7C4B504B0978E6E8B84F954E58"
 msgid "Any allergies to synthetic lubricants, industrial dust, or... unidentified organic material?"
-msgstr "คุณมีอาการแพ้ภูมิสารเคมีสังเคราะห์ ฝุ่นอุตสาหกรรม หรือ วัตถุอินทรีย์ที่ไม่รู้จักบ้างไหม?"
+msgstr "คุณเคยมีอาการแพ้เกี่ยวกับภูมิสารเคมีสังเคราะห์ ฝุ่นอุตสาหกรรม หรือ วัตถุอินทรีย์ที่ไม่รู้จักบ้างไหม?"
 
 #. Key:	89ECEE8E420F34B07D87D6A6559B74DD
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/voiceinterview.voiceinterview.Subtitles(7).Subtitles.Text
@@ -1900,14 +1900,14 @@ msgstr "ถ้าคุณทำได้แค่นี้ เราอาจ�
 #: /Game/QualityCheck/sounds/phrases/wrong/2.2.Subtitles(0).Subtitles.Text
 msgctxt ",24EC81944D087E0FF5222D9D9EC6D49D"
 msgid "That was wrong. Completely and embarrassingly wrong."
-msgstr "พลาดอีกแล้ว งานชุ่ยมาก ไม่ได้เรื่องเลย"
+msgstr "คุณทำพลาดอีกแล้ว งานชุ่ยมาก ไม่ได้เรื่องเอาซะเลย"
 
 #. Key:	F8F9AD754A8F89415DA504B9F07FA29C
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/wrong/3.3.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/phrases/wrong/3.3.Subtitles(0).Subtitles.Text
 msgctxt ",F8F9AD754A8F89415DA504B9F07FA29C"
 msgid "Did you even look at the product?"
-msgstr "ตรวจดูผลิตภัณฑ์ดีหรือยัง?"
+msgstr "นี่คุณตรวจดูผลิตภัณฑ์ดีหรือยัง?"
 
 #. Key:	49AA7F0D4FC559CCDD7373A369F7009F
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/wrong/4.4.Subtitles(0).Subtitles.Text
@@ -1935,7 +1935,7 @@ msgstr "ช่างไร้ประโยชน์เสียจริง �
 #: /Game/QualityCheck/sounds/phrases/wrong/7.7.Subtitles(0).Subtitles.Text
 msgctxt ",DAE27FBF4003BAB3FD9A25A05EF64702"
 msgid "I’m starting to wonder if you’re defective too."
-msgstr "ฉันเริ่มสงสัยว่าเธออาจโดนด้วยเหมือนกัน"
+msgstr "ฉันเริ่มสงสัยว่าคุณอาจมีข้อบกพร่องให้เราเห็นแล้ว"
 
 #. Key:	BB8E520E437A662A523A0CB6C10826EE
 #. SourceLocation:	/Game/QualityCheck/sounds/phrases/wrong/8.8.Subtitles(0).Subtitles.Text
@@ -1963,7 +1963,7 @@ msgstr "เฮ้"
 #: /Game/QualityCheck/sounds/scenes/bluecafeteria.bluecafeteria.Subtitles(1).Subtitles.Text
 msgctxt ",5D58393D483920BB2F67F798FB1C0047"
 msgid "We need more support for the resistance"
-msgstr "เราต้องการกำลังเสริม เพื่อให้พอาำหรับการต่อต้าน"
+msgstr "เราต้องการกำลังเสริม เพื่อให้พอสำหรับการต่อต้าน"
 
 #. Key:	4F0244124EEF11A962F605A9D33372C9
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/bluecafeteria.bluecafeteria.Subtitles(2).Subtitles.Text
@@ -1998,14 +1998,14 @@ msgstr "เฮ้… สหาย"
 #: /Game/QualityCheck/sounds/scenes/bluechoice.bluechoice.Subtitles(1).Subtitles.Text
 msgctxt ",430864364AE79A03B9AF6E8491332769"
 msgid "I'm glad to see you... even if it's like this"
-msgstr "ฉันดีใจที่เจอคุณ… แม้ว่าจะอยุ่ในสภาพนี้"
+msgstr "ฉันดีใจที่เจอคุณ… แม้ว่าจะต้องอยู่ในสภาพแบบนี้"
 
 #. Key:	486251334B2110CC4341FC8698399A4F
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/bluechoice.bluechoice.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/scenes/bluechoice.bluechoice.Subtitles(2).Subtitles.Text
 msgctxt ",486251334B2110CC4341FC8698399A4F"
 msgid "Guess I messed up, huh? I really thought I could change something... but I failed. I failed you. I failed all of us"
-msgstr "คิดว่าฉันทำพลาดอีกแล้วหรอ? ฉันคิดว่าจะเอาอยู่… แต่ที่ไหนได้ ฉันก็เละไม่เป็นท่า แล้วยังพาคุณติดร่างแหไปด้วย เราทุกคนต่างล้มเหลวไม่เป็นท่าเลย"
+msgstr "คิดว่าฉันทำพลาดอีกแล้วหรอ? ฉันคิดว่าจะเอาอยู่… แต่ที่ไหนได้ ฉันก็หมดสภาพเละไม่เป็นท่า แล้วยังพาคุณติดร่างแหไปด้วย เราทุกคนต่างล้มเหลวไม่มีชิ้นดีเลย"
 
 #. Key:	8847DE8D4F455475C55960A7E346FA1E
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/bluechoice.bluechoice.Subtitles(3).Subtitles.Text
@@ -2019,7 +2019,7 @@ msgstr "ฟังนะ… มีบางอย่างที่คุณต�
 #: /Game/QualityCheck/sounds/scenes/bluechoice.bluechoice.Subtitles(4).Subtitles.Text
 msgctxt ",73F0F8CD421FF21129F552AFD43BD6DE"
 msgid "You're a robot, partner. Just like me. Just like the Operators"
-msgstr "คุณเป็นหุ่นยนต์นะสหาย เหมือนกับฉัน และเหมือน Operators คนอื่น ๆ"
+msgstr "คุณก็เป็นหุ่นยนต์นะสหาย เหมือนกับฉัน และเหมือน Operators คนอื่น ๆ"
 
 #. Key:	4378750C41ADA7B30936ACB3EBA3A0B8
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/bluechoice.bluechoice.Subtitles(5).Subtitles.Text
@@ -2145,21 +2145,21 @@ msgstr "คุณกำลังถูกแทนที่ อย่างเ�
 #: /Game/QualityCheck/sounds/scenes/blueobservation.blueobservation.Subtitles(12).Subtitles.Text
 msgctxt ",4370DA384F2B6B02404D9B93E4AE9F00"
 msgid "Efficiently"
-msgstr "จงมีประสิทธิภาพ"
+msgstr "มีประสิทธิภาพ"
 
 #. Key:	277946694E925A0FEC3B49A1FA26F329
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/blueobservation.blueobservation.Subtitles(13).Subtitles.Text
 #: /Game/QualityCheck/sounds/scenes/blueobservation.blueobservation.Subtitles(13).Subtitles.Text
 msgctxt ",277946694E925A0FEC3B49A1FA26F329"
 msgid "No one even notices"
-msgstr "ไม่มีใครสังเกต"
+msgstr "ไม่มีใครสังเกตเห็น"
 
 #. Key:	CDF1C0784480B1FC40F609BD11EC3623
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/blueobservation.blueobservation.Subtitles(14).Subtitles.Text
 #: /Game/QualityCheck/sounds/scenes/blueobservation.blueobservation.Subtitles(14).Subtitles.Text
 msgctxt ",CDF1C0784480B1FC40F609BD11EC3623"
 msgid "Observe them quickly. You better leave before they restore the systems"
-msgstr "จับตาพวกเขาให้เร็ว คุณควรออกก่อนที่ระบบจะฟื้นกลับมา"
+msgstr "จับตาพวกเขาให้เร็ว คุณต้องออกไปก่อนที่ระบบจะฟื้นกลับมา"
 
 #. Key:	19A9A41E42012EACABE6DEB5B105EF5B
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/blueobservation.blueobservation.Subtitles(2).Subtitles.Text
@@ -2593,7 +2593,7 @@ msgstr "ระวังหลังไว้ให้ดี"
 #: /Game/QualityCheck/sounds/scenes/nonoblue.nonoblue.Subtitles(0).Subtitles.Text
 msgctxt ",031067AF4D6B2D0C8B2A858FEB589494"
 msgid "No.. No... PLEASE PARTNER NO!"
-msgstr "ไม่...ไม่... ช่วยด้วย สหาย ไม่!"
+msgstr "ไม่...ไม่... ได้โปรด! สหาย! ไม่!"
 
 #. Key:	84E5AE2B482D5FA4948C7BB412418016
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/nooo.nooo.Subtitles(0).Subtitles.Text
@@ -2726,7 +2726,7 @@ msgstr "เอาล่ะ กลับไปทำงานได้แล้�
 #: /Game/QualityCheck/sounds/scenes/recreuit.recreuit.Subtitles(0).Subtitles.Text
 msgctxt ",DAD22150485840B10F02E9A75FA226B3"
 msgid "Alright… let’s keep the recruitment going"
-msgstr "ได้เลย… ต้องไปหาแนวร่วมกันต่อ"
+msgstr "เอาล่ะ… ต้องไปหาแนวร่วมกันต่อ"
 
 #. Key:	A893933F470345E8852F97B8C7D0FBB8
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/recreuit.recreuit.Subtitles(1).Subtitles.Text
@@ -2754,7 +2754,7 @@ msgstr "ติดสติ๊กเกอร์ เพื่อเป็นส�
 #: /Game/QualityCheck/sounds/scenes/recreuit.recreuit.Subtitles(3).Subtitles.Text
 msgctxt ",D5731D8249D1E9382C6FD1B60127B0E6"
 msgid "A signal to those like us"
-msgstr "ว่าเป็นสัญลักษณ์ฝ่ายเดียวกับเรา"
+msgstr "ระบุว่าเป็นสัญลักษณ์ฝ่ายเดียวกับเรา"
 
 #. Key:	3CA7B85C4605C92A6E834987575FFA00
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/recreuit.recreuit.Subtitles(4).Subtitles.Text
@@ -2810,7 +2810,7 @@ msgstr "Operator! เปิดประตูเดี๋ยวนี้!"
 #: /Game/QualityCheck/sounds/scenes/supervisorchoice.supervisorchoice.Subtitles(1).Subtitles.Text
 msgctxt ",951023E14B14A7ACB4DBECB1769A1C7F"
 msgid "Don’t listen to him. He’s compromised the facility."
-msgstr "อย่าฟังเขา เขาพยายามจะหลอกคุณ"
+msgstr "อย่าไปฟังเขา เขากำลังหลอกคุณอยู่"
 
 #. Key:	B8C140454D3E760E66ABB99A182FF7C7
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/supervisorchoice.supervisorchoice.Subtitles(2).Subtitles.Text
@@ -2845,7 +2845,7 @@ msgstr "ยินดีต้อนรับสู่ Time Trial"
 #: /Game/QualityCheck/sounds/scenes/timetrial.timetrial.Subtitles(1).Subtitles.Text
 msgctxt ",997DCA49421E9975BF7EB087F1A98297"
 msgid "You have 300 seconds to complete orders correctly"
-msgstr "คุณมี 300 วินาที ในการผลิตสินค้าให้ถูกต้อง"
+msgstr "คุณมีเวลา 300 วินาที ในการผลิตสินค้าให้ถูกต้อง"
 
 #. Key:	4132BE0F408513C66A1987984D421BE2
 #. SourceLocation:	/Game/QualityCheck/sounds/scenes/timetrial.timetrial.Subtitles(2).Subtitles.Text
@@ -2964,7 +2964,7 @@ msgstr "วันนี้ฉันอยากจะอัปเกรดหน
 #: /Game/QualityCheck/sounds/store/show/3.3.Subtitles(0).Subtitles.Text
 msgctxt ",4CD7939A426D09C98A950688341E2256"
 msgid "The factory is harsh... but I can ease your burden."
-msgstr "โรงงานโหดร้าย... แต่ฉันพอช่วยคุณได้"
+msgstr "โรงงานมันโหดร้าย... แต่ฉันพอช่วยคุณได้"
 
 #. Key:	7CCA504A4DA3837DE2D6BD93C2BE9F9A
 #. SourceLocation:	/Game/QualityCheck/sounds/store/show/4.4.Subtitles(0).Subtitles.Text
@@ -2978,7 +2978,7 @@ msgstr "เราตกลงกันแล้วนะ… ดีมาก ม�
 #: /Game/QualityCheck/sounds/store/show/5.5.Subtitles(0).Subtitles.Text
 msgctxt ",85519D14440A18EAE90483A10341B23B"
 msgid "Behind every great Operator… is a smarter wallet."
-msgstr "เบื้องหลัง Operator ที่ยอดเยี่ยม... คือกระเป๋าสตางค์ที่ชาญฉลาด"
+msgstr "เบื้องหลัง Operator ที่ยอดเยี่ยม... คือการมีกระเป๋าสตางค์ที่ชาญฉลาด"
 
 #. Key:	9BBB326C48CB79CB1BDED8BE32D3D284
 #. SourceLocation:	/Game/QualityCheck/sounds/store/storeBase.storeBase.Subtitles(0).Subtitles.Text
@@ -3006,7 +3006,7 @@ msgstr "ต่อจากนี้ไป กิจวัตรของคุ�
 #: /Game/QualityCheck/sounds/store/storeBase.storeBase.Subtitles(3).Subtitles.Text
 msgctxt ",CF3036DB4A342331E2AC149DD155CCC0"
 msgid "You've got a permanent contract, so... no need to stress too much."
-msgstr "คุณเซ็นสัญญาแล้ว... อย่ากัลวลไปเลย"
+msgstr "คุณเซ็นสัญญาแล้ว... อย่ากังวลไปเลยนะ"
 
 #. Key:	63E4541642879D8302A14C8B3A78B92F
 #. SourceLocation:	/Game/QualityCheck/sounds/store/storeBase.storeBase.Subtitles(4).Subtitles.Text
@@ -3069,14 +3069,14 @@ msgstr "ถ้ามันชำรุด — ก็ส่งไปซ่อม"
 #: /Game/QualityCheck/sounds/tutorialPhrases/1.1.Subtitles(4).Subtitles.Text
 msgctxt ",E0E38FBE4AF1EED8EF7D248F54977EC5"
 msgid "If it’s correct — send it to production."
-msgstr "ถ้ามันสมบูรณ์ — ก็ส่งไปผลิต"
+msgstr "ถ้ามันสมบูรณ์แบบ — ก็ส่งไปผลิต"
 
 #. Key:	E424776E437EC68706B027860F13E84A
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/1.1.Subtitles(5).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/1.1.Subtitles(5).Subtitles.Text
 msgctxt ",E424776E437EC68706B027860F13E84A"
 msgid "To begin, go to the panel and activate it."
-msgstr "เริ่มโดยไปที่แผงควบคุมแล้วเปิดใช้งาน"
+msgstr "เริ่มต้นโดยไปที่แผงควบคุมแล้วเปิดใช้งาน"
 
 #. Key:	A363C5AB4C8656DD2FC89AB5366A3EC0
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/1.1.Subtitles(6).Subtitles.Text
@@ -3181,7 +3181,7 @@ msgstr "อัปเดตแผงรายละเอียดและใช
 #: /Game/QualityCheck/sounds/tutorialPhrases/13.13.Subtitles(3).Subtitles.Text
 msgctxt ",6CE76D9A49405B820614AB999680F6F2"
 msgid "Oh and don’t forget to assign the proper repair reason if something’s off"
-msgstr "อย่าลืมระบุเหตุผลส่งซ่อมถ้าเกิดพบปัญหา"
+msgstr "โปรดอย่าลืมระบุเหตุผลส่งซ่อมถ้าเกิดพบปัญหา"
 
 #. Key:	EEBD46F54B4432DB6B1493B8DAECEC6D
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/13.13.Subtitles(4).Subtitles.Text
@@ -3195,7 +3195,7 @@ msgstr "บางครั้งตู้ติดป้ายผิด…"
 #: /Game/QualityCheck/sounds/tutorialPhrases/13.13.Subtitles(5).Subtitles.Text
 msgctxt ",1576ABD4456FD1254E35D88688E3BEBC"
 msgid "Sometimes, well… no one really knows the doll’s name"
-msgstr "บางครั้ง ก็ไม่ได้ใส่ชื่อตุ๊กตา เพราะไม่รู้จักชื่อก็มี"
+msgstr "บางครั้ง ก็ไม่ได้ใส่ชื่อตุ๊กตา เพราะลืมใส่ก็มี"
 
 #. Key:	EEA172264749FF6788650CBA21654FEF
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/14.14.Subtitles(0).Subtitles.Text
@@ -3258,14 +3258,14 @@ msgstr "บางครั้ง operator ไม่ได้วางสิน�
 #: /Game/QualityCheck/sounds/tutorialPhrases/16.16.Subtitles(1).Subtitles.Text
 msgctxt ",CC6CC2064955BC3D0E470BB7F062206D"
 msgid "When that happens… they hit the sides and jam the system"
-msgstr "เมื่อเป็นแบบนั้น… มันจะทำให้ชนข้างเครื่อง และทำให้ระบบติดขัด"
+msgstr "เมื่อเป็นแบบนั้น… มันจะทำให้ชนข้างเครื่อง และทำให้ระบบติดขัดได้"
 
 #. Key:	C81E3FAC4A99000721379A97D8BD313A
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/16.16.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/16.16.Subtitles(2).Subtitles.Text
 msgctxt ",C81E3FAC4A99000721379A97D8BD313A"
 msgid "Clear the obstruction, and be more careful next time."
-msgstr "ต้องเคลียร์สิ่งกีดขวาง แล้วครั้งหน้าระวังเอาไว้ด้วย"
+msgstr "ต้องทำการเคลียร์สิ่งกีดขวาง แล้วครั้งหน้าระวังเอาไว้ด้วย"
 
 #. Key:	DD3DA6E243105EA016E011B613B016A9
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/17.17.Subtitles(0).Subtitles.Text
@@ -3328,14 +3328,14 @@ msgstr "วันนี้โฟกัสเรื่องฉลากอัน
 #: /Game/QualityCheck/sounds/tutorialPhrases/18.18.Subtitles(2).Subtitles.Text
 msgctxt ",C1518C90447EDC21D511FAAFCCD3B345"
 msgid "Each box needs 7 visible, straight stickers on the sides"
-msgstr "โดยแต่ละกล่อง ต้องมีสติ๊กเกอร์ติดรอบด้านข้าง 7 อัน ที่ชัดเจน และตรง"
+msgstr "โดยแต่ละกล่อง ต้องมีสติ๊กเกอร์ติดรอบด้านข้าง 7 อัน ที่ชัดเจน และถูกตำแหน่ง"
 
 #. Key:	C6AB64044E5A23C4F809AE9531614C79
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/18.18.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/18.18.Subtitles(3).Subtitles.Text
 msgctxt ",C6AB64044E5A23C4F809AE9531614C79"
 msgid "If any are missing or crooked"
-msgstr "ถ้าสติ๊กเกอร์หายไป หรือติดเอียง"
+msgstr "ถ้าสติ๊กเกอร์หายไป หรือติดไม่ถูกตำแหน่ง"
 
 #. Key:	1833F2A94F60E9C9741CE484E26F8022
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/18.18.Subtitles(4).Subtitles.Text
@@ -3363,7 +3363,7 @@ msgstr "ตรวจว่ามันสามารถเปิด ปิด �
 #: /Game/QualityCheck/sounds/tutorialPhrases/19.19.Subtitles(2).Subtitles.Text
 msgctxt ",264D2146436F612DD3B39E94B5A38C04"
 msgid "Don’t forget to inspect the glass, no cracks, no stains"
-msgstr "อย่าลืมตรวจกระจก ต้องไม่มีรอยแตก และไม่มีรอบเปื้อน"
+msgstr "อย่าลืมตรวจกระจก ต้องไม่มีรอยแตก และไม่มีรอยเปื้อน"
 
 #. Key:	6B6FC5A7482418F6064A9AA636211CE7
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/19.19.Subtitles(3).Subtitles.Text
@@ -3433,7 +3433,7 @@ msgstr "จากนี้ไป ทุกสินค้าต้องมา�
 #: /Game/QualityCheck/sounds/tutorialPhrases/21.21.Subtitles(1).Subtitles.Text
 msgctxt ",3CCD83844181298C567682BE07317BC9"
 msgid "If it’s missing, or the number doesn’t match the product"
-msgstr "ถ้ามันหายไป หรือเลขไม่ตรง ต้องส่งซ่อมทันที ไม่มีข้อยกเว้นใด ๆ"
+msgstr "ถ้ามันหายไป หรือหมายเลขไม่ตรง ต้องส่งซ่อมทันที ไม่มีข้อยกเว้นใด ๆ"
 
 #. Key:	7ADB935E4116096FD263B1A000764CCB
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/21.21.Subtitles(2).Subtitles.Text
@@ -3468,7 +3468,7 @@ msgstr "บางครั้งเราตรวจพบเหตุการ
 #: /Game/QualityCheck/sounds/tutorialPhrases/22.22.Subtitles(1).Subtitles.Text
 msgctxt ",FDEB333045DDBC556F1E1EA176A69956"
 msgid "If you notice odd movement, unusual noise, or anything that feels… off"
-msgstr "ถ้าคุณเห็นการเคลื่อนไหวแปลก ๆ เสียงผิดปกติ หรืออะไรที่รู้สึกว่า… ผิดปกติ"
+msgstr "ถ้าคุณเห็นการเคลื่อนไหวแปลก ๆ เสียงผิดปกติ หรืออะไรที่รู้สึกว่า… มันไม่ปกติ"
 
 #. Key:	2C99AF774FFA4E03005D3D805BC64FFA
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/22.22.Subtitles(2).Subtitles.Text
@@ -3587,7 +3587,7 @@ msgstr "เพื่อให้คุณทำงานได้ทันเว
 #: /Game/QualityCheck/sounds/tutorialPhrases/27.27.Subtitles(4).Subtitles.Text
 msgctxt ",612A938E41375E17D002F2861E697D8B"
 msgid "Check for defects, label mismatches, missing codes, and anything out of place"
-msgstr "ตรวจหาข้อบกพร่อง ป้ายชื่อไม่ถูกต้อง ไม่มีบาร์โค้ด หรือสิ่งผิดปกติอื่น ๆ"
+msgstr "ตรวจหาข้อบกพร่องต่าง ๆ ป้ายชื่อไม่ถูกต้อง ไม่มีบาร์โค้ด หรือสิ่งผิดปกติอื่น ๆ ที่คุณพบ"
 
 #. Key:	6D4BC41E4DB79F24B514CEADC490B27A
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/27.27.Subtitles(5).Subtitles.Text
@@ -3629,7 +3629,7 @@ msgstr "มันจะช่วยให้งานคุณเร็วขึ
 #: /Game/QualityCheck/sounds/tutorialPhrases/28.28.Subtitles(3).Subtitles.Text
 msgctxt ",989615F140E866F6838509851261B476"
 msgid "Just aim, scan, and decide"
-msgstr "แค่เล็ง สแกน แล้วตวจสอบ"
+msgstr "แค่เล็ง สแกน แล้วตรวจสอบ"
 
 #. Key:	B33518E34F82B9D34ADBAFB1A598B6A1
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/28.28.Subtitles(4).Subtitles.Text
@@ -3657,21 +3657,21 @@ msgstr "คุณจะตรวจน้ำหนักของสินค้
 #: /Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(3).Subtitles.Text
 msgctxt ",FC697936469FA1AB62B7E7A5398ED13D"
 msgid "Place the item on the scale platform and wait"
-msgstr "นำไปวางบนตาชั่งแล้วรอผล"
+msgstr "นำสินค้าไปวางบนตาชั่งแล้วรอผล"
 
 #. Key:	C87902AF42AB3AB7E6B03FAD9D7317F7
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(4).Subtitles.Text
 msgctxt ",C87902AF42AB3AB7E6B03FAD9D7317F7"
 msgid "If the weight is correct, the indicator will turn green"
-msgstr "ถ้าน้ำหนักถูกต้อง ตัวบ่งชี้จะเปลี่ยนเป็นเขียว"
+msgstr "ถ้าน้ำหนักได้มาตรฐาน ตัวเลขบ่งชี้จะเปลี่ยนเป็นเขียว"
 
 #. Key:	0463160E447BA8F0161064B752182D6D
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(5).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(5).Subtitles.Text
 msgctxt ",0463160E447BA8F0161064B752182D6D"
 msgid "If it doesn’t… well, you know what to do"
-msgstr "ถ้าไม่ถูกต้อง... คุณรู้ดีว่าควรทำอะไร"
+msgstr "ถ้าหากไม่ถูกต้อง... คุณรู้ดีนะว่าควรทำอะไร"
 
 #. Key:	0646055547A05CAA2288E8B1EFBA3D24
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/29.29.Subtitles(6).Subtitles.Text
@@ -3790,7 +3790,7 @@ msgstr "ทั้งรอยไหม้ รอยแตกภายใน ก�
 #: /Game/QualityCheck/sounds/tutorialPhrases/32.32.Subtitles(5).Subtitles.Text
 msgctxt ",F00390E9420BDC6FDBCC79BBB0DB2237"
 msgid "Use it wisely"
-msgstr "ให้มันให้คุ้มล่ะ"
+msgstr "ใช้มันให้คุ้มล่ะ"
 
 #. Key:	36B418724AF72A663D01ACAD0CEE2413
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(0).Subtitles.Text
@@ -3818,7 +3818,7 @@ msgstr "เมื่อคุณกดปุ่ม Dispatch รายการ�
 #: /Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(3).Subtitles.Text
 msgctxt ",7CF4F49548489A5719460FB090557F65"
 msgid "Head to Storage, find the requested product, and bring it back for processing."
-msgstr "ไปยังโกดัง ตามหาสินค้าที่ต้องจัดรายการ แล้วเอากลับมาประมวลผล"
+msgstr "ไปยังโกดัง ตามหาสินค้าที่ต้องจัดรายการ แล้วเอากลับมายังห้องการผลิต"
 
 #. Key:	C45DE74440471F2D3EDB029BBF12852C
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/33.33.Subtitles(4).Subtitles.Text
@@ -3888,14 +3888,14 @@ msgstr "คุณมีทางเลือกสองทาง"
 #: /Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(3).Subtitles.Text
 msgctxt ",790370A74511CB8AC419779F677F3BD6"
 msgid "Place the doll inside the box, it will count as one complete unit"
-msgstr "ถ้าจะใส่ตุ๊กตาลงในตู้ จะถูกนับเป็นสินค้าที่สมบูรณ์"
+msgstr "ถ้าคุณใส่ตุ๊กตาลงในตู้ก่อน จะถือว่างเป็นสินค้าที่สมบูรณ์ทันที"
 
 #. Key:	C164326848D943D16F8B53B1C8B421A5
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(4).Subtitles.Text
 msgctxt ",C164326848D943D16F8B53B1C8B421A5"
 msgid "Or send each product separately, but make sure the order is fully completed"
-msgstr "หรือจะส่งแต่ละชิ้นแยกกัน แต่ให้แน่ใจว่าคำสั่งซื้อนั้นสมบูรณ์"
+msgstr "หรือจะส่งแต่ละชิ้นแยกกัน แต่ให้แน่ใจว่าคำสั่งซื้อนั้นสมบูรณ์ และถูกต้อง"
 
 #. Key:	CF1DDE4348E8CA218251D2B68FE7580C
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/35.35.Subtitles(5).Subtitles.Text
@@ -3916,7 +3916,7 @@ msgstr "เอาล่ะ งานวันนี้ต่างออกไ�
 #: /Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(1).Subtitles.Text
 msgctxt ",FAA49AA74C09E43BDE66B4A55EFA542F"
 msgid "Some orders now include custom names printed on the boxes."
-msgstr "บางคำสั่งซื้อ ได้ระบุชื่อและพิมพ์ลงบนกล่องอยู่แล้ว"
+msgstr "บางคำสั่งซื้อ ได้ระบุชื่อที่ต้องการให้พิมพ์ลงบนกล่องอยู่แล้ว"
 
 #. Key:	3FAE62124D8E20DA8FAA3C94F418A30C
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(2).Subtitles.Text
@@ -3930,14 +3930,14 @@ msgstr "ให้ไปยังโกดัง เพื่อหยิบก�
 #: /Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(3).Subtitles.Text
 msgctxt ",BE875AE6490A1EA088424993C3217A4A"
 msgid "Then bring it to the labeling machine to assign the correct name."
-msgstr "แล้วเอาไปที่เครื่องพิมพ์ เพื่อพิมพ์ชื่อให้ถูกต้องตามคำสั่งซื้อ"
+msgstr "แล้วนำตู้เข้าไปที่เครื่องพิมพ์ แล้วพิมพ์ชื่อให้ถูกต้องตามคำสั่งซื้อที่ได้รับ"
 
 #. Key:	53D079974D58C0F044AEFCB515E3CB68
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/36.36.Subtitles(4).Subtitles.Text
 msgctxt ",53D079974D58C0F044AEFCB515E3CB68"
 msgid "Make sure everything matches, no typos allowed."
-msgstr "ตรวจสอบให้แน่ใจว่า ทุกอย่างถูกต้อง ไม่พิมพ์ผิด"
+msgstr "ตรวจสอบให้แน่ใจว่า ทุกอย่างถูกต้อง ห้ามพิมพ์ผิด"
 
 #. Key:	232069D64671012C9020B0BC0BA6A6D8
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/37.37.Subtitles(0).Subtitles.Text
@@ -3958,14 +3958,14 @@ msgstr "ไปที่โกดัง ทำการขอกล่อง แ�
 #: /Game/QualityCheck/sounds/tutorialPhrases/37.37.Subtitles(2).Subtitles.Text
 msgctxt ",E503D3DC4775A1DC0BA9E2AE7BE16DD0"
 msgid "Make sure to add protective padding, then send it to production."
-msgstr "อย่าลืมห่อกันกระแทก แล้วส่งไปยังฝ่ายผลิต"
+msgstr "อย่าลืมใส่ห่อพลาสติกกันกระแทก แล้วส่งไปยังฝ่ายผลิต"
 
 #. Key:	12315BF8407364A8D72A8CBA04EC29F4
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(0).Subtitles.Text
 msgctxt ",12315BF8407364A8D72A8CBA04EC29F4"
 msgid "Alright, Operator"
-msgstr "โอเค Operator"
+msgstr "เอาล่ะ Operator"
 
 #. Key:	04CDF18B4D947FF4E1DF98961F5D42E5
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(1).Subtitles.Text
@@ -3986,14 +3986,14 @@ msgstr "ตอนนี้เราได้ติดตั้งแผงจำ
 #: /Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(3).Subtitles.Text
 msgctxt ",EC2ADCF046546F86784CEBB1D600CCE5"
 msgid "You can use it to request products directly, no need to walk to storage every time."
-msgstr "สามารถใช้เพื่อขอสินค้าได้โดยตรง ไม่ต้องเดินไปที่คลังสินค้าทุกครั้ง"
+msgstr "คุณสามารถใช้เพื่อขอสินค้าได้โดยตรงจาก ไม่ต้องเดินไปที่โกดังสินค้าเหมือนทุกครั้ง"
 
 #. Key:	2198B93E4B5CA595CDF790B76C07D7CB
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(4).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(4).Subtitles.Text
 msgctxt ",2198B93E4B5CA595CDF790B76C07D7CB"
 msgid "Unless you enjoy the exercise…"
-msgstr "เว้นแต่ว่าคุณชอบเดินออกกำลังกาย…"
+msgstr "เว้นแต่ว่าคุณชอบเดินออกกำลังกายน่ะ…"
 
 #. Key:	07F0B89040D8219EDDA412842F3C3999
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/38.38.Subtitles(5).Subtitles.Text
@@ -4070,7 +4070,7 @@ msgstr "เอาล่ะ ตุ๊กตาตัวนี้มีบาง�
 #: /Game/QualityCheck/sounds/tutorialPhrases/4.4.Subtitles(1).Subtitles.Text
 msgctxt ",D9AAA851491E73CAC5CBDF84CD4BF6CD"
 msgid "If you look closely, it’s damaged on the back."
-msgstr "ถ้าสังเกตให้ดี มันมีรอยกระแทกด้านหลัง"
+msgstr "ถ้าคุณสังเกตให้ดี จะพบว่า มันมีรอยเปื้อนด้านหลัง"
 
 #. Key:	45F47E71473D7F33DAD4A2BC7B2CE229
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/4.4.Subtitles(2).Subtitles.Text
@@ -4098,14 +4098,14 @@ msgstr "ครั้งนี้ คุณจะต้องตรวจเช�
 #: /Game/QualityCheck/sounds/tutorialPhrases/40.40.Subtitles(2).Subtitles.Text
 msgctxt ",F952946A482C6543BA26689C9CB52FD6"
 msgid "If everything looks good, send it to production"
-msgstr "ถ้าทุกอย่างปกติ ส่งไปฝ่ายผลิต"
+msgstr "ถ้าสินค้าทุกอย่างปกติ ส่งไปยังฝ่ายผลิตได้เลย"
 
 #. Key:	BC5E5F9246CB1DE9B31546A8559FD869
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/40.40.Subtitles(3).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/40.40.Subtitles(3).Subtitles.Text
 msgctxt ",BC5E5F9246CB1DE9B31546A8559FD869"
 msgid "If not, mark the issue and send it for repairs"
-msgstr "ถ้ามีอะไรเสียหาย ให้ระบุข้อเหตุผลแล้วส่งไปซ่อม"
+msgstr "ถ้ามีอะไรเสียหาย ให้ระบุเหตุผลแล้วส่งไปซ่อม"
 
 #. Key:	11A8BF7D4DDAB58E400A109B16801073
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/40.40.Subtitles(4).Subtitles.Text
@@ -4133,7 +4133,7 @@ msgstr "ต้องแน่ใจว่า คุณตรวจสอบส�
 #: /Game/QualityCheck/sounds/tutorialPhrases/41.41.Subtitles(2).Subtitles.Text
 msgctxt ",E12D6DA545E99D6632DE41A7B84C1439"
 msgid "Approved items go out, damaged or incorrect ones come back"
-msgstr "สินค้าที่ได้มาตรฐานก็ส่งออกไป ถ้าเกิดชำรุดเสียหาย ให้นำกลับมาแก้"
+msgstr "สินค้าที่ได้มาตรฐานก็ส่งออกไป ถ้าเกิดชำรุดเสียหาย ให้ส่งไปซ่อม"
 
 #. Key:	45C79FDF43ABCEB60A615E82010EACAA
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/41.41.Subtitles(3).Subtitles.Text
@@ -4154,7 +4154,7 @@ msgstr "วันนี้ เราจะเริ่มทดสอบคว�
 #: /Game/QualityCheck/sounds/tutorialPhrases/42.42.Subtitles(1).Subtitles.Text
 msgctxt ",ED4ACFE94E2FBD137528B59F882C66C5"
 msgid "Inspect products, process orders, and handle returns, all at once"
-msgstr "ทั้งตรวจสอบสินค้า ประมวลผลคำสั่งซื้อ และรับสินค้าคืน พร้อมกัน"
+msgstr "ทั้งตรวจสอบสินค้า ประมวลผลคำสั่งซื้อ และรับสินค้าคืน ไปพร้อม ๆ กัน"
 
 #. Key:	A146816C4303937A564CC885EBD345EF
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/42.42.Subtitles(2).Subtitles.Text
@@ -4280,7 +4280,7 @@ msgstr "คุณผ่านการทดทองงาน 5 วันแร
 #: /Game/QualityCheck/sounds/tutorialPhrases/end.end.Subtitles(2).Subtitles.Text
 msgctxt ",1183B50344E281A6874CB3AAC2572369"
 msgid "Now, review the final product carefully… And ask yourself — are you ready to survive 30 days?"
-msgstr "ในตอนนี้ ขอให้ตรวจสินค้าชิ้นสุดท้ายให้ดี... และถามตัวเองดูว่า — คุณสามารถรับมือกับงานแบบนี้ใน 30 วัน ได้หรือไม่?"
+msgstr "ในตอนนี้ ขอให้ตรวจสินค้าชิ้นสุดท้ายให้ดี... และลองถามตัวเองดูว่า — คุณสามารถรับมือกับงานแบบนี้ใน 30 วัน ได้หรือไม่?"
 
 #. Key:	769D6C624D030E13130876938AAE603D
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/end.end.Subtitles(3).Subtitles.Text
@@ -4420,7 +4420,7 @@ msgstr "คุณถูกจับแล้ว"
 #: /Game/QualityCheck/UI/credits.credits_C:GetText [Script Bytecode]
 msgctxt ",523DD5514E071361BF15418B8D902828"
 msgid "Fortunately, you are now the successful reference model that made it through."
-msgstr "โชคยังเข้าข้าง ที่คุณผ่านช่วงทดลองงานมาได้"
+msgstr "โชคยังเข้าข้าง ที่คุณผ่านช่วงทดลองงานมาได้อย่างมีประสิทธิภาพ"
 
 #. Key:	936BC64F4E040F1D032936852B0C5D3B
 #. SourceLocation:	/Game/QualityCheck/UI/credits.credits_C:GetText [Script Bytecode]
@@ -4483,7 +4483,7 @@ msgstr "วันที่ {day}"
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
 msgctxt ",893AB056448350D850544BB2AAB12261"
 msgid "NONE"
-msgstr "ไม่มี"
+msgstr "ไม่มีรางวัล"
 
 #. Key:	B33CBAD0457DBE23578301B27C778E88
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_10 [Script Bytecode]
@@ -4595,7 +4595,7 @@ msgstr "ตอนนี้คุณต้องตรวจหุ่นยนต
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 msgctxt ",8D8EF40140056CC96A2D85A4AE8C1100"
 msgid "I saw other operators for the first time. Blue took me on a tour through different workstations."
-msgstr "ฉันได้เห็น Operator คนอื่น ๆ เป็นครั้งแรก Blue กำลังพาฉันทัวร์แผนกต่าง ๆ"
+msgstr "ฉันได้เห็น Operator คนอื่น ๆ เป็นครั้งแรก Blue กำลังพาฉันทัวร์แผนกอื่น ๆ"
 
 #. Key:	9BAFE58C4AA258AD473B76B6BE28FF78
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
@@ -4623,7 +4623,7 @@ msgstr "เกิดเรื่องแปลก ๆ ขึ้น — จู�
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 msgctxt ",A8D7CFFD4C2F33C8BCF0A4828D6002BB"
 msgid "It’s been a long day inspecting boxes for cracks or broken glass. Precision matters more than ever."
-msgstr "วันนี้ผ่านการตรวจกล่อง รอยแตก และกระจกร้าวมาทั้งวันแล้ว ความแม่นยำนั้นสำคัญฉไน"
+msgstr "วันนี้ผ่านการตรวจกล่อง รอยแตก และกระจกร้าวมาทั้งวันแล้ว ความแม่นยำนั้นสำคัญฉไนเชียว"
 
 #. Key:	B2F5B4E64F065BB868B9B1B2AC4D8797
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
@@ -4672,7 +4672,7 @@ msgstr "ต้องรวบรวมคำสั่งซื้อ ทั้�
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 msgctxt ",E95499424DD390276D0B5E909E9F3743"
 msgid "Got a new tool: the visual anomaly scanner. My job just got faster — and more dangerous."
-msgstr "อุปกรณ์ชิ้นใหม่ เครื่องสแกนเนอร์ ใช้หาสิ่งผิดติที่ตามองไม่เห็นได้ง่ายขึ้น งานฉันเร็วขึ้นมาด — แล้วก็อันตรายขึ้นตามไปด้วย"
+msgstr "อุปกรณ์ชิ้นใหม่ เครื่องสแกนเนอร์ ใช้หาสิ่งผิดติที่ตามองไม่เห็นได้ง่ายขึ้น งานฉันเร็วขึ้นมาก — แล้วก็อันตรายขึ้นตามไปด้วย"
 
 #. Key:	E99BBB6C4842A2D53CC11DB6F2919CEB
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
@@ -4686,7 +4686,7 @@ msgstr "ฝาก Post-it ในล็อกเกอร์ — เริ่ม�
 #: /Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
 msgctxt ",EC7293844D4B3B77062E669B67B84FD5"
 msgid "Clients are requesting boxes with personalized names. Extra attention needed."
-msgstr "ลูกค้าจะขอชื่อพิมพ์ลงบนกล่อง ต้องระวังให้มากขึ้น"
+msgstr "ลูกค้าบางราย จะขอชื่อพิมพ์ลงบนตู้ตุ๊กตา เราต้องระวังให้มากขึ้น"
 
 #. Key:	F1CBC445448C3F035FCE7DB7746F6E7B
 #. SourceLocation:	/Game/QualityCheck/UI/dayResume.dayResume_C:GetText_11 [Script Bytecode]
@@ -4861,21 +4861,21 @@ msgstr "ในโหมดนี้ คุณสามารถสะสมว�
 #: /Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 msgctxt ",1184F1C941A74FBF8E4F0BACCC7CB62C"
 msgid "In this mode, you’ll play against the clock. You have 3 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
-msgstr "ในโหมดนี้ คุณมีเวลา มี 3 นาที เพื่อทำสินค้าที่ถูกต้องให้ได้มากที่สุด และระวังข้อผิดพลาด ไม่เช่นนั้นจะถูกตัดคะแนน และมีกระดานผู้นำ"
+msgstr "ในโหมดนี้ คุณมีเวลา 3 นาที เพื่อทำสินค้าที่ถูกต้องให้ได้มากที่สุด และระวังข้อผิดพลาด ไม่เช่นนั้นจะถูกตัดคะแนน และมีกระดานผู้นำ"
 
 #. Key:	9AD075424978E03033D799BB29F2E2CC
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_3_ToolTipWidget [Script Bytecode]
 #: /Game/QualityCheck/UI/extras.extras_C:Get_close_3_ToolTipWidget [Script Bytecode]
 msgctxt ",9AD075424978E03033D799BB29F2E2CC"
 msgid "In this mode, you must complete all products on time. Every X seconds, more products will arrive. Your limit is either making mistakes or letting too many products pile up. There's a leaderboard."
-msgstr "ในโหมดนี้ คุณต้องทำสินค้าทุกชิ้นให้เสร็จทันเวลา ทุก X วินาที จะมีสินค้าใหม่เข้ามา อย่าทำผิดพลาดเกินจำนวนที่ตั้งไว้ หรือสินค้ากองกันมากเกินไป มีกระดานผู้นำ"
+msgstr "ในโหมดนี้ คุณต้องทำสินค้าทุกชิ้นให้เสร็จทันเวลา ทุก X วินาที จะมีสินค้าใหม่เข้ามา อย่าทำผิดพลาดเกินจำนวนที่ตั้งไว้ หรือสินค้ากองกันมากเกินไป และมีกระดานผู้นำ"
 
 #. Key:	C286C77C4525E4E32199E2A1BE3AF7D1
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_4_ToolTipWidget [Script Bytecode]
 #: /Game/QualityCheck/UI/extras.extras_C:Get_close_4_ToolTipWidget [Script Bytecode]
 msgctxt ",C286C77C4525E4E32199E2A1BE3AF7D1"
 msgid "In this mode, you'll play endlessly—you can't go back home. Correct actions are cumulative, but if you make a mistake, it's over. There's a leaderboard."
-msgstr "ในโหมดนี้ คุณสามารถเล่นแบบไม่รู้จบ ไม่สามารถกลับบ้านได้ คะแนนที่ถูกต้องจะสะสมไปเรื่อย ๆ แต่ถ้าหากทำพลาดครั้งเดียว ก็จะจบเกมทันที มีกระดานผู้นำ"
+msgstr "ในโหมดนี้ คุณสามารถเล่นแบบไม่รู้จบ ไม่สามารถกลับบ้านได้ คะแนนที่ถูกต้องจะสะสมไปเรื่อย ๆ แต่ถ้าหากทำพลาดครั้งเดียว ก็จะจบเกมทันที และมีกระดานผู้นำ"
 
 #. Key:	A404AA8F42B73EE54F4CCF852C31941A
 #. SourceLocation:	/Game/QualityCheck/UI/fired.fired_C:WidgetTree.TextBlock.Text
@@ -4896,7 +4896,7 @@ msgstr "คุณถูกไล่ออกแล้ว"
 #: /Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_0 [Script Bytecode]
 msgctxt ",275DA14045B4F4A0DA361398BE10F139"
 msgid "Good choices"
-msgstr "เป็นตัวเลือกดี"
+msgstr "เวลาที่เหลือ"
 
 #. Key:	D7C65A2848D650E9E96CF791B543DD1E
 #. SourceLocation:	/Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_0 [Script Bytecode]
@@ -5148,7 +5148,7 @@ msgstr "โต๊ะตั้งพื้น"
 #: /Game/QualityCheck/UI/phoneStore.phoneStore_C:WidgetTree.dollTop1Name_3.Text
 msgctxt ",18D574414C013E79D4EF70834A21336D"
 msgid "Storage upgrade"
-msgstr "อัปเกรด Storage"
+msgstr "อัปเกรดโกดัง"
 
 #. Key:	4BAF51024746C9AB91ED669586A053BB
 #. SourceLocation:	/Game/QualityCheck/UI/phoneStore.phoneStore_C:WidgetTree.dollTop1Name_5.Text
@@ -5414,7 +5414,7 @@ msgstr "มองลง"
 #: /Game/QualityCheck/UI/settings.settings_C:WidgetTree.TextBlock_22.Text
 msgctxt ",C8F05C9640A64BDEEDFF738C5E065267"
 msgid "Crouch"
-msgstr "นั่ง"
+msgstr "ก้ม"
 
 #. Key:	175FDB6245E5ED987CC62684AC5049E4
 #. SourceLocation:	/Game/QualityCheck/UI/settings.settings_C:WidgetTree.TextBlock_23.Text
@@ -5526,7 +5526,7 @@ msgstr "คุณภาพระยะมองเห็น"
 #: /Game/QualityCheck/UI/settings.settings_C:WidgetTree.TextBlock_37.Text
 msgctxt ",FC57D0154C6E70C0D8C839B6EA15B4B1"
 msgid "Graphic Preset"
-msgstr "การตั้งค่าล่วงหน้า กราฟิก"
+msgstr "การตั้งค่ากราฟิกล่วงหน้า"
 
 #. Key:	7EBE45E64B8119C2AA017590BE5B8563
 #. SourceLocation:	/Game/QualityCheck/UI/settings.settings_C:WidgetTree.TextBlock_38.Text
@@ -5659,7 +5659,7 @@ msgstr "ระดับเสียงบรรยากาศ"
 #: /Game/QualityCheck/UI/settings.settings_C:WidgetTree.TextBlock_71.Text
 msgctxt ",4B42EDC74552B167B6C050B42EED7773"
 msgid "Toggle lock"
-msgstr "สลับล็อก"
+msgstr "แตะล็อก"
 
 #. Key:	7826866B435A8EE313772C8979CA261B
 #. SourceLocation:	/Game/QualityCheck/UI/settings.settings_C:WidgetTree.TextBlock_8.Text
@@ -5827,21 +5827,21 @@ msgstr "คำสั่งซื้อ"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_33.Text
 msgctxt ",BEC9B9DD4977AEF7B664F4B372665ABC"
 msgid "Occasionally, dolls emit vibrations or display unusual effects and must be returned. These are generally things we cannot explain."
-msgstr "ในบางครั้ง ตุ๊กตาก็มีอาการสั่น หรือแสดงเอฟเฟกต์แปลก ๆ ต้องทำเรื่องคืน ซึ่งเป็นสิ่งที่ไม่สามารถอธิบายทางวิทยาศาสตร์ได้"
+msgstr "ในบางครั้ง ตุ๊กตาก็มีอาการสั่น หรือแสดงเอฟเฟกต์แปลก ๆ ต้องทำเรื่องส่งไปซ่อม ซึ่งเป็นสิ่งที่ไม่สามารถอธิบายทางวิทยาศาสตร์ได้"
 
 #. Key:	CB3040CB4004F4853746588D57C8DFD7
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_35.Text
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_35.Text
 msgctxt ",CB3040CB4004F4853746588D57C8DFD7"
 msgid "Some products may not show the correct weight. The machine will display red if the weight is incorrect, or green if it is correct."
-msgstr "สินค้าบางชิ้นก็น้ำหนักผิดปกติ เครื่องจะแสดงเป็นสีเขียวถ้าน้ำหนักถูกต้อง แต่ถ้าเป็นสีแดงถ้าน้ำหนักไม่ถูกต้อง"
+msgstr "สินค้าบางชิ้นก็น้ำหนักผิดปกติ เครื่องจะแสดงตัวเลขเป็นสีเขียวถ้าน้ำหนักถูกต้อง แต่ถ้าเป็นสีแดงถ้าน้ำหนักไม่ถูกต้อง"
 
 #. Key:	1C99A750445EB635EA35BFB16AE81FEF
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_36.Text
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_36.Text
 msgctxt ",1C99A750445EB635EA35BFB16AE81FEF"
 msgid "Inconsistent weight"
-msgstr "น้ำหนักไม่สม่ำเสมอ"
+msgstr "น้ำหนักผิดปกติ"
 
 #. Key:	284BFCCD47DC9B610BD9548C36034D04
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_4.Text
@@ -5862,14 +5862,14 @@ msgstr "บางครั้งสินค้าผลิตไม่ได้
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_44.Text
 msgctxt ",2D39DF174B8A73ADBA9F26B815C5075C"
 msgid "Inconsistent pressure"
-msgstr "แรงดันไม่สม่ำเสมอ"
+msgstr "แรงดันผิดปกติ"
 
 #. Key:	3EEFCB494F82C5E2AD364281A63E1AED
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_45.Text
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_45.Text
 msgctxt ",3EEFCB494F82C5E2AD364281A63E1AED"
 msgid "Inconsistent temperature"
-msgstr "อุณหภูมิไม่สม่ำเสมอ"
+msgstr "อุณหภูมิผิดปกติ"
 
 #. Key:	BE5B619F4C625505C86B80BA84E3FB63
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_46.Text
@@ -6303,21 +6303,21 @@ msgstr "ขอกล่อง"
 #: /Game/QualityCheck/UI/tablet/tabletFull.tabletFull_C:WidgetTree.TextBlock_80.Text
 msgctxt ",14DE7A0948B021B6E79F0CBC36D1A7A8"
 msgid "NOT FOUND"
-msgstr "ไม่พบ"
+msgstr "ตรวจไม่พบ"
 
 #. Key:	EAAADA9C4521248125B2129DFBB97B12
 #. SourceLocation:	/Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_22_15_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_22_15_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
 #: /Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_22_15_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_22_15_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
 msgctxt ",EAAADA9C4521248125B2129DFBB97B12"
 msgid "Every bolt in me is designed to stop you. Shall we test it?"
-msgstr "ทุกสลักของฉันถูกออกแบบมาอย่างดีเพื่อสกัดกั้นคุณ อยากทดสอบดูไหมล่ะ?"
+msgstr "ทุกสลักของฉันถูกออกแบบมาอย่างดีเพื่อขัดขวางคุณ อยากทดสอบดูไหมล่ะ?"
 
 #. Key:	0B8ECA1548A1A50D7DD5A2A525B78A77
 #. SourceLocation:	/Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_24_00_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_24_00_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
 #: /Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_24_00_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_24_00_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
 msgctxt ",0B8ECA1548A1A50D7DD5A2A525B78A77"
 msgid "These puppets are my family. I will defend them to my last spark."
-msgstr "หุ่นเหล่านี้ล้วนคือครอบครัวของฉัน ฉันจะต้องปกป้องพวกเขาจนวาระสุดท้าย"
+msgstr "ตุณตุ๊กเหล่านี้ล้วนคือครอบครัวของฉัน ฉันจะต้องปกป้องพวกเขาจนวาระสุดท้าย"
 
 #. Key:	51370A51447DCE61E7FAA18B674D4A89
 #. SourceLocation:	/Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_26_21_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_26_21_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
