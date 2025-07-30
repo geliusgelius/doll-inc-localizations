@@ -122,7 +122,7 @@ msgstr "บาร์โค้ดไม่ถูกต้อง"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
 msgctxt ",4C7713A24AFB6421C4B494AD85808489"
 msgid "Inconsistent glass"
-msgstr "กระจกผิกปกติ"
+msgstr "กระจกผิดปกติ"
 
 #. Key:	535D24D84B69458DD03D798D96B6007A
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_case.qcm_physcs_case_C:ExecuteUbergraph_qcm_physcs_case [Script Bytecode]
@@ -255,14 +255,14 @@ msgstr "บาร์โค้ดไม่ถูกต้อง"
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",71F6E88941938C640D8228BDE5E61725"
 msgid "inconsistent pressure"
-msgstr "แรงดันไม่ปกติ"
+msgstr "แรงดันผิดปกติ"
 
 #. Key:	87BC936647AB5AF3569652990E87D9B5
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 #: /Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:ExecuteUbergraph_qcm_physcs_robot [Script Bytecode]
 msgctxt ",87BC936647AB5AF3569652990E87D9B5"
 msgid "Inconsistent animation"
-msgstr "การเคลื่อนไหวไม่ไม่ปกติ"
+msgstr "การเคลื่อนไหวผิดปกติ"
 
 #. Key:	D37BCC0E40EF4546A93E2D9D388DAF76
 #. SourceLocation:	/Game/QualityCheck/Blueprints/qcm_physcs_robot.qcm_physcs_robot_C:Speak_GEN_VARIABLE.ChildActor1_GEN_VARIABLE_3DKeyShow_C_CAT.description
