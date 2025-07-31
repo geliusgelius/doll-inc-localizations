@@ -4896,7 +4896,7 @@ msgstr "คุณถูกไล่ออกแล้ว"
 #: /Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_0 [Script Bytecode]
 msgctxt ",275DA14045B4F4A0DA361398BE10F139"
 msgid "Good choices"
-msgstr "เวลาที่เหลือ"
+msgstr "คะแนนสะสม"
 
 #. Key:	D7C65A2848D650E9E96CF791B543DD1E
 #. SourceLocation:	/Game/QualityCheck/UI/indicatorValue.indicatorValue_C:GetText_0 [Script Bytecode]
@@ -5792,7 +5792,7 @@ msgstr "บาร์โค้ดที่ระบุสินค้าแต่
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_17.Text
 msgctxt ",B6E1352D4A38AE740E086186DFBCFC34"
 msgid "Incorrect names do not match any existing doll. For example, you might get the name 'Rebecca', but no such doll exists, therefore, the name would be considered incorrect."
-msgstr "ชื่อตุ๊กตาที่ไม่ตรงกับตัวตุ๊กตา ตัวอย่างเช่น 'Rebecca' แต่ไม่มีชื่อของตุ๊กตาในรายชื่อนั้นเลย ก็ถือว่าชื่อนั้นไม่ถูกต้อง"
+msgstr "ชื่อตุ๊กตาที่ไม่ตรงกับตัวตุ๊กตา ตัวอย่างเช่น 'Rebecca' แต่ไม่มีชื่อของตุ๊กตาในรายชื่อนั้นเลย เราก็จะถือว่าชื่อนั้นไม่ถูกต้อง"
 
 #. Key:	34DE1BE04320BA260C3166BB34D20447
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_18.Text
@@ -5813,7 +5813,7 @@ msgstr "หุ่นยนต์"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_28.Text
 msgctxt ",0F5981244991FEC5D4B408BEF03E3249"
 msgid "Sometimes there is no name at all. This cannot be sent to production unless the doll's name is properly written."
-msgstr "บางครั้งก็ไม่มีชื่อปรากฏเลย ก็จะไม่สามารถส่งไปผลิตได้ เว้นแต่ชื่อตุ๊กตาจะเขียนถูกต้องก็ตาม"
+msgstr "บางครั้งก็ไม่มีชื่อปรากฏบนตู้ตุ๊กตาเลย ก็จะไม่สามารถส่งไปผลิตได้ แม้ว่าชื่อตุ๊กตาจะเขียนถูกต้องก็ตาม"
 
 #. Key:	0BAC0324446F50640529EE9ADB8A7332
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_3.Text
@@ -5855,7 +5855,7 @@ msgstr "การคืนสินค้า"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_41.Text
 msgctxt ",6D0331AA42BA47EE5C1D1F8459610A44"
 msgid "Sometimes products are poorly manufactured and cannot withstand acceptable pressure levels, which may lead to damage or even sudden explosions."
-msgstr "บางครั้งสินค้าผลิตไม่ได้มาตรฐาน ไม่สามารถปรับแรงดันได้ อาจทำให้เสียหายหรือเกิดการระเบิดได้"
+msgstr "บางครั้งสินค้าผลิตไม่ได้มาตรฐาน แรงดันของสินค้าไม่สม่ำเสมอ อาจทำให้เสียหายหรือเกิดการระเบิดได้"
 
 #. Key:	2D39DF174B8A73ADBA9F26B815C5075C
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_44.Text
@@ -5876,7 +5876,7 @@ msgstr "อุณหภูมิผิดปกติ"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_46.Text
 msgctxt ",BE5B619F4C625505C86B80BA84E3FB63"
 msgid "Sometimes the temperatures are not correct, which may indicate an internal issue or a flaw in the product's formation. In any case, it must be sent for repair, as this can lead to product breakage or even fire."
-msgstr "บางครั้งอุณหภูมิไม่ถูกต้อง อาจจะเกิดปัญหาในขั้นตอนการผลิตที่ไม่ถูกต้อง ต้องส่งไปซ่อม เพราะไม่เช่นนั้นสินค้าจะเกิดการชำรุดหรือไฟลุกได้"
+msgstr "บางครั้งอุณหภูมิไม่ถูกต้อง อาจจะเกิดปัญหาในขั้นตอนการผลิตที่ไม่ถูกต้อง ต้องส่งไปซ่อม เพราะไม่เช่นนั้นสินค้าจะเกิดการชำรุดหรือเกิดไฟลุกได้"
 
 #. Key:	C14C0086490CE5C48C9A4BA7E4110DA7
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_49.Text
@@ -5939,7 +5939,7 @@ msgstr "วัตถุแปลกปลอม"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_62.Text
 msgctxt ",F15016A041CD9D7B19DFBAB8214BFC3E"
 msgid "Sometimes operators leave personal items inside the cases, such as scissors or similar objects. When this happens, the product becomes contaminated."
-msgstr "ในบางครั้ง operator เผลอทิ้งของส่วนตัวในกล่อง ไม่ว่าจะเป็น กรรไกร หรือวัตถุที่มีลักษณะคล้ายกัน จะทำให้เป็นสินค้าอันตรายทันที"
+msgstr "ในบางครั้ง operator เผลอทิ้งของส่วนตัวในกล่อง ไม่ว่าจะเป็น กรรไกร หรือวัตถุที่มีลักษณะคล้ายกัน ถ้าเกิดเหตุการณ์เช่นนี้ ต้องนำไปซ่อม ไม่เช่นนั้นอาจจะทำให้เป็นสินค้าอันตรายทันที"
 
 #. Key:	26EFFF51433886C469456EBCA50AF5CC
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_63.Text
@@ -5953,14 +5953,14 @@ msgstr "ประตูผิดปกติ"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_64.Text
 msgctxt ",1FD1247C47B949CF71877CBEC82C39F7"
 msgid "Sometimes the door may get stuck, break, or even have shattered glass. In any case, its important to include this as a reason for repair if the issue affects only the door."
-msgstr "บางครั้งประตูติดขัด หายไป หรือกระจกแตก เราต้องระบุเหตุผลการซ่อมที่เกี่ยวกับประตูเท่านั้น"
+msgstr "บางครั้งประตูติดขัด เปิดไม่ได้ ไม่มีประตู หรือแม้แต่ประตูกระจกแตก เราต้องระบุเหตุผลการซ่อมที่เกี่ยวกับประตูเท่านั้น"
 
 #. Key:	68FFEBA345122B92688AEBA928006FB4
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_65.Text
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_65.Text
 msgctxt ",68FFEBA345122B92688AEBA928006FB4"
 msgid "Sometimes the installed lock is simply broken and must be sent for repair."
-msgstr "บางครั้งตัวล็อกเสีย หรือแตกหัก ต้องส่งไปซ่อม"
+msgstr "บางครั้งตัวล็อกเสีย ล็อกไม่ได้ หรือแตกหัก ต้องส่งไปซ่อม"
 
 #. Key:	77394F48428F97F9BBFB1A8ED5ECEA52
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_66.Text
@@ -5988,7 +5988,7 @@ msgstr "บางครั้ง operator ลืมติดตั้งปร�
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_69.Text
 msgctxt ",5A1D70FB4C59D136602F77859F07E1EB"
 msgid "Sometimes operators forget to install the door lock. This is also a mandatory requirement and must be corrected."
-msgstr "บางครั้ง operator ลืมติดตัวล็อกประตู นี่คือกฏเหล็กที่ต้องปฏิบัติตาม ต้องส่งไปซ่อมทันที"
+msgstr "บางครั้ง operator ลืมติดตัวล็อกประตู นี่คือกฏเหล็กที่ต้องปฏิบัติตามอย่างเคร่งครัด ต้องส่งไปซ่อมทันที"
 
 #. Key:	75B9757845FF6D37C2814DBBF46DDFBD
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_7.Text
@@ -6023,7 +6023,7 @@ msgstr "ความไม่สม่ำเสมอของหุ่นยน
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_73.Text
 msgctxt ",AB66444A43A43C56BD4B3A8CEE9FE203"
 msgid "Inconsistent animation: Sometimes the robot doesn't perform its animation. This could be due to an electronic or mechanical failure, or perhaps a missing battery. In any case, send it for repair."
-msgstr "แอนิเมชันไม่สม่ำเสมอ: บางครั้งหุ่นยนต์เปิดไม่ติด อาจเป็นเพราะระบบไฟฟ้า เครื่องยนต์ขัดข้อง หรือแบตเตอรี่หมด ต้องส่งไปซ่อม"
+msgstr "แอนิเมชันไม่สม่ำเสมอ: บางครั้งหุ่นยนต์เปิดไม่ติด อาจเกิดจากระบบไฟฟ้า เครื่องยนต์ขัดข้อง หรือแบตเตอรี่หมด ต้องส่งไปซ่อม"
 
 #. Key:	6D1A65D1482488810CCD058B265D19AD
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_75.Text
@@ -6037,7 +6037,7 @@ msgstr "เสียงผิดปกติ"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_76.Text
 msgctxt ",32776E164A17D027CF5222B6F13FC03A"
 msgid "Sometimes robots do not have the voices they should. Its important to check a few examples of good and bad audio to verify this."
-msgstr "บางครั้งคุณภาพเสียงหุ่นยนต์ไม่ดีเท่าที่ควร โปรดตรวจสอบตัวอย่างเสียงปกติ และผิดปกติเพื่อยืนยันความถูกต้อง"
+msgstr "ในบางครั้งคุณภาพเสียงหุ่นยนต์ไม่ดี หรือเสียงไม่ถูกต้องเท่าที่ควรเป็น โปรดตรวจสอบตัวอย่างเสียงปกติ และผิดปกติเพื่อยืนยันความถูกต้อง"
 
 #. Key:	E616746F455A7A341FBB98AE42D76BDA
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_77.Text
@@ -6065,14 +6065,14 @@ msgstr "กลับ"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_81.Text
 msgctxt ",8808835E4528D06C10DA9D9CAA57A39A"
 msgid "This tool will help you check the products directly by scanning their barcodes."
-msgstr "เครื่องมือนี้ช่วยตรวจสอบสินค้าด้วยการสแกนบาร์โค้ด"
+msgstr "เครื่องมือนี้ช่วยตรวจสอบสินค้าด้วยการสแกนบาร์โค้ด เพื่อเช็คความถูกต้องของรหัสสินค้า"
 
 #. Key:	2C13E2644E3D361CE3CDAA90499A61D3
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_83.Text
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_83.Text
 msgctxt ",2C13E2644E3D361CE3CDAA90499A61D3"
 msgid "This tool will help you detect visual flaws without the need to pay close attention."
-msgstr "เครื่องมือนี้ช่วยตรวจความละเอียดในส่วนที่ตาเปล่ามองไม่เห็น"
+msgstr "เครื่องมือนี้ช่วยตรวจความละเอียดระดับสูง ในส่วนที่ตาเปล่าไม่สามารถมองเห็นได้"
 
 #. Key:	E8888B4B4C866E73E04B2E8D14A1B276
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_84.Text
@@ -6086,14 +6086,14 @@ msgstr "เทอร์โมมิเตอร์"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_85.Text
 msgctxt ",8505177D457AE2FC66D2D395E6F7A5F1"
 msgid "This tool will help you identify the temperature of each product. If its green, it means its correct; if its red, its incorrect."
-msgstr "เครื่องมือนี้ช่วยวัดอุณหภูมิของสินค้า ถ้าถูกต้องจะขึ้นสีเขียว ถ้าไม่ถูกต้องจะขึ้นสีแดง"
+msgstr "เครื่องมือนี้ช่วยวัดอุณหภูมิของสินค้า สินค้าที่มีอุณหภูมิได้มาตรฐานและสมดุลกัน จะขึ้นตัวเลขสีเขียว ถ้าหากอุณหภูมิสูงเกินไป จะขึ้นตัวเลขสีแดง"
 
 #. Key:	B60615F04466A58C25CE04B03E97F012
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_86.Text
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_86.Text
 msgctxt ",B60615F04466A58C25CE04B03E97F012"
 msgid "This tool will help you check the weight of the products. If its green, it means its correct; if its red, its incorrect."
-msgstr "เครื่องมือนี้ช่วยตรวจน้ำหนักสินค้า ถ้าถูกต้องจะขึ้นสีเขียว ถ้าไม่ถูกต้องจะขึ้นสีแดง"
+msgstr "เครื่องมือนี้ช่วยตรวจน้ำหนักสินค้า สินค้าที่น้ำหนักได้มาตรฐานและสมดุลกัน จะขึ้นตัวเลขสีเขียว ถ้าหากน้ำหนักสินค้าเกินมาตรฐาน จะขึ้นตัวเลขสีแดง"
 
 #. Key:	BAFAB3024CFC529BCB3E3D956DB95FED
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_87.Text
@@ -6114,7 +6114,7 @@ msgstr "แรงดัน"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_89.Text
 msgctxt ",7FA4EBE94A5958C44DB31F98E8EF8FD2"
 msgid "This tool will help you check the pressure of the products. If its green, it means its correct; if its red, its incorrect."
-msgstr "เครื่องมือนี้ช่วยตรวจแรงดันสินค้า ถ้าถูกต้องจะขึ้นสีเขียว ถ้าไม่ถูกต้องจะขึ้นสีแดง"
+msgstr "เครื่องมือนี้ช่วยตรวจแรงดันของสินค้า สินค้าที่มีแรงดันได้มาตรฐานและสมดุลกัน จะขึ้นตัวเลขสีเขียว ถ้าหากแรงดันมากเกินไป จะขึ้นตัวเลขสีแดง"
 
 #. Key:	920277D14E5D3F676D8D4B8996A1B310
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_90.Text
@@ -6142,7 +6142,7 @@ msgstr "ห่อกันกระแทก"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_93.Text
 msgctxt ",F75CC3D74B0DD79EF6F6039646E1BC98"
 msgid "This tool will help you wrap the orders to protect them from impacts."
-msgstr "เครื่องมือนี้ช่วยห่อสินค้า เพื่อป้องกันแรงกระแทก"
+msgstr "วัสดุนี้ช่วยห่อสินค้าให้แน่นหนา เพื่อป้องกันแรงกระแทกจากการขนส่ง"
 
 #. Key:	3D24416C484990E7213B3189DF9920CD
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_95.Text
@@ -6170,7 +6170,7 @@ msgstr "กล่อง"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_99.Text
 msgctxt ",E58BBF124CCD48325BD89E9B7D7ADC3F"
 msgid "Request a box from the panel and use it to store products."
-msgstr "ขอกล่องจากแผงเพื่อใช้บรรจุสินค้า"
+msgstr "ขอกล่องบรรจุภัณฑ์จากแผงเพื่อใช้บรรจุสินค้า"
 
 #. Key:	B25BD16C47AEC27EDC7B588B23D5062D
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/anomalyStatus.anomalyStatus_C:GetText [Script Bytecode]
@@ -6240,7 +6240,7 @@ msgstr "บาร์โค้ดไม่ถูกต้อง"
 #: /Game/QualityCheck/UI/tablet/RepairReason.Default__RepairReason_C.reasons(13).reasons
 msgctxt ",0CC26CBA406AFDBBE3383EBBE358E8E7"
 msgid "Missing slider lock"
-msgstr "ขาดตัวล็อกเลื่อน"
+msgstr "ไม่มีตัวล็อกเลื่อน"
 
 #. Key:	198B2446451863F0FF59A7A8137CB6C4
 #. SourceLocation:	/Game/QualityCheck/UI/tablet/RepairReason.Default__RepairReason_C.reasons(5).reasons
@@ -6317,21 +6317,21 @@ msgstr "ทุกสลักของฉันถูกออกแบบมา
 #: /Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_24_00_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_24_00_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
 msgctxt ",0B8ECA1548A1A50D7DD5A2A525B78A77"
 msgid "These puppets are my family. I will defend them to my last spark."
-msgstr "ตุณตุ๊กเหล่านี้ล้วนคือครอบครัวของฉัน ฉันจะต้องปกป้องพวกเขาจนวาระสุดท้าย"
+msgstr "ตุ๊กตาเหล่านี้คือครอบครัวของฉัน ฉันจะต้องปกป้องพวกเขาจนวาระสุดท้าย"
 
 #. Key:	51370A51447DCE61E7FAA18B674D4A89
 #. SourceLocation:	/Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_26_21_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_26_21_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
 #: /Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_26_21_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_26_21_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
 msgctxt ",51370A51447DCE61E7FAA18B674D4A89"
 msgid "I am not just a guardian... I am judgment incarnate."
-msgstr "ฉันไม่ใช่เพียงแค่ผู้ดูแล... ฉันเกิดมาเพื่อตัดสินพวกคุณ"
+msgstr "ฉันไม่ใช่เพียงแค่ผู้ดูแล... ฉันเกิดมาเพื่อลงทัณฑ์พวกแก"
 
 #. Key:	AA66B37445643F97CBD5B7A1E436E745
 #. SourceLocation:	/Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_38_15_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_38_15_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
 #: /Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_38_15_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_38_15_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
 msgctxt ",AA66B37445643F97CBD5B7A1E436E745"
 msgid "My eyes see all. My gears never rest. You cannot hide."
-msgstr "สายตาฉันมองเห็นทุกอย่าง ชุดเกียร์ฉันไม่เคยหยุด คุณหนีไม่พ้นหรอก"
+msgstr "สายตาฉันมองเห็นทุกอย่าง เกียร์ของฉันไม่เคยหยุด คุณหนีไม่พ้นหรอก"
 
 #. Key:	BBB76C024CA5263E3D8EDABB2755C884
 #. SourceLocation:	/Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_40_01_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_40_01_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
@@ -6345,11 +6345,11 @@ msgstr "พวกมันเปราะบาง แต่มันไม่�
 #: /Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_41_11_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_41_11_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
 msgctxt ",C0FE33D440AB1D20AEC99FA168B44416"
 msgid "Behind me, they are safe. Cross me, and you will regret it."
-msgstr "เดินผ่านหลังฉันคุณปลอดภัย แต่ถ้าผ่านหน้าฉันเมื่อไร คุณจะต้องเสียใจแน่"
+msgstr "แม้ว่าเดินผ่านหลังฉัน คุณยังปลอดภัย แต่ถ้าผ่านหน้าฉันเมื่อไร คุณจะต้องเสียใจ"
 
 #. Key:	C9773D0C4FDD013222645395030DB920
 #. SourceLocation:	/Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_42_43_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_42_43_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
 #: /Game/sounds/puppetSound/ElevenLabs_2025-01-10T20_42_43_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.ElevenLabs_2025-01-10T20_42_43_Voice_steampunk_female_gen_s50_sb75_se0_b_m2.Subtitles(0).Subtitles.Text
 msgctxt ",C9773D0C4FDD013222645395030DB920"
 msgid "They are the creators’ masterpieces. You are nothing but a mistake."
-msgstr "พวกมันเป็นผลงานชิ้นเอก คุณไม่มีอะไรเลย นอกจากความผิดพลาด"
+msgstr "นั่นคือผลงานชิ้นเอก แต่คุณไม่มีอะไรเลย นอกจากความผิดพลาด"
