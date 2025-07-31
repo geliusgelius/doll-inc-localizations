@@ -4860,8 +4860,8 @@ msgstr "このモードは無限に日数を積み重ねる。いつでも去れ
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 #: /Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 msgctxt ",1184F1C941A74FBF8E4F0BACCC7CB62C"
-msgid "In this mode, you’ll play against the clock. You have 3 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
-msgstr "このモードはタイムアタック。3分でできるだけ多くの製品を正確に処理。ミスは最終スコアに影響、リーダーボードあり"
+msgid "In this mode, you’ll play against the clock. You have 5 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
+msgstr "このモードはタイムアタック。5分でできるだけ多くの製品を正確に処理。ミスは最終スコアに影響、リーダーボードあり"
 
 #. Key:	9AD075424978E03033D799BB29F2E2CC
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_3_ToolTipWidget [Script Bytecode]

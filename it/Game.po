@@ -4860,8 +4860,8 @@ msgstr "In questa modalità accumulerai giorni all’infinito. Puoi lasciare e t
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 #: /Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 msgctxt ",1184F1C941A74FBF8E4F0BACCC7CB62C"
-msgid "In this mode, you’ll play against the clock. You have 3 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
-msgstr "In questa modalità giocherai contro il tempo. Hai 3 minuti per completare più prodotti positivi possibili. Attenzione: gli errori ridurranno il punteggio finale, e c’è una classifica."
+msgid "In this mode, you’ll play against the clock. You have 5 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
+msgstr "In questa modalità giocherai contro il tempo. Hai 5 minuti per completare più prodotti positivi possibili. Attenzione: gli errori ridurranno il punteggio finale, e c’è una classifica."
 
 #. Key:	9AD075424978E03033D799BB29F2E2CC
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_3_ToolTipWidget [Script Bytecode]

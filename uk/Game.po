@@ -4860,8 +4860,8 @@ msgstr "У цьому режимі ти нескінченно накопичу�
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 #: /Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 msgctxt ",1184F1C941A74FBF8E4F0BACCC7CB62C"
-msgid "In this mode, you’ll play against the clock. You have 3 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
-msgstr "У цьому режимі ти граєш проти таймера. 3 хвилини на якомога більше позитивних товарів. Помилки знижують оцінку, є рейтинг."
+msgid "In this mode, you’ll play against the clock. You have 5 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
+msgstr "У цьому режимі ти граєш проти таймера. 5 хвилини на якомога більше позитивних товарів. Помилки знижують оцінку, є рейтинг."
 
 #. Key:	9AD075424978E03033D799BB29F2E2CC
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_3_ToolTipWidget [Script Bytecode]

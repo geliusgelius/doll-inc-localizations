@@ -4860,8 +4860,8 @@ msgstr "在此模式下，你将无限累积天数。随时可离开再回来；
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 #: /Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 msgctxt ",1184F1C941A74FBF8E4F0BACCC7CB62C"
-msgid "In this mode, you’ll play against the clock. You have 3 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
-msgstr "在此模式下，你将与时间赛跑。3分钟内完成尽可能多的合格产品。注意——失误会降低最终得分。有排行榜。"
+msgid "In this mode, you’ll play against the clock. You have 5 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
+msgstr "在此模式下，你将与时间赛跑。5分钟内完成尽可能多的合格产品。注意——失误会降低最终得分。有排行榜。"
 
 #. Key:	9AD075424978E03033D799BB29F2E2CC
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_3_ToolTipWidget [Script Bytecode]

@@ -4860,8 +4860,8 @@ msgstr "ในโหมดนี้ คุณสามารถสะสมว�
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 #: /Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 msgctxt ",1184F1C941A74FBF8E4F0BACCC7CB62C"
-msgid "In this mode, you’ll play against the clock. You have 3 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
-msgstr "ในโหมดนี้ คุณมีเวลา 3 นาที เพื่อทำสินค้าที่ถูกต้องให้ได้มากที่สุด และระวังข้อผิดพลาด ไม่เช่นนั้นจะถูกตัดคะแนน และมีกระดานผู้นำ"
+msgid "In this mode, you’ll play against the clock. You have 5 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
+msgstr "ในโหมดนี้ คุณมีเวลา 5 นาที เพื่อทำสินค้าที่ถูกต้องให้ได้มากที่สุด และระวังข้อผิดพลาด ไม่เช่นนั้นจะถูกตัดคะแนน และมีกระดานผู้นำ"
 
 #. Key:	9AD075424978E03033D799BB29F2E2CC
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_3_ToolTipWidget [Script Bytecode]

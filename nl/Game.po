@@ -4860,8 +4860,8 @@ msgstr "In deze modus verzamel je oneindig dagen. Je kunt op elk moment stoppen 
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 #: /Game/QualityCheck/UI/extras.extras_C:Get_close_2_ToolTipWidget [Script Bytecode]
 msgctxt ",1184F1C941A74FBF8E4F0BACCC7CB62C"
-msgid "In this mode, you’ll play against the clock. You have 3 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
-msgstr "In deze modus speel je tegen de klok. Je hebt 3 minuten om zoveel mogelijk positieve producten te voltooien. Pas op—fouten verlagen je eindscore, en er is een ranglijst."
+msgid "In this mode, you’ll play against the clock. You have 5 minutes to complete as many positive products as possible. Be careful—mistakes will reduce your final score, and there’s a leaderboard."
+msgstr "In deze modus speel je tegen de klok. Je hebt 5 minuten om zoveel mogelijk positieve producten te voltooien. Pas op—fouten verlagen je eindscore, en er is een ranglijst."
 
 #. Key:	9AD075424978E03033D799BB29F2E2CC
 #. SourceLocation:	/Game/QualityCheck/UI/extras.extras_C:Get_close_3_ToolTipWidget [Script Bytecode]
